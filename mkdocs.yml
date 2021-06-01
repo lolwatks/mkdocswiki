@@ -1,0 +1,98 @@
+---
+# the name of our website
+site_name: India Investments Wiki
+
+# enable "edit this page" feature and link to our github repo
+repo_url: https://github.com/indiainvestments/mkdocswiki
+
+# the label of the GitHub button
+repo_name: "India Investments Wiki"
+
+# we can hide the edit button if we want
+# edit_uri:
+
+# other useful parameters to add info in meta tags
+# site_description:
+# site_author:
+# copyright:
+
+# in case we need GA
+# google_analytics:
+#   - UA-XXXXXXXX-X
+#   - auto
+
+# if we omit nav, mkdocs will automatically create a navigation section for us
+# which will be alphanumerically sorted. I guess we'd want our own nav
+# organization. But do we want to maintain our own nav structure?
+# nav:
+#   - Introduction: index.md
+#   - "Disclaimers and Disclosures": disclaimers-and-disclosures.md
+
+# we can prebuild the search index for better search performance at the cost of
+# more bandwidth consumption
+plugins:
+  - git-revision-date-localized:
+      enable_creation_date: true
+  - search:
+      prebuild_index: true
+
+theme:
+  name: material
+  # unable to figure out how to customize themes using custom_dir — activating
+  # it gives me a 404 error :(
+  # custom_dir: overrides
+  logo: images/logo.png
+  favicon: images/favicon.ico
+  features:
+    - navigation.instant
+    - navigation.sections
+    - navigation.top
+    - header.autohide
+  # use google fonts — not sure if we're okay with this. Should we simply
+  # fallback to system fonts? A consistent font experience sounds nice though.
+  font:
+    text: Inter
+    code: Fira Code
+  icon:
+    repo: fontawesome/brands/github
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/weather-sunny
+        name: Dark Mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: black
+      accent: indigo
+      toggle:
+        icon: material/weather-night
+        name: Light Mode
+
+# we can use these extensions
+# https://python-markdown.github.io/extensions/
+# https://github.com/Python-Markdown/markdown/wiki/Third-Party-Extensions
+markdown_extensions:
+  - sane_lists
+  - toc:
+      permalink: "#"
+      toc_depth: 3
+
+extra:
+  social:
+    - icon: fontawesome/brands/reddit
+      link: https://www.reddit.com/r/IndiaInvestments/
+      name: IndiaInvestments on Reddit
+    - icon: fontawesome/brands/discord
+      link: https://discord.gg/hqBNg4u
+      name: IndiaInvestments on Discord
+    - icon: fontawesome/brands/github
+      link: https://github.com/indiainvestments
+      name: IndiaInvestments on GitHub
+    - icon: fontawesome/regular/envelope
+      link: mailto:hello@indiainvestments.wiki
+      name: Send a Mail to IndiaInvestments
+
+copyright: "&copy; Licensed Under <a href=https://creativecommons.org/licenses/by-nc/4.0/>CC BY-NC 4.0</a>"
