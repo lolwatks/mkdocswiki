@@ -6,12 +6,29 @@ on:
     branches:
       - master
 
+# we'll probably switch to using a scheduled job unless we find a way to run
+# this job when a commit/release is made on the indiainvestments/content repo
+
+# we'll run this everyday at midnight on fri, sat, and sun since we get higher
+# traffic at the time
+
+# on:
+#   schedule:
+#     - cron: '0 0 * * 5,6,0'
+
 jobs:
   deploy:
     runs-on: ubuntu-latest
     steps:
-      - name: checkout git repo
+      - name: checkout the gitbook repo
         uses: actions/checkout@v2
+        with:
+          repository: indiainvestments/content
+          path: gitbookwiki
+      - name: checkout the mkdocs repo
+        uses: actions/checkout@v2
+        with:
+          path: mkdocswiki
       - name: setup python
         uses: actions/setup-python@v2
         with:
@@ -20,17 +37,44 @@ jobs:
         run: >-
           python -m pip install --upgrade pip mkdocs-material
           mkdocs-git-revision-date-localized-plugin
+      - name: copy over content from gitbook to mkdocs
+        run: |
+          cp -f gitbookwiki/README.md mkdocswiki/docs/index.md
+          cp -f gitbookwiki/disclaimers-and-disclosures.md mkdocswiki/docs/disclaimers-and-disclosures.md
+          rsync -Pra --delete gitbookwiki/bonds/ mkdocswiki/docs/bonds
+          rsync -Pra --delete gitbookwiki/contributors/ mkdocswiki/docs/contributors
+          rsync -Pra --delete gitbookwiki/discord/ mkdocswiki/docs/discord
+          rsync -Pra --delete gitbookwiki/excel/ mkdocswiki/docs/excel
+          rsync -Pra --delete gitbookwiki/faqs/ mkdocswiki/docs/faqs
+          rsync -Pra --delete gitbookwiki/how-to/ mkdocswiki/docs/how-to
+          rsync -Pra --delete gitbookwiki/misc/ mkdocswiki/docs/misc
+          rsync -Pra --delete gitbookwiki/start-here/ mkdocswiki/docs/start-here
+          rsync -Pra --delete gitbookwiki/stocks/ mkdocswiki/docs/stocks
+          rsync -Pra --delete gitbookwiki/.gitbook/assets/*.png mkdocswiki/docs/images
+          rsync -Pra --delete gitbookwiki/.gitbook/assets/*.jpeg mkdocswiki/docs/images
+          rsync -Pra --delete gitbookwiki/.gitbook/assets/*.csv mkdocswiki/docs/files
       - name: deploy pandoc to convert gitbook markdown to mkdocs markdown
         uses: docker://pandoc/core:2.14.0.1
         with:
           entrypoint: /bin/sh
-          args: -c "find docs/ -name '*.md' -type f -exec pandoc --wrap=preserve -s -f markdown -t markdown_strict+yaml_metadata_block+pipe_tables+tex_math_dollars {} -o {}  \;"
+          args: >-
+            -c "find mkdocswiki/docs/ -name '*.md' -type f -exec pandoc
+            --wrap=preserve -s -f markdown-smart
+            -t markdown_strict+yaml_metadata_block+pipe_tables+tex_math_dollars
+            {} -o {} \;"
+      - name: use sed operations to convert gitbook markdown to mkdocs markdown
+        run: |
+          find mkdocswiki/docs -name "*.md" -type f -exec mkdocswiki/docs/files/sedops spaces {} \;
+          find mkdocswiki/docs -name "*.md" -type f -exec mkdocswiki/docs/files/sedops endhint {} \;
+          find mkdocswiki/docs -name "*.md" -type f -exec mkdocswiki/docs/files/sedops replace {} \;
       - name: add the changes to git, commit them, and push
         run: |
-          git config user.name github-actions
-          git config user.email github-actions@github.com
-          git add -u
-          git commit -m "markdown sanitized"
-          git push origin master
+          git --work-tree=mkdocswiki/ --git-dir=mkdocswiki/.git/ config user.name github-actions
+          git --work-tree=mkdocswiki/ --git-dir=mkdocswiki/.git/ config user.email github-actions@github.com
+          git --work-tree=mkdocswiki/ --git-dir=mkdocswiki/.git/ add -A
+          git --work-tree=mkdocswiki/ --git-dir=mkdocswiki/.git/ commit -m "markdown sanitized"
+          git --work-tree=mkdocswiki/ --git-dir=mkdocswiki/.git/ push origin master
       - name: deploy mkdocs in gh-pages
-        run: mkdocs gh-deploy --force
+        run: |
+          cd mkdocswiki/
+          mkdocs gh-deploy --force

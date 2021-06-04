@@ -1,0 +1,45 @@
+#!/bin/sh
+
+# remove the newline left by pandoc after {% hint style ...}
+# sed -i '/{% hint.*/{n;d}' "$1"
+
+# move {% endhint %} to a new line
+# sed -i 's/{% endhint.*/\n&/' "$1"
+
+# prefix 4 spaces to the lines between hint patterns
+hintspaces() {
+  sed '                                                                                          
+        /{% hint.*/,/{% endhint*/ {                                               
+            /{% hint.*/n                                                          
+            /{% endhint.*/ ! {                                                                 
+                s/^/    /g                                                                     
+            }                                                                                  
+        }                                                                                     
+' -i "$@"
+}
+
+# remove the endhint tag
+delendhint() {
+  sed -i '/^{% endhint %}/ d' "$@"
+}
+
+# replace the {% hint style ...} tag with respective mkdocs admonition
+replacehints() {
+  sed -i 's/{% hint style="success".*/???+ success/' "$@"
+  sed -i 's/{% hint style="info".*/???+ info/' "$@"
+  sed -i 's/{% hint style="warning".*/???+ warning/' "$@"
+  sed -i 's/{% hint style="danger".*/???+ danger/' "$@"
+}
+
+command="$1"
+shift
+
+case "$command" in
+  spaces) hintspaces "$@" ;;
+  endhint) delendhint "$@" ;;
+  replace) replacehints "$@" ;;
+  *)
+    printf '%s\n' 'Usage: sedops spaces|endhint|replace' >&2
+    exit 1
+    ;;
+esac

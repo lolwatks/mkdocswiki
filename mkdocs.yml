@@ -79,6 +79,9 @@ markdown_extensions:
   - toc:
       permalink: "#"
       toc_depth: 3
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
 
 extra:
   social:
@@ -95,4 +98,7 @@ extra:
       link: mailto:hello@indiainvestments.wiki
       name: Send a Mail to IndiaInvestments
 
-copyright: "&copy; Licensed Under <a href=https://creativecommons.org/licenses/by-nc/4.0/>CC BY-NC 4.0</a>"
+copyright: >-
+  "&copy; Licensed Under
+  <a href=https://creativecommons.org/licenses/by-nc/4.0/>
+  CC BY-NC 4.0</a>"
