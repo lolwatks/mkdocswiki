@@ -26,7 +26,7 @@ jobs:
           entrypoint: /bin/sh
           args: -c "find docs/ -name '*.md' -type f -exec pandoc --wrap=preserve -s -f markdown -t markdown_strict+yaml_metadata_block+pipe_tables+tex_math_dollars {} -o {}  \;"
       - name: add the changes to git, commit them, and push
-        run: >-
+        run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add -u
