@@ -25,9 +25,9 @@ jobs:
         with:
           entrypoint: /bin/sh
           args: >-
-            -c 'for f in $(find docs/ -name "*.md" -type f);
-            do pandoc --wrap=preserve -f markdown
-            -t markdown_strict+yaml_metadata_block+pipe_tables+tex_math_dollars
+            -c 'for f in $(find docs/ -name "*.md" -type f); \
+            do pandoc --wrap=preserve -f markdown \
+            -t markdown_strict+yaml_metadata_block+pipe_tables+tex_math_dollars \
             -s ${f} -o ${f}; done'
       - name: add the changes to git, commit them, and push
         run: >-
