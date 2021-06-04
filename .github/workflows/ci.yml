@@ -21,15 +21,15 @@ jobs:
           python -m pip install --upgrade pip mkdocs-material
           mkdocs-git-revision-date-localized-plugin
       - name: deploy pandoc to convert gitbook markdown to mkdocs markdown
-        uses: docker://pandoc/core:2.14
+        uses: docker://pandoc/core:2.14.0.1
         with:
           entrypoint: /bin/sh
           args: >-
-            -c "find docs/ -name '*.md' -type f
-            -exec sh -c 'pandoc –wrap=preserve -f markdown
+            -c 'for f in $(find docs/ -name "*.md" -type f);
+            do pandoc --wrap=preserve -f markdown
             -t markdown_strict+yaml_metadata_block+pipe_tables+tex_math_dollars
-            -s $0 -o $0' {} ;"
-      - name: add the changes to git, commit, and push
+            -s "$f" -o "$f"; done'
+      - name: add the changes to git, commit them, and push
         run: >-
           git config user.name github-actions
           git config user.email github-actions@github.com
