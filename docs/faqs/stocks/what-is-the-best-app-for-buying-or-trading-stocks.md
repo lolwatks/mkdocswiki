@@ -1,5 +1,5 @@
 ---
-description: Pick a discount broker you’re comfortable with, as per your investment style and functionality requirements
+description: Pick a discount broker you're comfortable with, as per your investment style and functionality requirements
 ---
 
 # What is the best app for buying or trading stocks?
@@ -8,7 +8,7 @@ description: Pick a discount broker you’re comfortable with, as per your inves
 
 In India, there are plenty of small and big brokerage platforms available to you, that let you open trading and demat accounts for equity, bonds, ETFs (**E**xchange **T**raded **F**und), commodities etc.
 
-Read this to get an overview of features / functionality of popular brokerage services, and the costs you’d be incurring if you were to go with one of these.
+Read this to get an overview of features / functionality of popular brokerage services, and the costs you'd be incurring if you were to go with one of these.
 
 Broadly speaking, there are two types of brokerage services in India at present:
 
@@ -31,11 +31,11 @@ A tell-tale sign of a full service broker, is that they charge a percentage of y
 
 ## Discount Broker [💻](https://emojipedia.org/laptop/)
 
-After the penetration of internet, it became less and less necessary to have a physical location to cater to the customers’ needs.
+After the penetration of internet, it became less and less necessary to have a physical location to cater to the customers' needs.
 
 So with reduced staff by not having physical customer service locations, discount brokers are offering the trade with discounted rate.
 
-They also don’t provide the research / advisory services, portfolio or wealth management services etc. to keep the operational costs low.
+They also don't provide the research / advisory services, portfolio or wealth management services etc. to keep the operational costs low.
 
 As a result, they can afford to charge lower trading fees. Most discount brokers have zero fee on equity delivery trades, and close-to fixed fee for intraday trading / BTST etc.
 
@@ -53,7 +53,7 @@ A few popular ones are listed below, in **alphabetical order**.
 
 ## Comparison of Discount Service Brokers
 
-The following table is a comparison-at-a-glance for these discount brokers. The information presented in this table maybe out of date at any moment in time. We’ll do our best to update this table whenever we come across new information.
+The following table is a comparison-at-a-glance for these discount brokers. The information presented in this table maybe out of date at any moment in time. We'll do our best to update this table whenever we come across new information.
 
 |                                                  | 5Paisa                                                                                              | Groww                                                                                             | PayTm Money                                   | Upstox                                                                                  | Zerodha                                                                                      |
 |:-------------------------------------------------|:----------------------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------|:----------------------------------------------|:----------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------|
@@ -74,11 +74,11 @@ The following table is a comparison-at-a-glance for these discount brokers. The 
 | IMPS Time / Feed                                 | 10 Min. / Free                                                                                      | NA                                                                                                | NA                                            | NA                                                                                      | 10 Min. / Free                                                                               |
 | Cheque Time / Fees                               | NA                                                                                                  | NA                                                                                                | NA                                            | 3-5 Days (250Rs+tax- For dishonored margin cheque)                                      | 3-5 Days / 350Rs+tax                                                                         |
 | **Number of accounts**                           | 0.25 Million                                                                                        | 1 Million                                                                                         | 6 million                                     | 2 million                                                                               | 4 million                                                                                    |
-| **User Experience (UX) and User Interface (UI)** |                                                                                                     |                                                                                                   |                                               | Imposes outdated password length restrictions, doesn’t have proper 2FA on their website |                                                                                              |
+| **User Experience (UX) and User Interface (UI)** |                                                                                                     |                                                                                                   |                                               | Imposes outdated password length restrictions, doesn't have proper 2FA on their website |                                                                                              |
 
 \*Add-on pack: Some platforms offer subscriptions plans which will enable to advanced users to get more features, reports, reduced trade fee etc. for a monthly fee.
 
-\*Number of accounts: It’s indicative of trust, as larger user-base might mean more audits & compliance requirements. These numbers change everyday, so exact value is not that important. By the time you’re reading it, most likely exact number of accounts on each of these platforms could be higher than what you see in the table above.
+\*Number of accounts: It's indicative of trust, as larger user-base might mean more audits & compliance requirements. These numbers change everyday, so exact value is not that important. By the time you're reading it, most likely exact number of accounts on each of these platforms could be higher than what you see in the table above.
 
 The above table compares some popular discount service brokers, in terms of the following parameters:
 
@@ -90,27 +90,26 @@ The above table compares some popular discount service brokers, in terms of the 
 
 ## Wrapping Up 🎁
 
-Selecting a brokerage service might require some care. Unlike picking a mutual fund app, it’s not that easy to migrate between brokers. This is not an easily reversible decision.
+Selecting a brokerage service might require some care. Unlike picking a mutual fund app, it's not that easy to migrate between brokers. This is not an easily reversible decision.
 
 Some brokerages make it so easy to trade, that you might end up placing too many orders, and lose big on brokerage fees.
 
-Most brokers ideally provide a cost calculator to get an estimate of various fees & charges that might show up against your account, for the volume of trades you’d want to execute.
+Most brokers ideally provide a cost calculator to get an estimate of various fees & charges that might show up against your account, for the volume of trades you'd want to execute.
 
-We highly recommend being careful with F&O, intraday trading and BTST trades. Ideally, as a retail investor, if you’re looking to buy for long term, most discount brokers are quite cost effective.
+We highly recommend being careful with F&O, intraday trading and BTST trades. Ideally, as a retail investor, if you're looking to buy for long term, most discount brokers are quite cost effective.
 
 An important aspect to understand, is your broker has lot of control over your holdings; unlike your mutual fund app.
 
 For instance, the Karvy brokerage scandal of 2019-20, exposed how even full service brokers can exploit dormant holdings, keeping those shares as collateral for their other business arms to get loans.
 
-It’s of paramount importance that you evaluate a brokerage service on these two parameters:
+It's of paramount importance that you evaluate a brokerage service on these two parameters:
 
 -   Does the brokerage house have a history of lending out shares, to arrange for some liquidity?
--   Does the brokerage platform have enough retail accounts, that they’d be subject to more audits and compliance?
+-   Does the brokerage platform have enough retail accounts, that they'd be subject to more audits and compliance?
 
-This is why it’s important to go with a broker that has been around for past few years, have healthy financials of their own, and have good volume. On that front, Zerodha comes out ahead of other brokers covered above.
+This is why it's important to go with a broker that has been around for past few years, have healthy financials of their own, and have good volume. On that front, Zerodha comes out ahead of other brokers covered above.
 
-It doesn’t just end at choosing a broker with decent fees and nice UI / UX. You’ve to keep track of your holdings outside of the brokerage app. Check your monthly CDSL or NSDL CAS, to confirm your holdings are as shown in the portfolio section of your broker’s app.
+It doesn't just end at choosing a broker with decent fees and nice UI / UX. You've to keep track of your holdings outside of the brokerage app. Check your monthly CDSL or NSDL CAS, to confirm your holdings are as shown in the portfolio section of your broker's app.
 
-{% hint style=“info” %}
-As per SEBI stipulation of BSDA (**B**asic **S**ervice **D**emat **A**ccount), there will not be any annual maintenance charges if your portfolio value is less than ₹50,000. However, if it is greater than ₹50,000 but less than ₹2,00,000, a charge of ₹100 will be levied. If the portfolio value exceeds ₹2,00,000, charges will be levied as applicable to a regular non-BSDA demat account.
-{% endhint %}
+???+ info
+    As per SEBI stipulation of BSDA (**B**asic **S**ervice **D**emat **A**ccount), there will not be any annual maintenance charges if your portfolio value is less than ₹50,000. However, if it is greater than ₹50,000 but less than ₹2,00,000, a charge of ₹100 will be levied. If the portfolio value exceeds ₹2,00,000, charges will be levied as applicable to a regular non-BSDA demat account.

@@ -20,7 +20,7 @@ Investing in overseas or foreign equity can provide some geographic diversificat
 
 The rationale for diversification is clear — domestic equities tend to be more exposed to the narrower economic and market forces of their home market, while stocks outside an investor’s home market tend to offer exposure to a wider array of economic and market forces.
 
-In other words, unless there’s a big global driver, most of the times, India and US equities won’t move up and down, won’t move up and down, in same direction nor necessarily with the same pace, simultaneously. Hence moderating the swings based on *percentage allocations* one takes in US equities.
+In other words, unless there's a big global driver, most of the times, India and US equities won't move up and down, won't move up and down, in same direction nor necessarily with the same pace, simultaneously. Hence moderating the swings based on *percentage allocations* one takes in US equities.
 
 ### Size
 
@@ -38,9 +38,9 @@ The liquidity and quality of top US stocks are simply unmatched anywhere else in
 
 ### Lower Price Correlation
 
-Just buying different stocks (or other assets) alone, won’t automatically result in diversification benefits. The assets into which one is diversifying should have low price correlation with the assets already present in one’s portfolio. Price correlation measures how closely the prices of two different assets are related.
+Just buying different stocks (or other assets) alone, won't automatically result in diversification benefits. The assets into which one is diversifying should have low price correlation with the assets already present in one’s portfolio. Price correlation measures how closely the prices of two different assets are related.
 
-Price correlation can either be positive or negative - the closer to zero, the better. A high positive correlation (approaching `1.0`) means that the asset prices move in tandem, offering diversification in name only, while a high negative correlation (approaching `-1.0`) would mean that the investments’ price movements will virtually cancel each other out, defeating the purpose of investing.
+Price correlation can either be positive or negative - the closer to zero, the better. A high positive correlation (approaching `1.0`) means that the asset prices move in tandem, offering diversification in name only, while a high negative correlation (approaching `-1.0`) would mean that the investments' price movements will virtually cancel each other out, defeating the purpose of investing.
 
 For example, large-cap Indian equity mutual funds will usually have a high positive correlation with the Nifty 50 index; because many of the stocks held by these funds would be from the Nifty 50 space.
 
@@ -75,43 +75,43 @@ In that sense, taking exposure to US equities can be viewed as getting access to
 
 ### Currency Risk
 
-Foreign investments are subject to currency risks. If you’re an Indian resident, your investments would be valued in INR (Indian Rupee). And not in USD (US Dollar).
+Foreign investments are subject to currency risks. If you're an Indian resident, your investments would be valued in INR (Indian Rupee). And not in USD (US Dollar).
 
 If INR appreciates against USD, then your US investments would lose its market value, and show up as a loss in your portfolio.
 
-Opposite is also true (that’s how risk works!) - if INR depreciates against USD, then your foreign holdings become more valuable, as it’s priced in INR.
+Opposite is also true (that's how risk works!) - if INR depreciates against USD, then your foreign holdings become more valuable, as it's priced in INR.
 
-Forex movements would affect your portfolio. In addition to market risks that come with every equity investments, you’d also be assuming one extra risk which would impact your portfolio.
+Forex movements would affect your portfolio. In addition to market risks that come with every equity investments, you'd also be assuming one extra risk which would impact your portfolio.
 
 ### Taxation and Compliance
 
 US taxation rules are different from Indian taxation rules.
 
-Depending on how exactly you’ve been taking exposure to US equity markets, you could be on the hook for various legal and tax-related compliance and reporting.
+Depending on how exactly you've been taking exposure to US equity markets, you could be on the hook for various legal and tax-related compliance and reporting.
 
-That adds cost of management (e.g. you having to take the extra time and effort to understand US taxation), and compliance cost (e.g. foreign holdings requiring filing ITR-2 every year during tax filing seasons).
+That adds cost of management (e.g. you having to take the extra time and effort to understand US taxation), and compliance cost (e.g. foreign holdings requiring filing ITR-2 every year during tax filing seasons).
 
-In addition to that, there might be forex exchange costs, remittance costs etc. that’d eat into your portfolio.
+In addition to that, there might be forex exchange costs, remittance costs etc. that'd eat into your portfolio.
 
 ### Wrong Expectations of Higher Gains
 
 Often, investors wrongly assume that investing in US equities would mean higher than Nifty returns.
 
-In reality, diversification works both ways. It’s a trade-off.
+In reality, diversification works both ways. It's a trade-off.
 
 For example, in 2018 December, US markets dropped in a big way over a period of just last two weeks of the year. S&P 500 was down nearly 20%.
 
 Indian equities were not as affected, over same time-period.
 
-But if someone had wrong expectations of US equities always doing better than Indian equities, and invested on the basis of that; they’d have learned a tough lesson the hard way.
+But if someone had wrong expectations of US equities always doing better than Indian equities, and invested on the basis of that; they'd have learned a tough lesson the hard way.
 
 Similarly, towards the end of 2020 and beginning of 2021, Nifty outperformed S&P500 over a period of 3-6 months.
 
-In summary, there’d be periods of underperformance and outperformance from US equities, compared to Indian equities. As an investor, you shouldn’t assume US equities always do better than Indian equities.
+In summary, there'd be periods of underperformance and outperformance from US equities, compared to Indian equities. As an investor, you shouldn't assume US equities always do better than Indian equities.
 
 ## Wrapping Up 🎁
 
-There are great reasons to invest in US equity. It adds much needed geographic diversification to your portfolio, and gives you exposure to equities that reflect global revenue and economic growths, in a stable currency that’s recognized all over the world.
+There are great reasons to invest in US equity. It adds much needed geographic diversification to your portfolio, and gives you exposure to equities that reflect global revenue and economic growths, in a stable currency that's recognized all over the world.
 
 If you can take cost-effective positions in US equities, and have well-tuned expectations; you should go for it.
 

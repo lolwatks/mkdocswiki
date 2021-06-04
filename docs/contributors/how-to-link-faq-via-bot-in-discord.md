@@ -10,17 +10,17 @@ As a community of investors, we get queries from time to time, that are frequent
 
 We have FAQs on our wiki, for queries such as these, that addresses such queries. But having it in an archive is of no value, if it cannot be searched and linked, as and when needed.
 
-We’ve a setup that solves this problem - any active member can invoke the bot with a specific tag, and the bot would take care of presenting right information to the user.
+We've a setup that solves this problem - any active member can invoke the bot with a specific tag, and the bot would take care of presenting right information to the user.
 
 ![Sample invocation of bot against a common query - Dark mode](../.gitbook/assets/sample-bot-invoke.dark.png)
 
 ![Sample invocation of bot against a common query - Light mode](../.gitbook/assets/sample-bot-invoke.light.png)
 
-We’ll explore next how to invoke this bot
+We'll explore next how to invoke this bot
 
 ## List of tags 📚
 
-We use Carl-bot’s tag feature at present to achieve this.
+We use Carl-bot's tag feature at present to achieve this.
 
 Every time a new FAQ entry is created, it gets a corresponding `tag` entry for Carl bot.
 
@@ -40,7 +40,7 @@ Below are the exhaustive list of all tags, what kind of typical query / comment 
 
 | Trigger words   | Typical comment                                                                                               | Expected response                                                                                                                                                                                                                                                                                                                                                            |
 |:----------------|:--------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `.disc`         | *What should I know before I start reading the wiki?*                                                         | Hey `@user`, before you start reading our wiki, it’s best you read through our disclaimers and disclosures. Just because we discuss a specific stock, or bond, or mutual fund, or even any investment apps in our wiki; doesn’t mean we’re recommending those. [Read more here](https://indiainvestments.gitbook.io/content/disclaimers-and-disclosures)                     |
+| `.disc`         | *What should I know before I start reading the wiki?*                                                         | Hey `@user`, before you start reading our wiki, it's best you read through our disclaimers and disclosures. Just because we discuss a specific stock, or bond, or mutual fund, or even any investment apps in our wiki; doesn't mean we're recommending those. [Read more here](https://indiainvestments.gitbook.io/content/disclaimers-and-disclosures)                     |
 | `.direct`       | *Why should I invest in direct plans?*                                                                        | Hey `@user`, Direct plans of mutual funds have no commission, and fees are lower compared to its Regular plan counterpart. Returns are higher with no extra risk. [Read this for more details](https://indiainvestments.gitbook.io/content/faqs/mfs/direct-vs-regular)                                                                                                       |
 | `.bestmf`       | *Which is the best mutual fund?*, *What MF should I invest in?*                                               | Hello `@user`, no one can predict how a mutual fund would perform in the long run. Data also shows consistently chasing best mutual funds result in behaviour gap. Pick one that you can stay with for long term. Learn more [here](https://indiainvestments.gitbook.io/content/faqs/whats-the-best-mutual-fund-i-can-invest-in)                                             |
 | `.sipdate`      | *Which day of the month gives best returns for SIP?*                                                          | Unfortunately, there’s no such thing, `@user`. It’s rare for markets to move up / down so much in a single month, that a single SIP installment being on a different date would make a size-able difference in your long term. Read [more here](https://indiainvestments.gitbook.io/content/faqs/which-date-s-is-are-best-for-sip-in-a-month)                                |
@@ -59,16 +59,16 @@ Below are the exhaustive list of all tags, what kind of typical query / comment 
 | `.grouppolicy`  | *Should I have my own health insurance, even if employer provides one?*                                       | `@user` - yes, you should have your own. Employer-provided group policy might have lower cover, or co-pay, or a cap on room-rent. You should get one on your own, to decouple your insurance from your employer. Learn more [here](https://indiainvestments.gitbook.io/content/faqs/do-i-need-my-own-health-insurance-employer-already-has-group-policy)                     |
 | `.mfapp`        | *Should I use app X or Y for MF investing? Is this hot app Z good?*                                           | Hey `@user`, as long as the platform allows buying direct plan in growth schemes (for free of cost), pick one you’re comfortable with. Your specific choice of app won’t affect your returns. We have covered pros & cons of popular apps [here](https://indiainvestments.gitbook.io/content/faqs/best-mutual-fund-app-for-investmentsy)                                     |
 | `.stockapp`     | *Should I use Zerodha or Upstox?*                                                                             | Hey `@user`, use a discount broker like Zerodha. If you need more detailed comparison on popular discount brokers, especially how they stack up against each other on fees and transfer charges, [check this out](https://indiainvestments.gitbook.io/content/faqs/what-is-the-best-app-for-buying-or-trading-stocks)                                                        |
-| `.uswhy`        | *Should I invest in US markets? I’m already investing in mutual funds in India*                               | Hey `@user`, US equities give diversification and exposure to global growth in the most stable currency. You should invest in US equities, if you can find a cost-effective way to do it. [Read more here](https://indiainvestments.gitbook.io/content/faqs/why-should-i-invest-in-the-us-markets)                                                                           |
-| `.ushow`        | *How should I invest in the US markets? Should I open a Vested account? Or just invest in Motilal N100 fund?* | Hey `@user`, invest in a cost-effective manner. For smaller corpus, it makes sense to invest via India-domiciled mutual funds that invest overseas, while when you’ve a larger amount to invest, it could be cheaper to invest directly via US-based brokers. [Details here](https://indiainvestments.gitbook.io/content/faqs/how-should-i-invest-in-us-equity).             |
+| `.uswhy`        | *Should I invest in US markets? I'm already investing in mutual funds in India*                               | Hey `@user`, US equities give diversification and exposure to global growth in the most stable currency. You should invest in US equities, if you can find a cost-effective way to do it. [Read more here](https://indiainvestments.gitbook.io/content/faqs/why-should-i-invest-in-the-us-markets)                                                                           |
+| `.ushow`        | *How should I invest in the US markets? Should I open a Vested account? Or just invest in Motilal N100 fund?* | Hey `@user`, invest in a cost-effective manner. For smaller corpus, it makes sense to invest via India-domiciled mutual funds that invest overseas, while when you've a larger amount to invest, it could be cheaper to invest directly via US-based brokers. [Details here](https://indiainvestments.gitbook.io/content/faqs/how-should-i-invest-in-us-equity).             |
 
-For example, if someone asks (let’s say, user name is `@beginnerinvestor`) *hey guys, should I buy this LIC policy?*, you can respond with `.lic @beginnerinvestor`.
+For example, if someone asks (let's say, user name is `@beginnerinvestor`) *hey guys, should I buy this LIC policy?*, you can respond with `.lic @beginnerinvestor`.
 
 Bot would delete your message, and add its own message, tagging `@beginnerinvestor`
 
-{% embed url=“https://youtu.be/QJxJVEU6D48” caption=“Invoking the bot for FAQ in Discord - Dark Mode” %}
+{% embed url="https://youtu.be/QJxJVEU6D48" caption="Invoking the bot for FAQ in Discord - Dark Mode" %}
 
-{% embed url=“https://youtu.be/Jh9WnK6FPL4” caption=“Invoking the bot for FAQ in Discord - Light Mode” %}
+{% embed url="https://youtu.be/Jh9WnK6FPL4" caption="Invoking the bot for FAQ in Discord - Light Mode" %}
 
 ## Pre-requisites ✋
 
@@ -76,4 +76,4 @@ We expect you to familiarize yourself with all the FAQs, before starting with th
 
 You can go through our FAQs using below link
 
-If you’re using the bot to invoke the FAQ, it’s expected that you’ve yourself at the very least gone through that FAQ first.
+If you're using the bot to invoke the FAQ, it's expected that you've yourself at the very least gone through that FAQ first.

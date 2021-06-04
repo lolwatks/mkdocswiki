@@ -12,15 +12,15 @@ There are some 4000 odd funds presently in the Indian markets.
 
 ### **Portfolio**
 
-The combined list of different securities of the fund is called the Portfolio. Because of transparency requirements, the companies have to periodically update their funds’ portfolios on their websites.
+The combined list of different securities of the fund is called the Portfolio. Because of transparency requirements, the companies have to periodically update their funds' portfolios on their websites.
 
-For Debt mutual funds that invest in various IOUs, bonds etc.; it’s required to disclose portfolio every 2 weeks.
+For Debt mutual funds that invest in various IOUs, bonds etc.; it's required to disclose portfolio every 2 weeks.
 
 Different portals like Morningstar.in, Moneycontrol.com, and Valueresearchonline.com also show these details along with other characteristics.
 
 ### **Net Asset Value (NAV)**
 
-This is the price of 1 unit of the particular mutual fund. It’s calculated by adding the market value of all the securities (equities, bonds, gold, etc), subtracting the market value of the liabilities, and then dividing this value by the total number of outstanding units.
+This is the price of 1 unit of the particular mutual fund. It's calculated by adding the market value of all the securities (equities, bonds, gold, etc), subtracting the market value of the liabilities, and then dividing this value by the total number of outstanding units.
 
 Mathematically, NAV = (Total market value of Assets – Total market value of liabilities) *divided by* (number of units / shares)
 
@@ -37,7 +37,7 @@ When a mutual fund announces dividend, it pays out that dividend money from the 
 
 If the NAV is 100 and the AMC announces a dividend of 5, you will get 5 in your account for every unit you hold, and the NAV would fall to 95. **Your own money is being given back to you**. It is not like you will get 5 in your account *and the NAV would continue to be 100.*
 
-Instead of relying on mutual fund dividends for cashflow tricks, it’s easier to just withdraw it yourself, periodically; from growth scheme of same mutual fund.
+Instead of relying on mutual fund dividends for cashflow tricks, it's easier to just withdraw it yourself, periodically; from growth scheme of same mutual fund.
 
 ### **NFO (New Fund Offer)**
 
@@ -45,7 +45,7 @@ Companies come up with new portfolio guidelines or asset balancing, etc and crea
 
 The underlying philosophy of the fund is more important and before buying a NFO, one should see whether that philosophy fits into the overall requirement. Any NFO requires lot of advertisement (online, offline), seminars, selling, etc – all these expenses are deducted from the net assets (in the liabilities section specifically) and gets reflected in the NAV. For 99% cases, don’t invest in NFO.
 
-It’s also a misconception that fund’s NAV cannot be smaller than 10. JM Core 11 Growth plan, was opened to public in early 2008. Its NAV stayed below that NFO NAV for ~13 years, before reaching same value again in Jan 2021.
+It's also a misconception that fund's NAV cannot be smaller than 10. JM Core 11 Growth plan, was opened to public in early 2008. Its NAV stayed below that NFO NAV for ~13 years, before reaching same value again in Jan 2021.
 
 ### **Expense Ratio**
 
@@ -57,7 +57,7 @@ Presently, each of the mutual fund have two different types based on expenses �
 
 You could also invest through various new-gen free direct plan apps, including but not limited to, Coin / Groww / INDMoney / Kuvera / MFUtility / PayTM Money etc.
 
-Make sure you’re investing only in Direct plan of the fund, in growth scheme (not dividend).
+Make sure you're investing only in Direct plan of the fund, in growth scheme (not dividend).
 
 ### **Types of Mutual Fund**
 

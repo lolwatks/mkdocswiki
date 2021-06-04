@@ -12,19 +12,18 @@ If you want to discuss anything on this website with other people, please check 
 
 ## Beginner
 
-If you’re just starting out, have never had to think about finances, investments etc., you can start from the link below.
+If you're just starting out, have never had to think about finances, investments etc., you can start from the link below.
 
-{% page-ref page=“start-here/zero-to-investing/getting-started.md” %}
+{% page-ref page="start-here/zero-to-investing/getting-started.md" %}
 
 ## FAQs and How To
 
-You might be here because you’ve a specific query that just can’t wait. Do browse through our common queries sections below, to see if your query already has been answered by us.
+You might be here because you've a specific query that just can't wait. Do browse through our common queries sections below, to see if your query already has been answered by us.
 
 ## Series
 
-{% hint style=“info” %}
-Our wiki is a work-in-progress, constantly being edited, reviewed, and updated. We’ve done our best to review these, but if you notice spelling errors, or other discrepancies, kindly reach out to us so we can fix these.
-{% endhint %}
+???+ info
+    Our wiki is a work-in-progress, constantly being edited, reviewed, and updated. We've done our best to review these, but if you notice spelling errors, or other discrepancies, kindly reach out to us so we can fix these.
 
 Here are some of the topics we presently cover in our wiki
 
@@ -52,13 +51,13 @@ Under the following terms:
 
 Content on this website is meant only to be educational. It is not meant to be financial advice. If you need help with your finances, or if you have any query regarding what you read on this website; you should consult a registered financial advisor in your jurisdiction.
 
-If you’re an Indian reading this, please consult a SEBI-registered, fee-only financial advisor.
+If you're an Indian reading this, please consult a SEBI-registered, fee-only financial advisor.
 
 Contributors to this project cannot be held liable if you follow instructions presented here, and incur financial losses in the securities markets.
 
 For detailed list of comprehensive set of disclaimers & disclosures, refer to this page below
 
-{% page-ref page=“disclaimers-and-disclosures.md” %}
+{% page-ref page="disclaimers-and-disclosures.md" %}
 
 We encourage you to take the time, and read through the content in above link at least once.
 
@@ -66,7 +65,7 @@ We encourage you to take the time, and read through the content in above link at
 
 Special thanks to [Gitbook](https://www.gitbook.com/) for accommodating us in their premium tier, free-of-cost.
 
-It’s been a fantastic journey working with the great folks over at Gitbook team. They’ve helped us out every step of the way whenever we’ve asked for it.
+It's been a fantastic journey working with the great folks over at Gitbook team. They've helped us out every step of the way whenever we've asked for it.
 
 Wishing them all the best in continued success of this amazing product.
 

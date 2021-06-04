@@ -1,5 +1,5 @@
 ---
-description: If you’re investing for the long term, time in the market beats timing the market. Invest the entire amount all at once, irrespective of market levels. Invest regularly if don’t have lumpsum.
+description: If you're investing for the long term, time in the market beats timing the market. Invest the entire amount all at once, irrespective of market levels. Invest regularly if don't have lumpsum.
 ---
 
 # Lumpsum investment vs SIP/DCA

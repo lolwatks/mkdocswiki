@@ -22,7 +22,7 @@ Then comes a slew of good things and offers. Blah Blah.
 
 “In this plan, your premium, net of premium allocation charges, will be invested in an **exclusive Pension Fund**. At the end of the policy term, you will receive higher of the following – Fund Value or Assured Benefit of 101% of all premiums (including top-up premiums). *Inf= So, the guarantee is what one pays over all the years. And they will add 1% to the total principal and return it as the guarantee. Even this is not free and comes with its own charge.*
 
-Your maturity benefit will be used to provide you with **post-retirement income** i.e. an annuity which you have to purchase from us. *Oh.* The advisors had already told him that he can get UPTO 33% of that amount as cash, while rest has to be used for annuity or have to pay tax on that.
+Your maturity benefit will be used to provide you with **post-retirement income** i.e. an annuity which you have to purchase from us. *Oh.* The advisors had already told him that he can get UPTO 33% of that amount as cash, while rest has to be used for annuity or have to pay tax on that.
 
 If there is unfortunate demise of the policyholder, then the nominee will get the **death benefit**. This is Higher of 1. Fund value or 2. Total premiums paid plus interest @ 6% per year. And of course, if the fund value is less than the alternative total value, then the company will deduct mortality charges, based upon the age of the policy holder (more the age, more will be the mortality charges).
 
@@ -35,7 +35,7 @@ Investment Fund- The fund in this case is a single fund, which is a **balanced f
 
 There is no information regarding the investment team (who are they, how many, how long is their experience, etc. How has the performance been).
 
-Then there are standard clauses regarding the investment fund and benefits (which I have already enumerated above). One important thing is again, the investment risk is borne by the policyholder (which means, if the fund value goes down, ultimately it is the policy holder’s responsibility only).
+Then there are standard clauses regarding the investment fund and benefits (which I have already enumerated above). One important thing is again, the investment risk is borne by the policyholder (which means, if the fund value goes down, ultimately it is the policy holder's responsibility only).
 
 Some special considerations:
 
@@ -43,7 +43,7 @@ Some special considerations:
 
 After 5 years, if one does not pay, then it will get an automatic surrender and the fund value will be paid back.
 
-**At Maturity:** Apart from 1/3 of the fund value taxfree cash, I will HAVE to buy an annuity from this company (or probably from other companies too). The various annuity plans have different monthly/ yearly amounts depending upon the prevailing long term interest rates, type of annuity and the company’s analysis of the policyholder’s longetivity (again too many variables to even give a decent approximation). So, even if they look lip-smacking (7-9%) at current rates, they may not be so 10-20 years down the line. Let us analyze this a little further. A 7-9% annuity rate may appear to be good, but if you realise that the amount provided is FIXED for the term of annuity, then that means at an inflation rate of 7-10%, this FIXED amount will start to look small within 5-10 years. And I am not even speaking about 20-30 years down the line. The purchasing power will diminish rapidly later on and this supposedly decent amount will look like a small amount later on.
+**At Maturity:** Apart from 1/3 of the fund value taxfree cash, I will HAVE to buy an annuity from this company (or probably from other companies too). The various annuity plans have different monthly/ yearly amounts depending upon the prevailing long term interest rates, type of annuity and the company's analysis of the policyholder's longetivity (again too many variables to even give a decent approximation). So, even if they look lip-smacking (7-9%) at current rates, they may not be so 10-20 years down the line. Let us analyze this a little further. A 7-9% annuity rate may appear to be good, but if you realise that the amount provided is FIXED for the term of annuity, then that means at an inflation rate of 7-10%, this FIXED amount will start to look small within 5-10 years. And I am not even speaking about 20-30 years down the line. The purchasing power will diminish rapidly later on and this supposedly decent amount will look like a small amount later on.
 
 **A Look at Charges:**
 
@@ -54,7 +54,7 @@ After 5 years, if one does not pay, then it will get an automatic surrender and 
 
 Some of the charges are subject to alteration too with prior approval of IRDA.
 
-Service Tax is another charge which is applicable to all charges (it really is a charge by the government, and not really the insurer’s fault).
+Service Tax is another charge which is applicable to all charges (it really is a charge by the government, and not really the insurer's fault).
 
 **Take Away Points:**
 
@@ -72,12 +72,12 @@ Two advantages:
 
 I have specifically taken up the HDFC Life Pension Super Plus plan in this case. But, the basics of analysis will be same all across.
 
-**Addendum:** Annuity is a plan, usually by insurance companies, in which you pay a single premium and then the company in turn pays monthly/yearly amounts to you for the rest of your life (single life annuity), or your life as well your spouse’s life term (joint life annuity). This amount is mostly based on the long term interest rates & life expectancy of you (and your spouse). So if you are already very old, you will get more income, while if the long term interest rates are low, you will get less.
+**Addendum:** Annuity is a plan, usually by insurance companies, in which you pay a single premium and then the company in turn pays monthly/yearly amounts to you for the rest of your life (single life annuity), or your life as well your spouse's life term (joint life annuity). This amount is mostly based on the long term interest rates & life expectancy of you (and your spouse). So if you are already very old, you will get more income, while if the long term interest rates are low, you will get less.
 
 There is an option of increasing amounts (usually 1-3% per year).
 
 There are some other options like cash refund (option to buy back), a fixed term of payments (like 10 years or so), etc.
 
-check out [LIC’s plan](http://www.licindia.in/jeevan_akshay_plan_009_features.htm) for more ideas.
+check out [LIC's plan](http://www.licindia.in/jeevan_akshay_plan_009_features.htm) for more ideas.
 
 More details for understanding. <http://money.cnn.com/retirement/guide/annuities_basics.moneymag/index.htm>

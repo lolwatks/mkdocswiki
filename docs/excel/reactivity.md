@@ -22,9 +22,8 @@ Your task is to find out if the tally is correct.
 
 We can use Excel for this.
 
-{% hint style=“info” %}
-In this chapter, you’d see images / videos in both dark and light theme. Based on your comfort and preference, pick one of these in each case : either dark theme, or light theme.
-{% endhint %}
+???+ info
+    In this chapter, you'd see images / videos in both dark and light theme. Based on your comfort and preference, pick one of these in each case : either dark theme, or light theme.
 
 ## Entering the numbers
 
@@ -38,9 +37,8 @@ In this chapter, you’d see images / videos in both dark and light theme. Based
 
 ![Numbers in Excel : Light Theme](../.gitbook/assets/numbers-in-excel.light.png)
 
-{% hint style=“info” %}
-No need to manually enter these data points one after another. You could simply select the above table with your trackpad / mouse; copy it with `Ctrl + C` / `Cmd + C`, and paste it in your sheet.
-{% endhint %}
+???+ info
+    No need to manually enter these data points one after another. You could simply select the above table with your trackpad / mouse; copy it with `Ctrl + C` / `Cmd + C`, and paste it in your sheet.
 
 But wait, this is just text in a bunch of grids and cells! Where’s the *magic* or programming?!
 
@@ -88,9 +86,9 @@ So far, we’ve used only the former, when we copy-pasted the table into our she
 
 Here’s a video to guide you along (both in dark and light theme)
 
-{% embed url=“https://www.youtube.com/watch?v=VNGmwRojwKU&feature=emb\_logo” caption=“Excel functions: Dark Theme” %}
+{% embed url="https://www.youtube.com/watch?v=VNGmwRojwKU&feature=emb\_logo" caption="Excel functions: Dark Theme" %}
 
-{% embed url=“https://www.youtube.com/watch?v=-fOUzyMvAm4&feature=emb\_logo” caption=“Excel functions: Light theme” %}
+{% embed url="https://www.youtube.com/watch?v=-fOUzyMvAm4&feature=emb\_logo" caption="Excel functions: Light theme" %}
 
 If you’ve done everything as demonstrated / instructed above, you should have same exact value of 60 in that cell, as you’d earlier.
 
@@ -132,9 +130,9 @@ Follow these steps to validate each price computation row:
 
 Here’s a video to help guide you alone with the above steps:
 
-{% embed url=“https://www.youtube.com/watch?v=iXcmwxIEdeM&feature=emb\_logo” caption=“Excel dragging : Dark theme” %}
+{% embed url="https://www.youtube.com/watch?v=iXcmwxIEdeM&feature=emb\_logo" caption="Excel dragging : Dark theme" %}
 
-{% embed url=“https://www.youtube.com/watch?v=oUmZ\_Ir-QVc&feature=emb\_logo” caption=“Excel dragging: Light theme” %}
+{% embed url="https://www.youtube.com/watch?v=oUmZ\_Ir-QVc&feature=emb\_logo" caption="Excel dragging: Light theme" %}
 
 Assuming you’ve done everything right up to this point; the numbers in the newly created column, for a given row, should be exactly same as the penultimate (last but one) column.
 
@@ -174,9 +172,9 @@ Follow these steps:
 
 Here’s a video to help guide you along (available in both dark & light themes)
 
-{% embed url=“https://www.youtube.com/watch?v=kYlH5pTHn1E&feature=emb\_logo” caption=“Excel SUM: Dark theme” %}
+{% embed url="https://www.youtube.com/watch?v=kYlH5pTHn1E&feature=emb\_logo" caption="Excel SUM: Dark theme" %}
 
-{% embed url=“https://www.youtube.com/watch?v=SQJ58fZrFag&feature=emb\_logo” caption=“Excel SUM: Light theme” %}
+{% embed url="https://www.youtube.com/watch?v=SQJ58fZrFag&feature=emb\_logo" caption="Excel SUM: Light theme" %}
 
 If you’ve done everything as instructed, up to this point, it should look as shown below
 
@@ -200,7 +198,7 @@ Excel is as mainstream as esoteric mathy concepts of functional reactive program
 
 **Excel helps you build apps, with Reactive UI paradigm**.
 
-Yes, you just built a mini invoice application (AKA app), without writing any complex pieces of code. You didn’t have to boot up your code editor or IDE, run debuggers, compile some pieces of it, fight with error messages - none of these were needed.
+Yes, you just built a mini invoice application (AKA app), without writing any complex pieces of code. You didn't have to boot up your code editor or IDE, run debuggers, compile some pieces of it, fight with error messages - none of these were needed.
 
 To see how it *reacts*, change any of the values in the column:
 
@@ -214,9 +212,9 @@ To see how it *reacts*, change any of the values in the column:
 
 Here’s a video to help demonstrate this:
 
-{% embed url=“https://www.youtube.com/watch?v=zudUxsaLHoQ&feature=emb\_logo” caption=“Excel Reactive-ness: Dark theme” %}
+{% embed url="https://www.youtube.com/watch?v=zudUxsaLHoQ&feature=emb\_logo" caption="Excel Reactive-ness: Dark theme" %}
 
-{% embed url=“https://www.youtube.com/watch?v=zdLOMk6VCd0&feature=emb\_logo” caption=“Excel Reactiveness: Light theme” %}
+{% embed url="https://www.youtube.com/watch?v=zdLOMk6VCd0&feature=emb\_logo" caption="Excel Reactiveness: Light theme" %}
 
 ## Recap
 

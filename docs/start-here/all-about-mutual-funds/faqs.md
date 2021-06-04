@@ -8,7 +8,7 @@ description: Commonly asked queries on mutual funds, and answers to those
 
 Refer to our FAQ on Best platform / app for buying mutual funds.
 
-{% page-ref page=“../../faqs/mfs/best-mutual-fund-app-for-investments.md” %}
+{% page-ref page="../../faqs/mfs/best-mutual-fund-app-for-investments.md" %}
 
 ### **Are MFs also stored in demat?**
 
@@ -34,7 +34,7 @@ That is a complicated question. Basically, it would depend what are your goals a
 
 A simple basic idea is this. Keep in mind, the returns mentioned are usually simple returns for less than 1 year period and compounded returns for periods over 1 year.
 
-From your data (using backtracing). Time Return NAV 10 years back 14% 10 5 years back 24% 12.7 1 year back 3% 35.9 6 months back 12% 33 3 months back 22% 30.3 Today - 37 How will buying at an NAV of 37 behave in next 3 months, 6 months, 1 year, 10 years, we don’t know? Past data does not mirror into the future. check more at these links 1\[1\] and 2\[2\] .
+From your data (using backtracing). Time Return NAV 10 years back 14% 10 5 years back 24% 12.7 1 year back 3% 35.9 6 months back 12% 33 3 months back 22% 30.3 Today - 37 How will buying at an NAV of 37 behave in next 3 months, 6 months, 1 year, 10 years, we don't know? Past data does not mirror into the future. check more at these links 1\[1\] and 2\[2\] .
 
 ### **So Growth option means no dividend? Instead dividend money will be put back into buying units?**
 
@@ -44,7 +44,7 @@ Yes. Growth option means the gains (and losses) will keep on accumulating within
 
 CDSL and NSDL are central depositories which keep the securities (shares, etc) in a demat or certified formats. All demat accounts, I suppose, have to be kept with either of them. The brokers (whether individual or banks) act as an intermediary to open an account with them. Once you open a demat account with either of them, you can trade on either NSE or BSE and it will not matter.
 
-### **I have opened a new demat and trading account with Karvy. So can I use this same demat with other brokerages? Like Anand Rathi? I mean, the demat is not associated with karvy’s trading account right?**
+### **I have opened a new demat and trading account with Karvy. So can I use this same demat with other brokerages? Like Anand Rathi? I mean, the demat is not associated with karvy's trading account right?**
 
 Mostly no. If you opened an account with X and you then opened another account with Y, you will have the option to transfer your dematerialised stocks from account X to account Y, without going through the brokerage. This works like bank accounts. You can transfer money from one to another, but your account number will be changed.
 
@@ -54,7 +54,7 @@ I think you are getting a little confused by Karvy. There is a \[Karvy backend s
 
 And there is Karvy Financial Services which will act as a distributor (Distributor code ARN-0018).
 
-So when you go through AMC directly, the mechanism is like this: You – AMC &lt;–> Karvy/CAMS. While when you go through a distributor, it works like You – Distributor – AMC &lt;–> Karvy/CAMS.
+So when you go through AMC directly, the mechanism is like this: You -- AMC &lt;--> Karvy/CAMS. While when you go through a distributor, it works like You -- Distributor -- AMC &lt;--> Karvy/CAMS.
 
 The relation between AMC and Karvy/CAMS is common and the expenses regarding that are in-built within the fund management charges as Registrar & Transfer Agent Fees. Nowadays, there is a single total expense and the AMC is free to not decide to show the individual bifurcations. However, I had an old SID document which showed this fee to be 0.12%, but included in the total FMC.
 
@@ -80,7 +80,7 @@ Freefincal has written [an article comparing some of the popular portals](https:
 
 ### **Why AMC gets to keep trail commission even when I am opting for direct plan?**
 
-No. The distribution / trail commission charges are explicitly mentioned as NOT to be included for Direct Plans. You can compare any Direct and Regular plan and see the difference (about 0.4-0.6% difference).
+No. The distribution / trail commission charges are explicitly mentioned as NOT to be included for Direct Plans. You can compare any Direct and Regular plan and see the difference (about 0.4-0.6% difference).
 
 There are no more **Percentage Upfront Charges** (just for information sake, previously, there was a 2-3% initial investment charges. In USA, going through agents means a charge up to 7%). Except a fixed Rs 100/150 depending upon the amount you invest when *going through a distributor*. *There are no upfront charges for Direct investing.*
 

@@ -10,7 +10,7 @@ This isn’t a strict requirement but a general recommendation or advice about h
 
 This is in addition to our general style guide
 
-{% page-ref page=“general-style-guide.md” %}
+{% page-ref page="general-style-guide.md" %}
 
 ### Use Beginner Friendly Writing Style
 
@@ -28,11 +28,11 @@ For example, while explaining how to calculate Working Capital of a company, ins
 
 ### Dive Deep Into Details When Necessary
 
-If, and when, necessary, feel free to dive into details while keeping efficiency in mind. In such cases, try to understand the entire concept yourself, sketch out a summary or a bird’s-eye view of the concept, and then write about it. If a wall of text has to be written, try to make it engaging and somewhat fun to read by adding relevant images, examples, and other interactive elements.
+If, and when, necessary, feel free to dive into details while keeping efficiency in mind. In such cases, try to understand the entire concept yourself, sketch out a summary or a bird's-eye view of the concept, and then write about it. If a wall of text has to be written, try to make it engaging and somewhat fun to read by adding relevant images, examples, and other interactive elements.
 
 ### Use Consolidated Financial Statements
 
-Unless there’s a good reason to focus on standalone financial statements, use consolidated financial statements when presenting examples.
+Unless there's a good reason to focus on standalone financial statements, use consolidated financial statements when presenting examples.
 
 ### When in doubt, ask
 

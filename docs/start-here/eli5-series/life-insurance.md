@@ -27,7 +27,7 @@ Presently, every major company has an online policy. If you like govt of India, 
 
 **Important Points to Remember:**
 
--   Declare everything as per the form correctly. If they ask you “have you had any surgery in the last 5 years?” and if you had a surgery on 5.1 years ago, you should write No. 
+-   Declare everything as per the form correctly. If they ask you "have you had any surgery in the last 5 years?" and if you had a surgery on 5.1 years ago, you should write No.
 -   Be honest in all the answers.
 -   If they ask for a medical examination, get it done.
 -   If after the medicals, they load up based on xyz reason, either pay up the higher premium or decrease the cover of this policy (you can take another policy later on).

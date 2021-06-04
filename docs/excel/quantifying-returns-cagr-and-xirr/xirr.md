@@ -71,13 +71,12 @@ Let’s break this down in a table.
 
 In the above table, we’ve posted how much you’d receive every year. Cashflow is negative or less than zero, if you’re paying the other party (insurer / bank); while it’s positive or greater than zero when it’s you receiving the amount.
 
-{% hint style=“info” %}
-In XIRR estimation, it’s of paramount importance to set up the sign-convention just described above.
-{% endhint %}
+???+ info
+    In XIRR estimation, it’s of paramount importance to set up the sign-convention just described above.
 
-If *cash* is going away from you, then from your perspective, it’s a **negative cashflow**, and must be entered with a negative sign. For example, paying premium or investing in markets. These amounts should be entered with negative sign, to denote negative cashflow.
+If *cash* is going away from you, then from your perspective, it's a **negative cashflow**, and must be entered with a negative sign. For example, paying premium or investing in markets. These amounts should be entered with negative sign, to denote negative cashflow.
 
-If cash is coming towards you, or has the potential to come back to you; it’s **positive cashflow**. Your bank deposit maturity amount, or your stock portfolio latest valuation (this is the amount you’d receive as cash if you were to place a sell order) etc. should be entered with positive sign in your spreadsheet, in context of XIRR calculation.
+If cash is coming towards you, or has the potential to come back to you; it's **positive cashflow**. Your bank deposit maturity amount, or your stock portfolio latest valuation (this is the amount you'd receive as cash if you were to place a sell order) etc. should be entered with positive sign in your spreadsheet, in context of XIRR calculation.
 
 To the untrained eye, it looks *as if* each 1L instalment or premium doubling up in 20 years or so.
 
@@ -105,9 +104,9 @@ Steps to follow:
 
 Here’s a video to guide you along:
 
-{% embed url=“https://www.youtube.com/watch?v=H4EMN\_YkK9w” caption=“XIRR for an Endowment Policy - Dark Mode” %}
+{% embed url="https://www.youtube.com/watch?v=H4EMN\_YkK9w" caption="XIRR for an Endowment Policy - Dark Mode" %}
 
-{% embed url=“https://www.youtube.com/watch?v=HJaPGC0Pu0U” caption=“XIRR for an Endowment Policy - Light Mode” %}
+{% embed url="https://www.youtube.com/watch?v=HJaPGC0Pu0U" caption="XIRR for an Endowment Policy - Light Mode" %}
 
 The final results should resemble something like these screenshot(s):
 
@@ -119,13 +118,12 @@ While it might’ve seemed that *initial investment practically doubling means 1
 
 In this case, it’s **3.52% p.a.** growth in investor’s hands, over a ~30 year period.
 
-{% hint style=“info” %}
-Whether 3.52% p.a. is great or terrible, would depend on other alternative avenues for investments, available to an investor.
-
-In US / Canada / EU, a bank offering such policy is pretty amazing; given most banks offer much lower interests on deposits than this.
-
-In a country like India where inflation is higher, there might be options available with potential for higher growth over 30 year period.
-{% endhint %}
+???+ info
+    Whether 3.52% p.a. is great or terrible, would depend on other alternative avenues for investments, available to an investor.
+    
+    In US / Canada / EU, a bank offering such policy is pretty amazing; given most banks offer much lower interests on deposits than this.
+    
+    In a country like India where inflation is higher, there might be options available with potential for higher growth over 30 year period.
 
 What we want to draw your attention upon, is the fact that you might’ve intuitively believed that 100% return over ~20 years would mean $$\frac{100\%}{20Y}$$ = 5% p.a. return.
 
@@ -171,11 +169,11 @@ Updating entries in our spreadsheet, and invoking XIRR function, we get **7.17% 
 
 Refer to these videos if you need help
 
-{% embed url=“https://www.youtube.com/watch?v=QoFfq\_5dSro” caption=“XIRR for Moneyback Policy with earlier payouts - Dark Mode” %}
+{% embed url="https://www.youtube.com/watch?v=QoFfq\_5dSro" caption="XIRR for Moneyback Policy with earlier payouts - Dark Mode" %}
 
-{% embed url=“https://www.youtube.com/watch?v=\_I8VW7CrcAA” caption=“XIRR for Moneyback Policy with earlier payouts - Light Mode” %}
+{% embed url="https://www.youtube.com/watch?v=\_I8VW7CrcAA" caption="XIRR for Moneyback Policy with earlier payouts - Light Mode" %}
 
-When you’re done, it should resemble something like these:
+When you're done, it should resemble something like these:
 
 ![XIRR for moneyback policy with earlier payouts - Dark Mode](../../.gitbook/assets/moneyback-policy-xirr-earlier-payout.dark.png)
 
@@ -231,7 +229,7 @@ Similarly, the following changes would also impact it:
 
     Assume this policy was being offered to a person whose age is 25 years, and expected to live till the age of 80. By 2076, they’re supposed to reach this age.
 
-    Now we’d tweak the policy to offer payout of ₹100,000 every year (same as premium payment), **for life** (which essentially means up to 1st Jan 2076), starting on same schedule as before, i.e. 1st Jan 2041.
+    Now we’d tweak the policy to offer payout of ₹100,000 every year (same as premium payment), **for life** (which essentially means up to 1st Jan 2076), starting on same schedule as before, i.e. 1st Jan 2041.
 
     This can certainly improve the XIRR from original scenario of 3.52% p.a., but by how much? Notice that we’ve halved the payout amount as well.
 
@@ -297,12 +295,11 @@ It’s highly instructive to calculate potential XIRR of an investment, by listi
 
 This would give you a better objective measure on how good or bad this investment could be, in comparison to other available options whose XIRR has already been computed.
 
-{% hint style=“info” %}
-CAGR captures asset price compounded growth rate. XIRR captures annualized portfolio growth rate. As we’ve seen and will be seeing in coming chapters, these two are different, and this distinction would matter to investors.
-{% endhint %}
+???+ info
+    CAGR captures asset price compounded growth rate. XIRR captures annualized portfolio growth rate. As we've seen and will be seeing in coming chapters, these two are different, and this distinction would matter to investors.
 
 We’ve built an intuitive understanding of what affects XIRR in positive or negative way.
 
-But we’re yet to learn what XIRR mathematically is, because we haven’t formally defined it.
+But we're yet to learn what XIRR mathematically is, because we haven't formally defined it.
 
 In the next chapter, we’d learn how to *visualize* XIRR and model it with mathematical equations, to gain more insights on this incredibly useful metric.

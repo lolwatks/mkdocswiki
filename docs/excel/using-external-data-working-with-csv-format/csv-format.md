@@ -58,7 +58,7 @@ Representing entires from the above CSV into a table, would look like this:
 
 Think of CSV format as an efficient way of representing table-compatible data, in raw text files where table UI is not present.
 
-A CSV dataset can be parsed into a table; assuming it’s having some uniformity of entries, and properly indicates where a new row starts.
+A CSV dataset can be parsed into a table; assuming it's having some uniformity of entries, and properly indicates where a new row starts.
 
 ## Why only a comma?
 
@@ -88,7 +88,7 @@ Notice how the text has spilled over the cell, as expected.
 
 But how to get column headers out of this? It’s just text, all mashed into a single cell!
 
-That’s where the `SPLIT()` function comes in
+That's where the `SPLIT()` function comes in
 
 ## A Perfect SPLIT
 
@@ -108,9 +108,9 @@ Notice the `""` around comma. Second argument to the `SPLIT` function is a strin
 
 Use it as shown in the video (s) below.
 
-{% embed url=“https://www.youtube.com/watch?v=yxjhhLaMH4g” caption=“Invoking SPLIT() function - Dark Mode” %}
+{% embed url="https://www.youtube.com/watch?v=yxjhhLaMH4g" caption="Invoking SPLIT() function - Dark Mode" %}
 
-{% embed url=“https://www.youtube.com/watch?v=oohR6-QaDKg” caption=“Invoking SPLIT() function - Light Mode” %}
+{% embed url="https://www.youtube.com/watch?v=oohR6-QaDKg" caption="Invoking SPLIT() function - Light Mode" %}
 
 Notice how the output of `SPLIT()` function spreads the result into multiple cells, in **same row**.
 
@@ -206,9 +206,9 @@ Then paste it in your spreadsheet, and do the following:
 
 Refer to the video(s) below
 
-{% embed url=“https://www.youtube.com/watch?v=3zUDl3cQSFU” caption=” Breaking CSV into Rows and Columns - Dark Mode” %}
+{% embed url="https://www.youtube.com/watch?v=3zUDl3cQSFU" caption=" Breaking CSV into Rows and Columns - Dark Mode" %}
 
-{% embed url=“https://www.youtube.com/watch?v=kLfIAQ8rTSY” caption=” Breaking CSV into Rows and Columns - Light Mode” %}
+{% embed url="https://www.youtube.com/watch?v=kLfIAQ8rTSY" caption=" Breaking CSV into Rows and Columns - Light Mode" %}
 
 Final result should look like as follows:
 
@@ -241,15 +241,15 @@ We’d highly recommend checking out regular expression operator functions in go
 -   [`REGEXMATCH()`](https://support.google.com/docs/answer/3098292?hl=en) \| [Internet archive link](https://web.archive.org/web/20210125193814/https://support.google.com/docs/answer/3098292?hl=en) \| [archive.is link](https://archive.is/t9K1l)
 -   [`REGEXREPLACE()`](https://support.google.com/docs/answer/3098245) \| [Internet archive link](https://web.archive.org/web/20210317145521/https://support.google.com/docs/answer/3098245) \| [archive.is link](https://archive.is/VzGnJ)
 
-We won’t be covering these in any detail here; because the next option is best. It’s in-built, works for almost all CSV files, been around for years, if not decades.
+We won't be covering these in any detail here; because the next option is best. It's in-built, works for almost all CSV files, been around for years, if not decades.
 
 ## Importing a CSV file : Common Option
 
 Most commonly, you’d find yourself importing content of your CSV file directly into your spreadsheet, using import.
 
-Here’s a sample CSV file for you to download
+Here's a sample CSV file for you to download
 
-{% file src=“../../.gitbook/assets/test.csv” caption=“test.csv” %}
+{% file src="../../.gitbook/assets/test.csv" caption="test.csv" %}
 
 -   Download `test.csv` into your system
 -   Go to `File` → `Import`
@@ -265,9 +265,8 @@ In most common cases, it’d be able to parse that correctly into a table.
 
 ![Importing CSV File into Spreadsheet - Light Mode](../../.gitbook/assets/csv-file-import.light.png)
 
-{% hint style=“info” %}
-In this case, we should provide separator type as comma
-{% endhint %}
+???+ info
+    In this case, we should provide separator type as comma
 
 ![After Successful Import - Dark Mode](../../.gitbook/assets/csv-file-import-result.dark.png)
 
@@ -307,6 +306,6 @@ In this chapter, we learned
 
 It might feel as if there was no point to using these functions, when all this time we could have just used in-built import functionality.
 
-Note that a CSV format might not always be a file you import. In a later chapter, we’d have to import CSV data from the web, which cannot be in a file format. `SPLIT()` might come in handy in such situations.
+Note that a CSV format might not always be a file you import. In a later chapter, we'd have to import CSV data from the web, which cannot be in a file format. `SPLIT()` might come in handy in such situations.
 
-In the next chapter, we’d pick up a real world problem, that’s common for most mutual fund investors. CSV format would be at the heart of this problem statement.
+In the next chapter, we'd pick up a real world problem, that's common for most mutual fund investors. CSV format would be at the heart of this problem statement.

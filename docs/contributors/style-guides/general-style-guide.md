@@ -8,7 +8,7 @@ description: A common guideline on how to contribute content to wiki.
 
 This document should serve as a standard guideline on how to write for [r/IndiaInvestments](https://reddit.com/r/IndiaInvestments) wiki.
 
-There’s no *one true* way of writing it. But when working on a collaborative project such as this, we all should agree with certain ground rules, to have uniform content throughout our knowledge base.
+There's no *one true* way of writing it. But when working on a collaborative project such as this, we all should agree with certain ground rules, to have uniform content throughout our knowledge base.
 
 It also helps reviewers, reducing cognitive load on what to watch out for.
 
@@ -20,11 +20,11 @@ It should have a balanced tone. No need to be overly aggressive / abusive / cock
 
 Standard text, with somewhat firmness is well suited. Write less. Break complex sentences down to simpler ones. Use periods more than conjunctions.
 
-Avoid phrases like *in my humble opinion* (you’re writing it, of course it’s in your opinion. Duh!), or *correct me if I’m wrong*, or *I’m no lawyer*. Similarly, avoid raining emojis.
+Avoid phrases like *in my humble opinion* (you're writing it, of course it's in your opinion. Duh!), or *correct me if I'm wrong*, or *I'm no lawyer*. Similarly, avoid raining emojis.
 
-Furnish information that you can, and avoid taking the note in a direction that you’re not comfortable with.
+Furnish information that you can, and avoid taking the note in a direction that you're not comfortable with.
 
-In particular, avoid passive mode wherever possible. Sure, it’s not always avoidable - sometimes a sentence may even have no other choice but to omit the subject.
+In particular, avoid passive mode wherever possible. Sure, it's not always avoidable - sometimes a sentence may even have no other choice but to omit the subject.
 
 But for most scenarios, active voice is better suited.
 
@@ -32,23 +32,23 @@ But for most scenarios, active voice is better suited.
 
 Reading a *large wall of text* can be unsettling, and boring.
 
-Strive to not have paragraphs **more than 1-2 sentences long**. If you’re writing a paragraph that’s more than three sentences long, you’re doing something wrong.
+Strive to not have paragraphs **more than 1-2 sentences long**. If you're writing a paragraph that's more than three sentences long, you're doing something wrong.
 
-We’re not looking for dense academic dissertations.
+We're not looking for dense academic dissertations.
 
 ## Acronyms and Short-form Abbreviations 🔹
 
-We’d often be referring to terms that are used in short-form or as acronyms.
+We'd often be referring to terms that are used in short-form or as acronyms.
 
-If you introduce a new acronym in a chapter that’s not covered before, feel free to expand on that in a sentence. At the very least, provide the full-form once (and only once), before using the acronym everywhere else.
+If you introduce a new acronym in a chapter that's not covered before, feel free to expand on that in a sentence. At the very least, provide the full-form once (and only once), before using the acronym everywhere else.
 
 This is one example of how **not** to do acronyms in the wiki:
 
 *CDSL is one of the depositories that would send you a CAS every month*
 
-**CDSL**, **CAS** - these two terms would alienate the reader. Because they might not know what these are, if you’ve not introduced these in context.
+**CDSL**, **CAS** - these two terms would alienate the reader. Because they might not know what these are, if you've not introduced these in context.
 
-We fall back to our guiding principle - you shouldn’t make assumptions about what the reader already knows. Instead, accept it upfront that they probably don’t know, err on the side of repetition.
+We fall back to our guiding principle - you shouldn't make assumptions about what the reader already knows. Instead, accept it upfront that they probably don't know, err on the side of repetition.
 
 This is a better way of writing the same sentence from above:
 
@@ -64,11 +64,11 @@ But it should be present. At least once, and exactly once.
 
 **Do not** provide full-form of obvious and well-known acronyms, only the ones that are specific to investing / finance / economics domain.
 
-For example, there’s no need to write it like this:
+For example, there's no need to write it like this:
 
 *US (**U**nited **S**tates) equities are less correlated with Indian equities, than Indian equity mutual funds*.
 
-It isn’t unreasonable to expect that a reader would be familiar with the acronym `US`.
+It isn't unreasonable to expect that a reader would be familiar with the acronym `US`.
 
 ## Be unbiased ☯️
 
@@ -76,15 +76,15 @@ A good rule of thumb is to ask yourself this: *if someone reads this 5 years fro
 
 Focus on producing *evergreen* content.
 
-For example, you might be tempted to write *Product X is not right for you, it doesn’t even have feature Y*.
+For example, you might be tempted to write *Product X is not right for you, it doesn't even have feature Y*.
 
-Except, five years from now, it might. Or, maybe this feature Y won’t even be needed five years down the line.
+Except, five years from now, it might. Or, maybe this feature Y won't even be needed five years down the line.
 
-A better sentence would be *At the time of writing this, product X doesn’t support Y. You may consider it if that changes*.
+A better sentence would be *At the time of writing this, product X doesn't support Y. You may consider it if that changes*.
 
-Avoid opinions. It’s okay to say *historically equity has beaten inflation over the long term, at least in the last 40 years.*
+Avoid opinions. It's okay to say *historically equity has beaten inflation over the long term, at least in the last 40 years.*
 
-But it’s not okay to phrase it as *equity is the only asset that’d perform better than inflation*.
+But it's not okay to phrase it as *equity is the only asset that'd perform better than inflation*.
 
 No one can predict that.
 
@@ -119,7 +119,7 @@ Alternatively, you could use these extensions / plugins in your browsers, to get
 
 ### Reddit links ⚓
 
-When it comes to Reddit links, especially links to a comment or post; we’ve decided to provide four links, instead of three.
+When it comes to Reddit links, especially links to a comment or post; we've decided to provide four links, instead of three.
 
 Reddit is a social platform, with multiple clients and readers out there, which aid users across the world consume its content. Aside from the *new.reddit* and *old.reddit* web platforms; Reddit also have plethora of mobile clients - Joey, Apollo, and many others; aside from the official Reddit app.
 
@@ -133,7 +133,7 @@ The first link with `www` subdomain, allows readers to open it in their favorite
 
 -   Avoid referring to yourself in first person. *I*, *me*, *we*, *present author* etc. pronouns / phrases are best avoided.
 
--   Keep asking yourself *who’s the intended reader for this?* For instance, if you’re writing chapter 5 of a series, then you can reasonably assume the reader would be well-versed in content entries from previous four chapters of the same series. No need to repeat any concept already covered in first four chapters preceding that. However, if the content is not something a reader is supposed to know, it’s best if you explain in 2-3 sentences. Make the content as *beginner friendly* as possible, without compromising quality. To that end, use examples to illustrate a concept. Or, use diagrams (tools like Excalidraw can help with this), or tables, or even images or videos. Beginner friendly coverage of concepts are comprehensive. If you write a specific concept once, so anyone who didn’t understand that before can now grasp it reading that content - it benefits every other contributor out there. Because they can simply refer to that in their writing, without having to covering same concept.  
+-   Keep asking yourself *who's the intended reader for this?* For instance, if you're writing chapter 5 of a series, then you can reasonably assume the reader would be well-versed in content entries from previous four chapters of the same series. No need to repeat any concept already covered in first four chapters preceding that. However, if the content is not something a reader is supposed to know, it's best if you explain in 2-3 sentences. Make the content as *beginner friendly* as possible, without compromising quality. To that end, use examples to illustrate a concept. Or, use diagrams (tools like Excalidraw can help with this), or tables, or even images or videos. Beginner friendly coverage of concepts are comprehensive. If you write a specific concept once, so anyone who didn't understand that before can now grasp it reading that content - it benefits every other contributor out there. Because they can simply refer to that in their writing, without having to covering same concept.  
 
 -   No plagiarism
 
@@ -141,7 +141,7 @@ The first link with `www` subdomain, allows readers to open it in their favorite
 
     You can quote a source, as long as you cite it properly.
 
-    But copy-pasting verbatim from a source and trying to pass it off as your own work would invite troubles for you. We do this check before inserting every piece of content into the wiki. And it’s surprisingly easy to discover when someone copies even a single paragraph from external sources.
+    But copy-pasting verbatim from a source and trying to pass it off as your own work would invite troubles for you. We do this check before inserting every piece of content into the wiki. And it's surprisingly easy to discover when someone copies even a single paragraph from external sources.
 
 -   After writing an entry, **read it yourself**, before you ask others to review it.
 
@@ -149,12 +149,12 @@ The first link with `www` subdomain, allows readers to open it in their favorite
 
 ## Wrapping Up
 
-Most of us are pretty average at most things we do. Even if you’re exceptional at one thing, chances are that you’re average, or below average, at most other things. That’s just the nature of life. To become truly great at something, you have to dedicate tons of time and energy to it.
+Most of us are pretty average at most things we do. Even if you're exceptional at one thing, chances are that you're average, or below average, at most other things. That's just the nature of life. To become truly great at something, you have to dedicate tons of time and energy to it.
 
 We all have limited time and energy, and most of us choose to devote it to our fields of choice. It is then perfectly understandable a lot of us, most of us, are not good at parts of content writing, like phrasing and structuring sentences, even if we have valuable content to share with others.
 
-When we offer help with these parts, trust us when we say it’s not because our intents are to put someone down, or *establish a sense of superiority complex*, it is pure and simple help, because it would be very presumptuous of us to assume all content contributors are good at content writing.
+When we offer help with these parts, trust us when we say it's not because our intents are to put someone down, or *establish a sense of superiority complex*, it is pure and simple help, because it would be very presumptuous of us to assume all content contributors are good at content writing.
 
-However, this is being built as a free open-source project. If you don’t agree with our choices; you can fork the project on GitHub, and maintain your own version of the wiki.
+However, this is being built as a free open-source project. If you don't agree with our choices; you can fork the project on GitHub, and maintain your own version of the wiki.
 
 In the next few sections, we cover dedicated guides as to specific series or sections of the wiki.

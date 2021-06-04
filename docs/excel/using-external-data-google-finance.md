@@ -18,15 +18,14 @@ With Google Sheets, one might need to write some [Google Apps javascript](https:
 
 There are even dedicated tools and services, like IFTTT, RapiAPI, Mixpanel etc., which offer a way to integrate lot of service endpoints with your excel sheet.
 
-In this section, we’d keep ourselves limited to `GOOGLEFINANCE` function, that fetches financial data from [Google Finance](https://www.google.com/finance). And preferably, use [Google Sheets](https://docs.google.com/spreadsheets); because most likely, your MS Excel application doesn’t come with this in-built function.
+In this section, we’d keep ourselves limited to `GOOGLEFINANCE` function, that fetches financial data from [Google Finance](https://www.google.com/finance). And preferably, use [Google Sheets](https://docs.google.com/spreadsheets); because most likely, your MS Excel application doesn't come with this in-built function.
 
-{% hint style=“danger” %}
-©️ 🔒 Do go through usage restriction section in `GOOGLEFINANCE()` [documentation by Google](https://support.google.com/docs/answer/3093281?hl=en), to make sure you using this in your spreadsheets, is compliant with Google’s terms of usage.
-{% endhint %}
+???+ danger
+    ©️ 🔒 Do go through usage restriction section in `GOOGLEFINANCE()` [documentation by Google](https://support.google.com/docs/answer/3093281?hl=en), to make sure you using this in your spreadsheets, is compliant with Google's terms of usage.
 
 ## Problem Statement
 
-Plenty of economists point out how NASDAQ has stayed below its ATH (**A**ll **T**ime **H**igh, i.e. a price value in time-series chart that’s higher than all past values) of 2000s, for the next ~15 years, before reaching the same high around 2015-16.
+Plenty of economists point out how NASDAQ has stayed below its ATH (**A**ll **T**ime **H**igh, i.e. a price value in time-series chart that's higher than all past values) of 2000s, for the next ~15 years, before reaching the same high around 2015-16.
 
 ![NASDAQ Chart - Dark Mode](../.gitbook/assets/nasdaq-chart.dark.png)
 
@@ -40,9 +39,8 @@ However, people don’t invest once then wait 15 years for returns to materializ
 
 In this section, we’d look at how it’d have been like for the average retail investor, who had been investing with DCA (**D**ollar **C**ost **A**veraging, similar to SIP or **S**ystematic **I**nvesting **P**lan, in Indian context).
 
-{% hint style=“info” %}
-This is a reasonable assumption to make. It’s common for people to get monthly paychecks, and invest their savings via some automated process through their banks or brokers.
-{% endhint %}
+???+ info
+    This is a reasonable assumption to make. It's common for people to get monthly paychecks, and invest their savings via some automated process through their banks or brokers.
 
 For the purpose of this exercise, we’d assume the following:
 
@@ -50,7 +48,7 @@ For the purpose of this exercise, we’d assume the following:
 -   We check investment corpus valuation as on the date of next time NASDAQ crosses its previous peak, i.e., 22nd May, 2015
 -   Investor invests \$1000 / month (exact amount would scale up or down, with this, so actual amount is not that important)
 
-Our goal is to estimate if investor would’ve been in losses, or if they had made gains. And if so, how much in losses or gains.
+Our goal is to estimate if investor would've been in losses, or if they had made gains. And if so, how much in losses or gains.
 
 ## Planning
 
@@ -96,7 +94,7 @@ Our approach:
 
 ## Implementation
 
-Follow these steps, to execute the plan that we’ve just made above.
+Follow these steps, to execute the plan that we've just made above.
 
 -   Create a new sheet in Google Sheet. We’d refer to it as the ***sheet*** , going forward.
 
@@ -147,9 +145,8 @@ Once we’ve entered a valid date and it’s been recognized by Excel to be a va
 
 Here, `<date>` means referring to the cell which has the date in. Since we’ve made sure it’s by system as a valid date, the Google Finance API would be able to use it.
 
-{% hint style=“info” %}
-Notice the usage of `""` to wrap various texts inside the function. We could have also used single quotes (`''`) to wrap these texts.
-{% endhint %}
+???+ info
+    Notice the usage of `""` to wrap various texts inside the function. We could have also used single quotes (`''`) to wrap these texts.
 
 The last argument, `1` , is interesting, and takes care of our issue from earlier, about knowing working date on or after 1st of month.
 
@@ -163,9 +160,9 @@ Once you enter these in a cell, link to the date from the other cell; and hit `E
 |:--------------------|:--------|
 | 03/04/2000 16:00:00 | 4223.68 |
 
-{% embed url=“https://youtu.be/zSUmUS7YOKM” %}
+{% embed url="https://youtu.be/zSUmUS7YOKM" %}
 
-{% embed url=“https://youtu.be/ZGNNt4KZGOM” %}
+{% embed url="https://youtu.be/ZGNNt4KZGOM" %}
 
 ### Using INDEX()
 
@@ -184,13 +181,12 @@ We’re receiving data for only a single trading day, as confirmed by 4th argume
 |:--------------------|:--------|
 | 03/04/2000 16:00:00 | 4223.68 |
 
-We’re interested in the closing price, 4223.68 on 3rd April 2000.
+We're interested in the closing price, 4223.68 on 3rd April 2000.
 
 Therefore, this table returned by Google Finance would always have closing price at (2,2) position.
 
-{% hint style=“info” %}
-Here (2, 2) means 2nd row, 2nd column.
-{% endhint %}
+???+ info
+    Here (2, 2) means 2nd row, 2nd column.
 
 We can take the result of `GOOGLEFINANCE` call, and pass it into `INDEX` function, like this
 
@@ -210,9 +206,9 @@ Similarly, for the `actual date` column, we use (2,1) with `INDEX`:
 
 Also refer to following video
 
-{% embed url=“https://youtu.be/l0UkFxQDE-k” %}
+{% embed url="https://youtu.be/l0UkFxQDE-k" %}
 
-{% embed url=“https://youtu.be/dB0Pn9Vek60” %}
+{% embed url="https://youtu.be/dB0Pn9Vek60" %}
 
 ### Repeating Patterns
 
@@ -243,19 +239,18 @@ We can add one more entry in the first column, below current row.
 
     Go to first entry in `Actual Date` column, drag the small square till you get to the end of it, so that there’s a `Date` entry for each of the entry in `Actual Date`.
 
-{% embed url=“https://youtu.be/0u\_XQvMzfgQ” %}
+{% embed url="https://youtu.be/0u\_XQvMzfgQ" %}
 
-{% embed url=“https://youtu.be/DoHIGMBXlFM” %}
+{% embed url="https://youtu.be/DoHIGMBXlFM" %}
 
-{% hint style=“warning” %}
-⚠️ 🚨 Some cells might have `#NA` and say that there’s an error in getting data from Google Finance. This is a quirk of the `GOOGLEFINANCE()` query. This can be fixed easily, but would require some manual intervention.
-{% endhint %}
+???+ warning
+    ⚠️ 🚨 Some cells might have `#NA` and say that there’s an error in getting data from Google Finance. This is a quirk of the `GOOGLEFINANCE()` query. This can be fixed easily, but would require some manual intervention.
 
 ### Fixing Broken Cells ⛏️
 
 Notice that we’re wrapping the result of Google Finance query, in `INDEX`, and extracting the entry from cell (2,1) for actual date.
 
-It actually doesn’t matter how many rows of data we request from Google finance, we would still find closing price nearest trading day on or after the provided date.
+It actually doesn't matter how many rows of data we request from Google finance, we would still find closing price nearest trading day on or after the provided date.
 
 Double-click on one such cell, change `1` to `2` in last argument in `GOOGLEFINANCE()`. In one case, we had to change that to `3`.
 
@@ -279,9 +274,9 @@ Here’s how it could look like now (a section from the sheet)
 | 01/07/2005 | 01/07/2005  |          | 2057.37 |       |
 | 01/08/2005 | 01/08/2005  |          | 2195.38 |       |
 
-{% embed url=“https://youtu.be/8\_d1vY4dcjQ” %}
+{% embed url="https://youtu.be/8\_d1vY4dcjQ" %}
 
-{% embed url=“https://youtu.be/Xe5KAqYmS0o” %}
+{% embed url="https://youtu.be/Xe5KAqYmS0o" %}
 
 This is a common problem with this spreadsheet function, and others have solved it with different approaches.
 
@@ -309,9 +304,8 @@ This is how the table should look like now (a small section from the sheet)
 | 01/07/2005 | 01/07/2005  | 1000     | 2057.37 |       |
 | 01/08/2005 | 01/08/2005  | 1000     | 2195.38 |       |
 
-{% hint style=“info” %}
-We’ve avoided using any units for currency, such as `$`. Just plain 1000, with no units.
-{% endhint %}
+???+ info
+    We've avoided using any units for currency, such as `$`. Just plain 1000, with no units.
 
 ### Units Column
 
@@ -376,7 +370,7 @@ Refer to below image(s)
 
 Overall, total invested amount would’ve been **182,000 USD**. And the valuation of corpus as on 22nd May 2015, would have been **402,095 USD**.
 
-Investor would’ve made ~1.2x of original invested corpus in gain [😊](https://emojipedia.org/smiling-face-with-smiling-eyes/)
+Investor would've made ~1.2x of original invested corpus in gain [😊](https://emojipedia.org/smiling-face-with-smiling-eyes/)
 
 ## Wrapping Up
 

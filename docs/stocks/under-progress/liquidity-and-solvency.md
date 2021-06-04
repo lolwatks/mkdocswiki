@@ -26,9 +26,8 @@ Let’s consider the balance sheet of an infrastructure and construction company
 
 The total debt can be calculated as `₹35,021.02 + ₹23,654.77 + ₹82,331.33 + ₹1,741.6 + ₹424.95 = ₹1,43,173 crores`. The Shareholders Equity is `₹280.78 + ₹66,442.44 + ₹9,520.83 = ₹76,244.05 crores`. This gives us a debt to equity ratio of `₹1,43,173 / ₹76,244.05 = 1.87`.
 
-{% hint style=“info” %}
-Although we’ve included lease liabilities in our calculation, not being able to pay lease obligations may not have the same impact as not paying loan obligations. We can exclude lease obligations from the numerator to get a debt to equity ratio of `1.84`.
-{% endhint %}
+???+ info
+    Although we’ve included lease liabilities in our calculation, not being able to pay lease obligations may not have the same impact as not paying loan obligations. We can exclude lease obligations from the numerator to get a debt to equity ratio of `1.84`.
 
 A debt to equity ratio of `1.87` tells us that for every ₹1 in shareholders equity, Larsen & Toubro has `₹1.87` in debt.
 

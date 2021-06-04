@@ -10,15 +10,15 @@ A **Bond** is a contract, between an entity taking the loan (issuing the bond) a
 
 #### Who issues bonds?
 
-Companies that need capital (fancy way of saying access to large sums of money), can issue bonds. Central banks, like RBI or Federal Reserve or Bank of England, can and do issue bonds. Govt. of a country (GOI, for example) as well as state governments, can also issue bonds. Bonds are market-linked securities, just like stocks. Not unlike stocks, bonds also trade daily in exchanges (often called “secondary markets”) such as NSE / BSE etc.
+Companies that need capital (fancy way of saying access to large sums of money), can issue bonds. Central banks, like RBI or Federal Reserve or Bank of England, can and do issue bonds. Govt. of a country (GOI, for example) as well as state governments, can also issue bonds. Bonds are market-linked securities, just like stocks. Not unlike stocks, bonds also trade daily in exchanges (often called "secondary markets") such as NSE / BSE etc.
 
 #### Why?
 
-A company issues bonds to raise capital from the capital markets. It helps with their immediate need for cash. Which they would invest in growing their business. The belief here is they can generate much higher return than it’d cost to pay interest on that loan raised through bonds. Central banks, governments etc. do it for similar reasons as well; but instead of business growth, they’re more focused on controlling flow of money within economy and issuing bonds in capital markets is how they start. The buyer of bonds is getting interest on money lent out against bonds.
+A company issues bonds to raise capital from the capital markets. It helps with their immediate need for cash. Which they would invest in growing their business. The belief here is they can generate much higher return than it'd cost to pay interest on that loan raised through bonds. Central banks, governments etc. do it for similar reasons as well; but instead of business growth, they're more focused on controlling flow of money within economy and issuing bonds in capital markets is how they start. The buyer of bonds is getting interest on money lent out against bonds.
 
 **Is currency a bond?**
 
-You might think that 10 rupee note in your pocket is a bond issued by RBI, because it clearly has the signature of RBI Governor, and some legalese printed on that. No, it’s not a bond. Currencies are not bonds, even if they’re issued by central banks.
+You might think that 10 rupee note in your pocket is a bond issued by RBI, because it clearly has the signature of RBI Governor, and some legalese printed on that. No, it's not a bond. Currencies are not bonds, even if they're issued by central banks.
 
 ### History
 
@@ -38,8 +38,8 @@ It is the rate of return. How does this differ from the coupon? Simply put not a
 
 **Yield to Call**
 
-A call option is a special provision in some bonds where the bond issuer has the special right to immediately pay off the bond. Think about how you might want to pay off a loan after getting a promotion with a large hike. Quite often a bond that offers a yield much higher than average will be “called” so it is prudent to check both the yield to maturity (yield which you will get if held till maturity) and yield until the date when the issuer has a right to call the bond. As an addendum there is another feature in some bonds called a put option which is the reverse ie it lets the bond holder force the issuer to pay the money back early, a premature FD closure if you may.
+A call option is a special provision in some bonds where the bond issuer has the special right to immediately pay off the bond. Think about how you might want to pay off a loan after getting a promotion with a large hike. Quite often a bond that offers a yield much higher than average will be "called" so it is prudent to check both the yield to maturity (yield which you will get if held till maturity) and yield until the date when the issuer has a right to call the bond. As an addendum there is another feature in some bonds called a put option which is the reverse ie it lets the bond holder force the issuer to pay the money back early, a premature FD closure if you may.
 
 #### Credit Quality
 
-As mentioned earlier not all bonds are made equal. Some bonds are riskier than others, this risk can be estimated by a “credit rating” which is a score that indicates how risky a bond is.
+As mentioned earlier not all bonds are made equal. Some bonds are riskier than others, this risk can be estimated by a "credit rating" which is a score that indicates how risky a bond is.

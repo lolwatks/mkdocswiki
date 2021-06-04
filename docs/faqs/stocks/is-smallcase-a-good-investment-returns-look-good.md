@@ -9,15 +9,15 @@ There are two parts to investing via smallcase:
 -   the tooling around managing a watchlist of stocks, which enables us to execute transactions at portfolio level rather than at scrip level
 -   the basket of stocks offered by smallcase themselves, such as the *Low Risk - Smart Beta* smallcase, which can have a collection of stocks, ETFs, commodities etc.
 
-There’s no doubt that the usability of smallcase, as a tool, to manage a stock portfolio is quite good. When we say “usability”, we mean the user experience of using the smallcase website and its aesthetics. If you already have a plan to invest in a collection of stocks of your choice, you can create a watchlist and place orders using smallcase.
+There's no doubt that the usability of smallcase, as a tool, to manage a stock portfolio is quite good. When we say "usability", we mean the user experience of using the smallcase website and its aesthetics. If you already have a plan to invest in a collection of stocks of your choice, you can create a watchlist and place orders using smallcase.
 
 The second aspect requires smallcase having a proven track record. The people responsible for maintaining the various basket of stocks on their platform should be capable stock pickers themselves.
 
-We’re mostly concerned with the second aspect in this article.
+We're mostly concerned with the second aspect in this article.
 
-### Here’s why investing in the baskets of stocks offered by smallcase might not be a good idea <a id="What-doesn&#x2019;t-make-it-a-good-investment-at-present"></a>
+### Here's why investing in the baskets of stocks offered by smallcase might not be a good idea <a id="What-doesn&#x2019;t-make-it-a-good-investment-at-present"></a>
 
--   Depending on the portfolio turnover, there can be significant tax drag for you since you’ll be buying and selling units regularly.
+-   Depending on the portfolio turnover, there can be significant tax drag for you since you'll be buying and selling units regularly.
 
     Smallcase is typically known for rebalancing their portfolios once every 90 days, for most of the portfolios.
 
@@ -25,7 +25,7 @@ We’re mostly concerned with the second aspect in this article.
 
     Since these are all negative cashflow transactions in your portfolio, your portfolio XIRR would end up falling behind the advertised CAGR of the same smallcase, over the same time period.
 
--   There’s a lack of a proven track record that can be independently audited and verified.
+-   There's a lack of a proven track record that can be independently audited and verified.
 
     Asset Management Companies (AMCs) are legally required to publish the Net Asset Value (NAV) of their mutual funds everyday, and the list of holdings held by their mutual funds every month. This means that an AMC can’t give you random numbers. They are forced to keep everything in the public’s eye.
 
@@ -57,7 +57,7 @@ Here are a few bars that the baskets of stocks offered by smallcase has to meet 
 
     Smallcase should, ideally, indicate net insider holdings against each basket of stocks that they offer on their platform.
 
-    Anyone can come up with a portfolio of stocks. However, if people from smallcase showcase that they’re investing in their own basket of stocks offered on their website, it’d engender more trust in smallcase.
+    Anyone can come up with a portfolio of stocks. However, if people from smallcase showcase that they're investing in their own basket of stocks offered on their website, it’d engender more trust in smallcase.
 
     A commonly accepted qualitative metric of mutual fund selection, is to look at key insider holdings — after all, why would someone else invest in a basket of stocks, if the entity offering it cannot get their own employees to invest in those? AMCs have to disclose insider holdings in their mutual funds as a percentage of net AUM to show how *key insiders* are invested in those.
 
@@ -65,7 +65,7 @@ Here are a few bars that the baskets of stocks offered by smallcase has to meet 
 
 -   **Disclosure on Portfolio XIRR**
 
-    Smallcase Baskets, by design, are a product where return difference due to both *behavior gap* and costs can be very high. They’re not a standard *buy and forget* product.
+    Smallcase Baskets, by design, are a product where return difference due to both *behavior gap* and costs can be very high. They're not a standard *buy and forget* product.
 
     Behavior gap is a well-defined term. In short, it denotes the difference between underlying asset’s returns, and returns as investors see in their portfolio, due to behavioral reasons.
 

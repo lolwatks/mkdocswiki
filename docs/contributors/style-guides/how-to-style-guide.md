@@ -20,10 +20,10 @@ This document is for you, if you’re planning to warm-up with some contribution
 
 Start with our general content guidelines, which also apply to *How to* section
 
-{% page-ref page=“general-style-guide.md” %}
+{% page-ref page="general-style-guide.md" %}
 
 Other than these, refer to following guidelines
 
--   Optimize for anxiety and rush Someone might be reading a how-to guide, and be in a hurry to execute those steps. Respect their time. The document should clearly point out, and highlight through formatting (use emojis like ✅ or ❌); what should and should not be done. Point out known common issues. Don’t leave out trivial details. Assume your how-to guide to be a run-book or field manual. Avoid *description*, focus on *narration*. A bullet-point ordered list is better, than a few paragraphs, in most cases. If you need to give detailed reasoning for a step, provide it in a way that if needed, user can easily skip that and move to next step.
--   When writing about a product specific *how to*, it’s best to directly link to *how-to* provided by the product itself. An entry for *How to open a Zerodha account* should have reference to Zerodha’s own documentation and support articles on this. Add text beyond that, only if that adds value (maybe it points out common issues, or pitfalls) that’s not already covered by those documentations.
--   It’s best if you clearly and explicitly mention pre-requisites for each how-to, and who all are not eligible / don’t need to do this. An entry for *How to file ITR 1*, should clearly mention who are eligible for filing ITR 1, and how to confirm that.
+-   Optimize for anxiety and rush Someone might be reading a how-to guide, and be in a hurry to execute those steps. Respect their time. The document should clearly point out, and highlight through formatting (use emojis like ✅ or ❌); what should and should not be done. Point out known common issues. Don't leave out trivial details. Assume your how-to guide to be a run-book or field manual. Avoid *description*, focus on *narration*. A bullet-point ordered list is better, than a few paragraphs, in most cases. If you need to give detailed reasoning for a step, provide it in a way that if needed, user can easily skip that and move to next step.
+-   When writing about a product specific *how to*, it's best to directly link to *how-to* provided by the product itself. An entry for *How to open a Zerodha account* should have reference to Zerodha's own documentation and support articles on this. Add text beyond that, only if that adds value (maybe it points out common issues, or pitfalls) that's not already covered by those documentations.
+-   It's best if you clearly and explicitly mention pre-requisites for each how-to, and who all are not eligible / don't need to do this. An entry for *How to file ITR 1*, should clearly mention who are eligible for filing ITR 1, and how to confirm that.

@@ -52,7 +52,7 @@ Our task is to use excel / spreadsheet find these two:
 
 This is a CSV of transactions from one of our community members. We’ve changed around a few data points, and removed PII (**P**ersonally **I**dentifying **I**nformation).
 
-{% file src=“../../.gitbook/assets/data.csv” caption=“Transaction History in CSV format” %}
+{% file src="../../.gitbook/assets/data.csv" caption="Transaction History in CSV format" %}
 
     ,Scheme Name ,Purchase Date,Transaction Type,Amount (Rs.),Price  (Rs.),Units
     ,Parag Parikh Flexi Cap Fund - Regular Plan - Growth,09/06/2017,New Investment ,5000,20.6793,241.788
@@ -515,9 +515,9 @@ We are referring across sheet, the reference works out as `<name of the sheet>!<
 
 Refer to this video for more guidance:
 
-{% embed url=“https://www.youtube.com/watch?v=iXOSl-pfrC8” caption=“Extracting Unique Fund Names - Dark Mode” %}
+{% embed url="https://www.youtube.com/watch?v=iXOSl-pfrC8" caption="Extracting Unique Fund Names - Dark Mode" %}
 
-{% embed url=“https://www.youtube.com/watch?v=Q8KinGUG\_Ug” caption=“Extracting Unique Fund Names - Light Mode” %}
+{% embed url="https://www.youtube.com/watch?v=Q8KinGUG\_Ug" caption="Extracting Unique Fund Names - Light Mode" %}
 
 Final outcome of this process should look like as follows
 
@@ -601,9 +601,9 @@ Follow these steps:
 
 Refer to the following video(s)
 
-{% embed url=“https://www.youtube.com/watch?v=Oson6YaYs\_U” caption=“Computing Units Sold with SUMIFS() - Dark Mode” %}
+{% embed url="https://www.youtube.com/watch?v=Oson6YaYs\_U" caption="Computing Units Sold with SUMIFS() - Dark Mode" %}
 
-{% embed url=“https://www.youtube.com/watch?v=F-gcflvRs50” caption=“Computing Units Sold with SUMIFS() - Light Mode” %}
+{% embed url="https://www.youtube.com/watch?v=F-gcflvRs50" caption="Computing Units Sold with SUMIFS() - Light Mode" %}
 
 Final result should match this
 
@@ -681,9 +681,9 @@ The `SUMIFS()` would get one more condition with 2 more arguments - that purchas
 
 Refer to the following video:
 
-{% embed url=“https://www.youtube.com/watch?v=3XqMbPsOB00” caption=“Computing Units Purchased &gt; 1 Year - Dark Mode” %}
+{% embed url="https://www.youtube.com/watch?v=3XqMbPsOB00" caption="Computing Units Purchased &gt; 1 Year - Dark Mode" %}
 
-{% embed url=“https://www.youtube.com/watch?v=IDuWjJcHjCI” caption=“Computing Units Purchased &gt; 1 Year - Light Mode” %}
+{% embed url="https://www.youtube.com/watch?v=IDuWjJcHjCI" caption="Computing Units Purchased &gt; 1 Year - Light Mode" %}
 
 Final result should match these
 
@@ -691,13 +691,11 @@ Final result should match these
 
 ![Units Purchased more than 1Y Ago - Light Mode](../../.gitbook/assets/units-purchased-one-year-ago.light%20%281%29%20%281%29%20%281%29%20%281%29.png)
 
-{% hint style=“warning” %}
-The numbers might not exactly match, because depending on today’s date, you might have a higher value. Above computation is as on 21st March 2021.
-{% endhint %}
+???+ warning
+    The numbers might not exactly match, because depending on today's date, you might have a higher value. Above computation is as on 21st March 2021.
 
-{% hint style=“info” %}
-When a cell range in a sheet is being referred, second reference to same sheet can be omitted. `data!B4:data!B50` can be written as `data!B4:B50`
-{% endhint %}
+???+ info
+    When a cell range in a sheet is being referred, second reference to same sheet can be omitted. `data!B4:data!B50` can be written as `data!B4:B50`
 
 ### LTCG-Eligible Units
 
@@ -733,4 +731,4 @@ This is evident from the `Units Sold` column - investor hasn’t sold any units 
 
 Over the years, investor has switched their corpus into these above funds.
 
-For the other funds in their portfolio, they’ve completely sold these off, more than a year ago. We can easily verify this, going through the redemption transactions, and see that those were before 21/03/2020, i.e. more than one year ago.
+For the other funds in their portfolio, they’ve completely sold these off, more than a year ago. We can easily verify this, going through the redemption transactions, and see that those were before 21/03/2020, i.e. more than one year ago.

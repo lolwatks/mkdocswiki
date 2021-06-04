@@ -44,4 +44,4 @@ Better still, don’t own a credit card till you are financially savvy enough. *
 
 Now that we have curtailed spending and have easy setup for investing, the basic question is how much you should save?
 
-**The basic idea is Save as much as you Reasonably can**. If that is 60-70%, good (Pattu does that, I do that). If it is 30%, well and good. If it is 10%, again decent, since it is better than 0%. Once you start seeing results of your savings, you will get better. With better incomes, and lesser spendings and more focus, the rate of savings will increase. Don’t get limited on to 10%, since that is what I have seen most recommended - that amount is seriously insufficient.
+**The basic idea is Save as much as you Reasonably can**. If that is 60-70%, good (Pattu does that, I do that). If it is 30%, well and good. If it is 10%, again decent, since it is better than 0%. Once you start seeing results of your savings, you will get better. With better incomes, and lesser spendings and more focus, the rate of savings will increase. Don't get limited on to 10%, since that is what I have seen most recommended - that amount is seriously insufficient.

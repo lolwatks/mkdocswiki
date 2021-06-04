@@ -24,15 +24,15 @@ description: A checklist to reference while performing due diligence on a compan
     -   ☐ How capital intensive is the production, marketing, distribution, delivery & installation of the product?
 -   **Market Overview**
     -   ☐ How mature is the sector domestically? Is the sector expecting a turnaround from the current trend?
-    -   ☐ How is the product’s market share split between organized & unorganized players? Which way is the market leaning now?
-    -   ☐ How is the product’s market share split between domestic & international players? Which way is the market leaning now?
+    -   ☐ How is the product's market share split between organized & unorganized players? Which way is the market leaning now?
+    -   ☐ How is the product's market share split between domestic & international players? Which way is the market leaning now?
     -   ☐ Who are the key players that set the trend for the sector? *(in terms of pricing power, product innovation, market practices)*
     -   ☐ Who are the emerging players that could have material impact on the trend for the sector?
     -   ☐ What entry to barrier does the sector enjoy?
 -   **Industry Benchmarks / Key metrics**
-    -   ☐ Industry’s preferred benchmark for capacity
-    -   ☐ Industry’s preferred benchmark for utilization
-    -   ☐ Industry’s preferred benchmark for consumption
+    -   ☐ Industry's preferred benchmark for capacity
+    -   ☐ Industry's preferred benchmark for utilization
+    -   ☐ Industry's preferred benchmark for consumption
 
 ## Business
 
@@ -45,7 +45,7 @@ description: A checklist to reference while performing due diligence on a compan
     -   ☐ What product segment is the company catering to?
     -   ☐ Where does the product fit in the market? Is there something that differentiates the product against competitors?
     -   ☐ What is the *addressable* market size for the product?
-    -   ☐ What is the product’s market share, mind share, or position in the market?
+    -   ☐ What is the product's market share, mind share, or position in the market?
 -   **Business Model**
     -   ☐ A brief overview of the business model of the company.
     -   ☐ What are the growth avenues for the company?
@@ -67,7 +67,7 @@ description: A checklist to reference while performing due diligence on a compan
     -   ☐ Is the balance sheet clean/strong?
     -   ☐ How does equity dilution look like in the past few years for the company?
     -   ☐ How much cash, or equivalents does the company hold currently?
-    -   ☐ What’s been the major capital expenditures that the company has done in the past few years?
+    -   ☐ What's been the major capital expenditures that the company has done in the past few years?
     -   ☐ How does regular capital expenditure look like for the company?
     -   ☐ What is the quantum of debt obligations for the company?
     -   ☐ Is there inventory building up for the company?
@@ -143,7 +143,7 @@ description: A checklist to reference while performing due diligence on a compan
     -   ☐ Where does the primary thesis for this investment come from? Was it peddled on a news channel/social media post or did it come into your radar as a consequence of independent research?
     -   ☐ Is the investment being done due to *Fear of missing out* on positive price action momentum?
     -   ☐ Can the investment qualify as a case of *Catching a falling knife?*
-    -   ☐ If you’re exiting an investment because it has fallen significantly/sharply, is it because something has changed fundamentally about the business or its future earning potential?
+    -   ☐ If you're exiting an investment because it has fallen significantly/sharply, is it because something has changed fundamentally about the business or its future earning potential?
     -   ☐ How does the stock fit into the overall portfolio? How much do you own of that sector/country already?
 -   **Staying on track**
     -   ☐ Does the latest Quarterly earnings report validate or invalidate your investment thesis?

@@ -1,6 +1,6 @@
 # How do I start investing in mutual funds \[ELI5 series\]
 
-So, you have thought about investing in mutual funds but don’t know how to start. Congratulations, because [getting started up is the hardest part](http://www.bankers-anonymous.com/blog/getting-started-the-hardest-part-of-investing/).
+So, you have thought about investing in mutual funds but don't know how to start. Congratulations, because [getting started up is the hardest part](http://www.bankers-anonymous.com/blog/getting-started-the-hardest-part-of-investing/).
 
 For investing in mutual funds, you will have the following options:
 
@@ -67,6 +67,6 @@ Things to Note:
 
 -   KYC is a one-time activity. Once you complete the rather laborious KYC process, your PAN number is registered in a central database at one of the KRAs (KYC Registration Agency). Opening an account in a different AMC does not require a repeat of the KYC process. You may be required to provide proof of KYC completion, so if you receive a KYC letter from any of the KRAs - NDML, CAMS, Karvy etc., ensure you store it safely.
 
--   If you don’t receive a physical copy of the KYC letter (especially if you applied through an agent and didn’t receive one), you could ask the KRA for a digital copy. As far as I know, NDML provides one, if requested.
+-   If you don't receive a physical copy of the KYC letter (especially if you applied through an agent and didn't receive one), you could ask the KRA for a digital copy. As far as I know, NDML provides one, if requested.
 
 -   The physical or digital copy of the KYC letter may not be required during subsequent account openings - some AMCs verify the KYC status during registration, with the KRAs. Some AMCs are now allowing for online registration of accounts with no submission of documents, provided you completed your KYC. But others may not be well integrated with the KRAs.

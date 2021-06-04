@@ -24,11 +24,10 @@ There are various ways to go about updating nominee details in mutual fund folio
 
 The easiest and fastest way to update nomination for all mutual fund folios, across fund houses (AMCs) is to update the same via [MFUtility](https://www.mfuindia.com/).
 
-{% hint style=“info” %}
-💡If you don’t have an MFUtility account, this convenience alone is worth it to sign up for one.
-{% endhint %}
+???+ info
+    💡If you don't have an MFUtility account, this convenience alone is worth it to sign up for one.
 
-You’d need to fill out a nominee update form, which can be found below
+You'd need to fill out a nominee update form, which can be found below
 
 [Link to nomination change form](https://www.mfuindia.com/downloads/NCT-Nomination.pdf) \| [archive.is link](https://archive.is/99hfV) \| [google webcache link](https://webcache.googleusercontent.com/search?q=cache:https://www.mfuindia.com/downloads/NCT-Nomination.pdf)
 
@@ -58,17 +57,15 @@ Disadvantage of using this method - investors need to fill a separate form for e
 
 Or, with the RTA forms, one would need to find out which RTA their AMC is using for record-keeping, and pick specific form.
 
-{% hint style=“info” %}
-Above links, to nomination forms on websites of RTAs and MFUtility , may change in the future. Always download latest versions of these forms from the official website of the entities as mentioned.
-
-[MFUtility](https://www.mfuindia.com/) \| [CAMS](https://new.camsonline.com/) \| [KFinTech](%20https://www.kfintech.com/)
-{% endhint %}
+???+ info
+    Above links, to nomination forms on websites of RTAs and MFUtility , may change in the future. Always download latest versions of these forms from the official website of the entities as mentioned.
+    
+    [MFUtility](https://www.mfuindia.com/) \| [CAMS](https://new.camsonline.com/) \| [KFinTech](%20https://www.kfintech.com/)
 
 ### Option 3 : Online Update
 
-{% hint style=“info” %}
-⚠️This is not applicable for all AMCs.
-{% endhint %}
+???+ info
+    ⚠️This is not applicable for all AMCs.
 
 Some AMCs (like DSP Mutual Fund, at the time of writing this) allow investors to update nominee from their investor portal.
 
@@ -78,7 +75,7 @@ Just log on the portal and visit the folio section, and you will find nominee de
 
 Plenty of us invest through third party platforms, in mutual funds - Coin, Groww, Kuvera, PayTM Money, INDMoney, FundsIndia, ScripBox, Wealthy.in, ICICI Direct, HDFC Securities etc.
 
-In such cases, it’d be instructive to follow up with respective platform’s service team. They’d be able to guide you better with respect to nominee update process, specific to their platform.
+In such cases, it'd be instructive to follow up with respective platform's service team. They'd be able to guide you better with respect to nominee update process, specific to their platform.
 
 For the mutual funds units that are held in demat (for instance, Zerodha Coin or HDFC Securities), nominee(s) will be same as the nominee(s) for the trading and demat account.
 
@@ -96,7 +93,7 @@ Copy the text and replace “Name of broker” with the name of your broker.
 
 `"Name of Broker" AND "Nomination"`
 
-For e.g. if the investor wants to update the nominee for demat account with HDFC Securities then they can search for:
+For e.g. if the investor wants to update the nominee for demat account with HDFC Securities then they can search for:
 
 “HDFC Securities” AND “Nomination”
 
@@ -110,10 +107,10 @@ Once the form has been duly filled, investor can send the nomination form with a
 
 For brokers with pan-India presence, investors can also submit the form to the nearest office. These are usually traditional brokers like ICICI Direct, HDFC Securities etc.
 
-**Some brokers charge a service fee for updating nomination.** For e.g. Zerodha charges ₹25+18% GST, at the time of writing.
+**Some brokers charge a service fee for updating nomination.** For e.g. Zerodha charges ₹25+18% GST, at the time of writing.
 
 ## Bank Accounts 🏛️
 
-To update nominee in a bank account, usually you’ve to visit the local branch with identity proof, close to your residence, for that bank.
+To update nominee in a bank account, usually you've to visit the local branch with identity proof, close to your residence, for that bank.
 
-However, some banks these days, do allow updating these details via their app / web portal. It’s best to contact email or call or chat support of your bank, or just checking their website once, before physically visiting a branch to update nominee(s).
+However, some banks these days, do allow updating these details via their app / web portal. It's best to contact email or call or chat support of your bank, or just checking their website once, before physically visiting a branch to update nominee(s).

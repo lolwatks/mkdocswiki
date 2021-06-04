@@ -40,7 +40,7 @@ Limitations of Group health insurance are as follows:
 
     Out of 2L, insurer would at most pay 1.6L (= 2L x 0.8).
 
--   Group policies could have a co-pay clause. Even if they don’t have it this year for your policy, they might next year when policy is renewed. It’s common in most firms, or corporates, to negotiate for better rates with new insurers, every year. TPA for the insurance remains same, but actual underlying insurer changes frequently. New insurers come in with new clauses.
+-   Group policies could have a co-pay clause. Even if they don’t have it this year for your policy, they might next year when policy is renewed. It's common in most firms, or corporates, to negotiate for better rates with new insurers, every year. TPA for the insurance remains same, but actual underlying insurer changes frequently. New insurers come in with new clauses.
 
 -   The coverage of the group policy ends immediately, if the employee resigns or is terminated. You and your family will be without coverage in the transition period between jobs.
 

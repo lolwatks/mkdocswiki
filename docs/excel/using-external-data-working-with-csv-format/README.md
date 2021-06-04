@@ -6,13 +6,13 @@ description: A close look at how to parse CSV data dumps and process the same in
 
 ## Prelude
 
-In the previous chapter, we’ve seen how to get historical market data from Google Finance API.
+In the previous chapter, we've seen how to get historical market data from Google Finance API.
 
 We used `GOOGLEFINANCE()` function to get NASDAQ ticker data, over a given period of time.
 
 However, you might have also noticed that this is not a *highly* *available* function. Often it can error out, and we might have to manually fix these `#NA` errors.
 
-This is true for most publicly freely available APIs - it’d either be rate-limited, or not always be available.
+This is true for most publicly freely available APIs - it'd either be rate-limited, or not always be available.
 
 In the real world, when we want to achieve something solving a common pain-point, external data might not be always available from a REST (or SOAP) API endpoint. It might not even be desirable to have it be available from a REST endpoint.
 
@@ -33,10 +33,10 @@ We could, for instance, just open the file and copy-paste data from there into o
 
 Fortunately, most spreadsheet / excel applications have in-built functionalities to do a *best-effort* import for common data formats that your broker / distributor / advisor would typically use to send you these transaction histories.
 
-We’d go over some interesting calculations that can be done upon your transaction history, that’s available in CSV format, in these chapters:
+We'd go over some interesting calculations that can be done upon your transaction history, that's available in CSV format, in these chapters:
 
-{% page-ref page=“csv-format.md” %}
+{% page-ref page="csv-format.md" %}
 
-{% page-ref page=“computing-ltcg-eligible-equity-units.md” %}
+{% page-ref page="computing-ltcg-eligible-equity-units.md" %}
 
-{% page-ref page=“process-for-estimating-tax.md” %}
+{% page-ref page="process-for-estimating-tax.md" %}

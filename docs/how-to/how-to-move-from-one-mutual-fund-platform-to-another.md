@@ -25,6 +25,5 @@ Since the mutual fund are handled by the fund house, you don’t need to ‘tran
 5.  Depending on the platform and the access permission given, you will either have to forward the mail to the mail ID specified by the platform or they will automatically fetch it from your email.
 6.  You now can select the existing folio for SIP or lumpsum transaction
 
-{% hint style=“info” %}
-If you want to convert your existing mutual fund from regular to direct, refer [here](how-to-switch-the-mutual-fund-from-regular-to-direct-plan.md)
-{% endhint %}
+???+ info
+    If you want to convert your existing mutual fund from regular to direct, refer [here](how-to-switch-the-mutual-fund-from-regular-to-direct-plan.md)

@@ -34,7 +34,7 @@ Assume that we’ve a cashflow series, written like this:
 |   $$t_1$$   |   $$P_1$$   |
 |   $$t_2$$   |   $$P_2$$   |
 |   $$t_3$$   |   $$P_3$$   |
-|     ……      |     ……      |
+|   ......    |   ......    |
 | $$t_{n−1}$$ | $$P_{n-1}$$ |
 
 This format should be quite familiar. We’ve merely replaced the actual numbers with variables.
@@ -49,7 +49,7 @@ We’d add one more column to, to add discounted values
 |   $$t_1$$   |   $$P_1$$   |   $$\displaystyle \frac{P_1}{(1 + r)^{[\frac{(t_1 - t_0)}{\Delta T}]}}$$    |
 |   $$t_2$$   |   $$P_2$$   |    $$\displaystyle\frac{P_2}{(1 + r)^{[\frac{(t_2 - t_0)}{\Delta T}]}}$$    |
 |   $$t_3$$   |   $$P_3$$   |    $$\displaystyle\frac{P_3}{(1 + r)^{[\frac{(t_3 - t_0)}{\Delta T}]}}$$    |
-|     ……      |     ……      |                                     ……                                      |
+|   ......    |   ......    |                                   ......                                    |
 | $$t_{n−1}$$ | $$P_{n−1}$$ | $$\displaystyle\frac{P{n-1}}{(1 + r)^{[\frac{(t{n-1} - t_0)}{\Delta T}]}}$$ |
 
 Third column entries might look a bit cumbersome at first, but we’ve basically expanded on $$(1 + r)^X$$, where $$X$$ is $$\displaystyle\frac{(t - t_0)}{\Delta T}$$.
@@ -60,9 +60,8 @@ Then $$X$$ is number of years, where fractional values are allowed.
 
 Notice the first row of the above table, it’s just $$P_0$$. Because every discounting is being done corresponding to that date in first row, $$t_0$$, so trivially, the discounted value against itself same as the original value.
 
-{% hint style=“info” %}
-Remember from your school days, that *anything raised to the power of zero, is 1 in value*.
-{% endhint %}
+???+ info
+    Remember from your school days, that *anything raised to the power of zero, is 1 in value*.
 
 Mathematically, $$\displaystyle\frac{P_0}{(1 + r)^{[\frac{(t_0 - t_0)}{\Delta T}]}} = P_0$$
 
@@ -154,9 +153,9 @@ We had already created a table and verified the XIRR to be $$3.52\%$$p.a.
 
 This video should help with above steps:
 
-{% embed url=“https://www.youtube.com/watch?v=zDtcmcWD3O0” caption=“Verifying XIRR with sum of discounted cashflows - Dark Mode” %}
+{% embed url="https://www.youtube.com/watch?v=zDtcmcWD3O0" caption="Verifying XIRR with sum of discounted cashflows - Dark Mode" %}
 
-{% embed url=“https://www.youtube.com/watch?v=9j5vqGYEo8E&feature=emb\_logo” caption=“Verifying XIRR with sum of discounted cashflows - Light Mode” %}
+{% embed url="https://www.youtube.com/watch?v=9j5vqGYEo8E&feature=emb\_logo" caption="Verifying XIRR with sum of discounted cashflows - Light Mode" %}
 
 Final result should resemble this:
 
@@ -164,11 +163,10 @@ Final result should resemble this:
 
 ![Verifying XIRR value from summing up discounted cashflows - Light Mode](../../.gitbook/assets/verifying-xirr-sum-of-discounted-cashflow.light.png)
 
-{% hint style=“warning” %}
-You would be tempted to manually use 3.52% or 0.0352 instead of relying on output of `xirr()` formula. As you’d see, it would add up to a finite positive or negative value.
-
-Due to formatting, we are only seeing two places after decimal point. But actual computed value is something slightly different from exact 3.52%.
-{% endhint %}
+???+ warning
+    You would be tempted to manually use 3.52% or 0.0352 instead of relying on output of `xirr()` formula. As you’d see, it would add up to a finite positive or negative value.
+    
+    Due to formatting, we are only seeing two places after decimal point. But actual computed value is something slightly different from exact 3.52%.
 
 ### How to Solve the XIRR Equation
 
@@ -188,11 +186,10 @@ Eventually, the value stabilizes reaching correct answer for the problem at hand
 
 A full treatment of Newton-Raphson method is beyond scope for this wiki, but even a cursory search in popular search engines would reveal enough materials that cover it in some depth.
 
-{% hint style=“info” %}
-The third argument in `xirr()` function is `rate_guess`, which if you provide, can speed up XIRR computation by reducing number of iteration it takes to reach correct value of XIRR.
-
-But it’s best avoided; because if you plug in a value as guess for rate, which is far removed, it would only serve as a means to increase number of iterations it takes to find the value of XIRR.
-{% endhint %}
+???+ info
+    The third argument in `xirr()` function is `rate_guess`, which if you provide, can speed up XIRR computation by reducing number of iteration it takes to reach correct value of XIRR.
+    
+    But it’s best avoided; because if you plug in a value as guess for rate, which is far removed, it would only serve as a means to increase number of iterations it takes to find the value of XIRR.
 
 ### Why is XIRR annualized growth rate?
 
@@ -247,9 +244,8 @@ At the same time, we could obtain CAGR of underlying asset, HDFC shares, over 5 
 
 **They are the same!**
 
-{% hint style=“info” %}
-You might have noticed that output of `RRI()` function is slightly different from output of XIRR function. This is because those two dates are not exactly 5 years apart, you’ve to also count the leap days in between.
-{% endhint %}
+???+ info
+    You might have noticed that output of `RRI()` function is slightly different from output of XIRR function. This is because those two dates are not exactly 5 years apart, you’ve to also count the leap days in between.
 
 **CAGR of an asset between two dates, can be computed using XIRR function, by creating a purchase transaction at the start date, and an imaginary sell transaction on the end date.**
 
@@ -279,15 +275,14 @@ $$V_{final} = V_{initial} \times (1 + XIRR)^n$$
 
 Therefore, CAGR and XIRR would have same values.
 
-{% hint style=“warning” %}
-CAGR $$\neq$$ XIRR
-
-We’ve simply found a case, where value of CAGR for an asset between two dates; can be same as XIRR of an imaginary portfolio of two transactions, on those two dates.
-
-This would be true for all investible assets, for any two dates; as long as it can be modeled as two transactions (one purchase, one sell).
-
-But *CAGR of a portfolio*, is a meaningless metric to look for. Asset has CAGR, portfolios have XIRR.
-{% endhint %}
+???+ warning
+    CAGR $$\neq$$ XIRR
+    
+    We've simply found a case, where value of CAGR for an asset between two dates; can be same as XIRR of an imaginary portfolio of two transactions, on those two dates.
+    
+    This would be true for all investible assets, for any two dates; as long as it can be modeled as two transactions (one purchase, one sell).
+    
+    But *CAGR of a portfolio*, is a meaningless metric to look for. Asset has CAGR, portfolios have XIRR.
 
 This makes sense intuitively as well.
 
@@ -321,9 +316,9 @@ To understand why the decay over time moves like that, we can plot similar graph
 
 Here’s a short video to help you out, though it’s quite straight-forward, if you’ve followed along thus far:
 
-{% embed url=“https://www.youtube.com/watch?v=u10zyhm7FpQ&feature=emb\_logo” caption=“Decay Plot of Discounted Cashflow - Dark Mode” %}
+{% embed url="https://www.youtube.com/watch?v=u10zyhm7FpQ&feature=emb\_logo" caption="Decay Plot of Discounted Cashflow - Dark Mode" %}
 
-{% embed url=“https://www.youtube.com/watch?v=-ujqL8h8cAI” caption=“Decay Plot of Discounted Cashflow - Light Mode” %}
+{% embed url="https://www.youtube.com/watch?v=-ujqL8h8cAI" caption="Decay Plot of Discounted Cashflow - Light Mode" %}
 
 Final plot should look like this:
 

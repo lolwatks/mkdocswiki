@@ -6,9 +6,9 @@ description: For any issue related to the securities market, file complaint in s
 
 ## Intro 👋
 
-As an investor, you’ve certain rights, and market participants (AMC / RTA / broker / depository / advisor / distributor etc.) have to make sure your rights are not violated.
+As an investor, you've certain rights, and market participants (AMC / RTA / broker / depository / advisor / distributor etc.) have to make sure your rights are not violated.
 
-Indian securities markets are highly regulated. And if you’re not satisfied with resolution of an ongoing issue with your broker or AMC you’re investing with; you can approach SEBI (**S**ecurities and **E**xchange **B**oard of **I**ndia) to hear you out.
+Indian securities markets are highly regulated. And if you're not satisfied with resolution of an ongoing issue with your broker or AMC you're investing with; you can approach SEBI (**S**ecurities and **E**xchange **B**oard of **I**ndia) to hear you out.
 
 For any grievance related to the securities market, with a listed company/ intermediary registered with SEBI you can file a complaint with SEBI if you are not satisfied with the response from the party.
 
@@ -23,9 +23,9 @@ Examples of Intermediary
 
 Broadly speaking, SEBI takes up complaints related to
 
-1.  Issue and transfer of securities (e.g. listing not visible after purchase)
+1.  Issue and transfer of securities (e.g. listing not visible after purchase)
 2.  Non-payment of dividend with listed companies
-3.  Against the various intermediaries registered with it and related issues (e.g. Mutual fund house not allowing cancellation of SIP)
+3.  Against the various intermediaries registered with it and related issues (e.g. Mutual fund house not allowing cancellation of SIP)
 
 You can file the complaint in the online platform called SCORES provided by SEBI and track its status.
 
@@ -69,27 +69,26 @@ Below are the steps to raise a complaint provided the issue had happened in the 
 6.  Investment Advisor, Research Analyst
 7.  Fake and Forged
 
-{% hint style=“info” %}
-1. If you haven’t registered the complaint to the relevant entity before escalating it to SEBI, they will redirect the complaint to the concerned entity and you will receive a reply in 30 days.
-2. If you want to file a complaint against a company which is about to be listed, select “Pre-listing / Offer document” under complaint category.
-3. See SEBI Circular: [SEBI/HO/OIAE/IGRD/CIR/P/2018/58](https://archive.is/Dfogb) for more details and flow chart.
-{% endhint %}
+???+ info
+    1. If you haven’t registered the complaint to the relevant entity before escalating it to SEBI, they will redirect the complaint to the concerned entity and you will receive a reply in 30 days.
+    2. If you want to file a complaint against a company which is about to be listed, select “Pre-listing / Offer document” under complaint category.
+    3. See SEBI Circular: [SEBI/HO/OIAE/IGRD/CIR/P/2018/58](https://archive.is/Dfogb) for more details and flow chart.
 
 ## Wrapping Up
 
 Based on our experience, possibly the hardest part in registering a complaint on SCORES is to find which category the market participant belongs to.
 
-If you already have this information it’s quite straight-forward to file this complaint.
+If you already have this information it's quite straight-forward to file this complaint.
 
 We have table below, which should help with filing complaint against common popular entities
 
 | Name of the Entity    | Category                     | Official Name                                                                               |
 |:----------------------|:-----------------------------|:--------------------------------------------------------------------------------------------|
-| 5Paisa                | Stock Broker                 | 5Paisa Capital Limited–NSE                                                                  |
+| 5Paisa                | Stock Broker                 | 5Paisa Capital Limited--NSE                                                                 |
 | CAMS                  | Registrar & Transfer Agents  | COMPUTER AGE MANAGEMENT SERVICES LTD                                                        |
-| Coin by Zerodha       | Stock Broker                 | ZERODHA BROKING LIMITED–BSE                                                                 |
+| Coin by Zerodha       | Stock Broker                 | ZERODHA BROKING LIMITED--BSE                                                                |
 | ETMoney               | Investment Advisor           |                                                                                             |
-| Groww                 | Stock Broker                 | NEXTBILLION TECHNOLOGY PRIVATE LIMITED–BSE                                                  |
+| Groww                 | Stock Broker                 | NEXTBILLION TECHNOLOGY PRIVATE LIMITED--BSE                                                 |
 | INDMoney / INDWealth  | Investment Advisor           | Finzoom Investment Advisors Pvt. Ltd.                                                       |
 | KFinTech              | Registrar & Transfer Agents  | KFIN TECHNOLOGIES PVT LTD (Formerly KARVY COMPUTERSHARE PRIVATE LIMITED (KARVY CONSUL LTD)) |
 | Kuvera                | Investment Advisor           | AREVUK ADVISORY SERVICES PVT. LTD.                                                          |
@@ -97,13 +96,12 @@ We have table below, which should help with filing complaint against common popu
 | Mobikiwik Money       | Investment Advisor           | HARVEST FINTECH PRIVATE LIMITED                                                             |
 | Niyo Money / Goalwise | Investment Advisor           | ALPHAFRONT FINSERV PRIVATE LIMITED                                                          |
 | PayTM Money           | Investment Advisor           | PayTM Money Limited                                                                         |
-| PayTM Money (Equity)  | Stock Broker                 | PAYTM MONEY LIMITED–BSE                                                                     |
+| PayTM Money (Equity)  | Stock Broker                 | PAYTM MONEY LIMITED--BSE                                                                    |
 | Smallcase             | Research Analyst             | Windmill Capital Private Limited                                                            |
-| Upstox                | Stock Broker                 | RKSV Securities India Private Limited–BSE                                                   |
+| Upstox                | Stock Broker                 | RKSV Securities India Private Limited--BSE                                                  |
 
-{% hint style=“info” %}
-Some of the names in the 3rd column are uncharacteristically capitalized, but that’s only because these are lifted *as is* from SCORES portal, without any modification.
-{% endhint %}
+???+ info
+    Some of the names in the 3rd column are uncharacteristically capitalized, but that's only because these are lifted *as is* from SCORES portal, without any modification.
 
 This is by no means an exhaustive list; and the registration can change / get defunct / recategorized at the time of reading this.
 

@@ -6,7 +6,7 @@ description: A peek into tax estimation process for redeeming units that are out
 
 ## Intro
 
-In the previous chapter, we’ve seen how to compute total number of LTCG taxation eligible units, if equity transaction history has been provided.
+In the previous chapter, we've seen how to compute total number of LTCG taxation eligible units, if equity transaction history has been provided.
 
 Picking up from where we’d left off in in part 1, we can start with planning for potential tax computations
 
@@ -162,17 +162,17 @@ Follow these steps
 
 -   Use autofill drag to fill out all 18k+ rows in new sheet.
 
-Technically, you won’t need to fill out all 18k+ rows. As long as you fill out enough number of rows, such that all funds in that other sheet appear in those rows, it’s good enough.
+Technically, you won't need to fill out all 18k+ rows. As long as you fill out enough number of rows, such that all funds in that other sheet appear in those rows, it's good enough.
 
 Refer to the following video(s) for reference
 
-{% embed url=“https://www.youtube.com/watch?v=URcjv1P\_dcA” caption=“Fetching and processing latest NAV from AMFI - Dark Mode” %}
+{% embed url="https://www.youtube.com/watch?v=URcjv1P\_dcA" caption="Fetching and processing latest NAV from AMFI - Dark Mode" %}
 
-{% embed url=“https://www.youtube.com/watch?v=LGD\_N6mBCXA” caption=“Fetching and processing latest NAV from AMFI - Light Mode” %}
+{% embed url="https://www.youtube.com/watch?v=LGD\_N6mBCXA" caption="Fetching and processing latest NAV from AMFI - Light Mode" %}
 
 Your sheets would now have latest available NAV from all mutual funds, in a nice table format.
 
-We’ve introduced a few new Google Sheets functions in this section:
+We've introduced a few new Google Sheets functions in this section:
 
 -   [IF() documentation](https://support.google.com/docs/answer/3093364?hl=en) \| [archive.org link](https://web.archive.org/web/20210222224247/https://support.google.com/docs/answer/3093364?hl=en) \| [archive.is link](https://archive.is/9EbjD)
 -   [ISBLANK() documentation](https://support.google.com/docs/answer/3093290?hl=en) \| [archive.org link](https://web.archive.org/web/20201127065209/https://support.google.com/docs/answer/3093290?hl=en) \| [archive.is link](https://archive.is/DKSP7)
@@ -225,9 +225,9 @@ Follow these steps:
 
 Refer to this video to follow along steps:
 
-{% embed url=“https://www.youtube.com/watch?v=WUavhFi8XLY” caption=“Using VLOOKUP() to compute latest value - Dark Mode” %}
+{% embed url="https://www.youtube.com/watch?v=WUavhFi8XLY" caption="Using VLOOKUP() to compute latest value - Dark Mode" %}
 
-{% embed url=“https://www.youtube.com/watch?v=QDdToO78UgQ” caption=“Using VLOOKUP() to compute latest value - Light Mode” %}
+{% embed url="https://www.youtube.com/watch?v=QDdToO78UgQ" caption="Using VLOOKUP() to compute latest value - Light Mode" %}
 
 Final outcome in the newly added column, should be similar to these screenshots:
 
@@ -235,13 +235,11 @@ Final outcome in the newly added column, should be similar to these screenshots:
 
 ![Latest Valuation of Available Units - Light Mode](../../.gitbook/assets/latest-valuation-available-units.light.png)
 
-{% hint style=“warning” %}
-Depending on when you’re looking at these, the exact value might differ. Because it depends on latest NAV as on that date. This computation was done with NAV of 22nd March, 2021
-{% endhint %}
+???+ warning
+    Depending on when you're looking at these, the exact value might differ. Because it depends on latest NAV as on that date. This computation was done with NAV of 22nd March, 2021
 
-{% hint style=“info” %}
-We did not explicitly set out to do this, but it’s trivial to take a CSV and compute latest portfolio valuation! You already have total number of units investor has in portfolio for each fund, and latest NAV for each fund.
-{% endhint %}
+???+ info
+    We did not explicitly set out to do this, but it's trivial to take a CSV and compute latest portfolio valuation! You already have total number of units investor has in portfolio for each fund, and latest NAV for each fund.
 
 ### Adding up total cost of purchase
 
@@ -265,7 +263,7 @@ Another way to look at it: *keep adding purchase price, until total number of un
 
 An example to illustrate this idea:
 
-Say, an investor is buying 10 units every month, from 2018 January, to 2020 December. That’s a total 36 month period.
+Say, an investor is buying 10 units every month, from 2018 January, to 2020 December. That's a total 36 month period.
 
 At the end of December 2020, $$24 \times 10 = 240$$ units purchased between January 2018 and December 2019, are eligible for LTCG.
 
@@ -380,8 +378,8 @@ Another option would be to use [GApps Script](https://developers.google.com/apps
 
 Phew! We covered a lot of ground in these three chapters.
 
-We can only hope power of spreadsheets are becoming more and more apparent to you. Simultaneously, you’ve also started seeing the rough edges.
+We can only hope power of spreadsheets are becoming more and more apparent to you. Simultaneously, you've also started seeing the rough edges.
 
-Excel / spreadsheets with complex formulas can be hard to maintain - it’s tough to understand and update if needed.
+Excel / spreadsheets with complex formulas can be hard to maintain - it's tough to understand and update if needed.
 
-We’d gradually address these in upcoming chapters and series.
+We'd gradually address these in upcoming chapters and series.

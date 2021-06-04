@@ -8,9 +8,8 @@ A mutual fund is not free from costs. An asset management company (AMC) is a for
 
 A regular plan of a mutual fund has one more additional expense — **distributor commission**.
 
-{% hint style=“info” %}
-There are various types of commissions. In this FAQ, we’ll only focus on recurring trail commissions, and ignore upfront one-time commissions.
-{% endhint %}
+???+ info
+    There are various types of commissions. In this FAQ, we'll only focus on recurring trail commissions, and ignore upfront one-time commissions.
 
 ## Why is distribution commission bad for an investor?
 
@@ -104,13 +103,11 @@ Kotak AMC gets to keep $$₹35,114.71\times0.61\%=₹214.19$$ crores from both t
 
 In a mutual fund with over $$₹35,114$$ crores in AUM, $$73\%$$ of its AUM comes from regular plans and mutual fund distributors end up taking away $$22\%$$ more expense income than the AMC of the fund itself even though the fund manager does the job of managing the mutual fund portfolio while your distributor does nothing except earn commissions and help the AMC inflate its AUM.
 
-{% hint style=“info” %}
-We’ve got the data about AUM distribution from [this](https://assetmanagement.kotak.com/documents/19/555dfead-2a88-4e98-8d1b-853678294e51) link on [this](https://assetmanagement.kotak.com/aaum) page.
-{% endhint %}
+???+ info
+    We’ve got the data about AUM distribution from [this](https://assetmanagement.kotak.com/documents/19/555dfead-2a88-4e98-8d1b-853678294e51) link on [this](https://assetmanagement.kotak.com/aaum) page.
 
-{% hint style=“info” %}
-In mutual funds, TER is an yearly average expense deduction. It’s deducted everyday before publishing the new NAV of the fund. All returns reported on mutual funds, are after costs have been deducted. There’s no need to subtract TER from final returns or NAV, as it’s been already factored in.
-{% endhint %}
+???+ info
+    In mutual funds, TER is an yearly average expense deduction. It’s deducted everyday before publishing the new NAV of the fund. All returns reported on mutual funds, are after costs have been deducted. There’s no need to subtract TER from final returns or NAV, as it’s been already factored in.
 
 ### SIP for 8+ Years
 
@@ -176,9 +173,8 @@ We are considering some large-cap funds that have mostly stayed true to their la
 | Direct Plan  | $$₹10,00,000$$  | $$₹17,83,845$$ | $$₹7,83,845$$ | $$13.7\%$$    |
 | Regular Plan | $$₹10,00,000$$  | $$₹17,05,182$$ | $$₹7,05,182$$ | $$12.6\%$$    |
 
-{% hint style=“info” %}
-We have generated this data using the ‘My Investment’ tool from [Value Research](https://www.valueresearchonline.com/).
-{% endhint %}
+???+ info
+    We have generated this data using the ‘My Investment’ tool from [Value Research](https://www.valueresearchonline.com/).
 
 As we can see, in the large cap space, equity mutual funds have mostly performed in-line with the index funds over the last 8 years. Most of them have underperfomed, but some of them have outperformed.
 
@@ -195,9 +191,8 @@ Let’s look at the data presented above from a different perspective. We’ll f
 | ICICI Pru Bluechip |    $$1.72\%$$     |    $$1.21\%$$    |     $$0.51\%$$     |           $$₹70,709$$ | $$7.07\%$$                             |
 | Nippon Large Cap   |    $$1.88\%$$     |    $$1.18\%$$    |     $$0.70\%$$     |           $$₹78,663$$ | $$7.86\%$$                             |
 
-{% hint style=“info” %}
-In the above tables, we’re using the TER data available as on 9th April 2021. TER changes from time to time, and the latest TER differences won’t reveal historical performance.
-{% endhint %}
+???+ info
+    In the above tables, we’re using the TER data available as on 9th April 2021. TER changes from time to time, and the latest TER differences won’t reveal historical performance.
 
 Besides SBI Bluechip’s regular plan, no large-cap fund from our list has managed to generate higher corpus in its regular plan than UTI Nifty Index fund direct growth plan has done over the last 8+ years for a simple $$₹10k$$ / month SIP.
 
@@ -272,11 +267,11 @@ Let’s start with the latest report, from 2019-20. It’s a PDF that lists the 
 
 As expected, big banks like HDFC, ICICI, Kotak, and SBI are easily making hundreds of crores, just from rent-seeking and not adding any meaningful value to the portfolio of investors. However, relatively small distributors have been doing great as well. Based on that list, it’s not unusual to make over $$₹1$$ crore (a pretty large milestone in annual income for most Indians) by selling regular plans of mutual funds.
 
-### But the NAV of Regular Plans are lower than Direct Plans. Shouldn’t I buy low and sell high?
+### But the NAV of Regular Plans are lower than Direct Plans. Shouldn't I buy low and sell high?
 
-The NAV of regular plans is lower because it includes distributor commission and it’ll always be lower than the NAV of its direct plan counterpart. In this case, your purchase price doesn’t matter. What matters, is the rate of growth *after* you purchase.
+The NAV of regular plans is lower because it includes distributor commission and it'll always be lower than the NAV of its direct plan counterpart. In this case, your purchase price doesn't matter. What matters, is the rate of growth *after* you purchase.
 
-Let’s consider the NAV of Axis Long Term Equity as on 12th April 2021. It was $$₹59.71$$ for the regular plan and for $$₹65.22$$ the direct plan. If we invest $$₹10,000$$ in the regular plan, we’ll get $$167.47$$ units in the regular plan, and $$153.32$$ units in the direct plan. Let’s assume that we get $$10\%$$ CAGR after 5 years in the regular plan and $$11\%$$ CAGR in the direct plan. The final portfolio value of the regular plan would be $$₹10,000\times(1+0.1)^5=₹16,105.1$$ and that of the direct plan would be $$₹10,000\times(1+0.11)^5=₹16,850.58$$.
+Let's consider the NAV of Axis Long Term Equity as on 12th April 2021. It was $$₹59.71$$ for the regular plan and for $$₹65.22$$ the direct plan. If we invest $$₹10,000$$ in the regular plan, we'll get $$167.47$$ units in the regular plan, and $$153.32$$ units in the direct plan. Let's assume that we get $$10\%$$ CAGR after 5 years in the regular plan and $$11\%$$ CAGR in the direct plan. The final portfolio value of the regular plan would be $$₹10,000\times(1+0.1)^5=₹16,105.1$$ and that of the direct plan would be $$₹10,000\times(1+0.11)^5=₹16,850.58$$.
 
 As we just saw, the NAV purchase price and the number of units that you get are irrelevant and do not affect the final portfolio value. The CAGR, however, does, and it should be evident that the CAGR of a direct plan will always be higher than its regular plan counterpart.
 
@@ -284,7 +279,7 @@ As we just saw, the NAV purchase price and the number of units that you get are 
 
 As we’ve already shown above, a $$\Delta TER$$ of $$1\%$$ can erode more than $$30\%$$ of your portfolio value over the long term. Even $$10\%$$, let alone $$30\%$$, is a significant loss to your portfolio. Are you okay with losing $$₹10$$ lakh from your corpus of $$₹1$$ crore and end up having $$₹90$$ lakhs? How about losing $$₹30$$ lakhs?
 
-### I know regular plans are bad but if I switch, I’d have to pay taxes. I don’t want to pay taxes unnecessarily.
+### I know regular plans are bad but if I switch, I'd have to pay taxes. I don't want to pay taxes unnecessarily.
 
 Taxes are on realized gains. Commission is on entire corpus.
 
@@ -294,15 +289,15 @@ You could also switch out partially, and not all at once. That’d save you some
 
 In a scenario like this, it’s best to compute the potential values for tax liabilities, project losses in commissions, and make a choice on a case-by-case basis.
 
-### If not for my distributor, I wouldn’t have started investing in mutual funds. I’m grateful to him. I can’t just switch to direct plans now.
+### If not for my distributor, I wouldn't have started investing in mutual funds. I'm grateful to him. I can't just switch to direct plans now.
 
-It’s your decision to make but we’d advise you to think rationally about this, and keep your emotions aside when making decisions about your money.
+It's your decision to make but we'd advise you to think rationally about this, and keep your emotions aside when making decisions about your money.
 
-Your distributor may have introduced you to mutual funds but if he signed you up on regular plans, he probably didn’t sign you up because he was thinking of your welfare first.
+Your distributor may have introduced you to mutual funds but if he signed you up on regular plans, he probably didn't sign you up because he was thinking of your welfare first.
 
-At this point, you have the power to make decisions about your own money and switch to direct plans to save expense costs. You don’t even have to find different funds.
+At this point, you have the power to make decisions about your own money and switch to direct plans to save expense costs. You don't even have to find different funds.
 
-If you’re not comfortable choosing funds, you can start investing in the direct plans of the same funds offered by your distributor. Even in that case, you’d save on a lot of expenses.
+If you're not comfortable choosing funds, you can start investing in the direct plans of the same funds offered by your distributor. Even in that case, you'd save on a lot of expenses.
 
 Would you rather be grateful to your distributor for the rest of your investing journey and lose up to $$30\%-40\%$$ of your corpus in the long term, or switch to direct plans and not lose that money?
 
@@ -324,11 +319,11 @@ Unlike a few years ago, we have many platforms today that offer investment in di
 
 If you’re wondering which website / app you should use to invest in direct plans, check out the following article.
 
-{% page-ref page=“best-mutual-fund-app-for-investments.md” %}
+{% page-ref page="best-mutual-fund-app-for-investments.md" %}
 
 If you’re wondering which mutual fund should you invest in, check out the following article.
 
-{% page-ref page=“whats-the-best-mutual-fund-i-can-invest-in.md” %}
+{% page-ref page="whats-the-best-mutual-fund-i-can-invest-in.md" %}
 
 We’d like to mention that choosing a “good” or a “best” fund isn’t important or required. Pick a decent actively managed fund and stick with it unless something fundamental changes about the fund. Or, if you’re still confused, pick an index fund and call it a day. The choice of the fund isn’t as important as sticking to that fund and investing in it in the face of market turbulence.
 

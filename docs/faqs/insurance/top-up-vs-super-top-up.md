@@ -1,5 +1,5 @@
 ---
-description: Super top-up is better, as the limit is reset on every claim. While for top-up, it’s per policy year
+description: Super top-up is better, as the limit is reset on every claim. While for top-up, it's per policy year
 ---
 
 # Should I take top-up policy or super top-up?
@@ -52,4 +52,4 @@ Super top-up policies are available for sum insured of up to 1 crore with some i
 
 Insurers can offer super top-ups at a cheaper rate compared to base policy. This is because of much lower probability of higher expenses, that’d require you to use your super top-up policy claim options.
 
-Statistically, it’s more likely that your hospitalization costs would be within the deductible limit of super top-up policy. Hence, insurers can afford to offer lower premium.
+Statistically, it's more likely that your hospitalization costs would be within the deductible limit of super top-up policy. Hence, insurers can afford to offer lower premium.

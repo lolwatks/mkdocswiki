@@ -12,7 +12,7 @@
 
 5.  If both you and your spouse are working, then the overall amount of insurance requirement decreases.
 
-    A short list of good providers is Aegon Religare, Aviva, ICICI, HDFC, in no particular order. There are others too. <s>LIC does not have, and most probably will not have an online plan (don’t ask me why)</s> LIC also has now (since May 2014).
+    A short list of good providers is Aegon Religare, Aviva, ICICI, HDFC, in no particular order. There are others too. <s>LIC does not have, and most probably will not have an online plan (don't ask me why)</s> LIC also has now (since May 2014).
 
 ### **Step 2: Check Level of Emergency / Contingency Funds (Basket 1)**
 
@@ -28,7 +28,7 @@ All your long term goals including child education, marriage, retirement, foreig
 
 Identify the combination and the allocation percentages of various asset classes, according to this [post](http://www.reddit.com/r/IndiaInvestments/comments/171p5h/basics_of_investment_strategy_plan/).
 
-A good (minimum, I would say) start is to have a 50:50 equity-debt allocation. For less conservative, this canbe modulated to 60:40 or 70:30. For very aggressive, it can even be increased to 80:20. Identify a single diversified equity fund for the equity allocation. Later on, you can start adding more funds, or direct stocks or international stock/funds, as per knowledge increase and comfort zone. Identify a single decent debt fund (I will stress on having a debt fund, rather than a PPF because of the latter’s illiquidity, but YMMV). Endowment / money-back policies, PPF, PF, NSC, etc also come under this basket only because of their lock-ins.
+A good (minimum, I would say) start is to have a 50:50 equity-debt allocation. For less conservative, this canbe modulated to 60:40 or 70:30. For very aggressive, it can even be increased to 80:20. Identify a single diversified equity fund for the equity allocation. Later on, you can start adding more funds, or direct stocks or international stock/funds, as per knowledge increase and comfort zone. Identify a single decent debt fund (I will stress on having a debt fund, rather than a PPF because of the latter's illiquidity, but YMMV). Endowment / money-back policies, PPF, PF, NSC, etc also come under this basket only because of their lock-ins.
 
 **Periodic Reviews:**
 
@@ -40,7 +40,7 @@ A good (minimum, I would say) start is to have a 50:50 equity-debt allocation. F
 
 In general, your money management should work in this way:
 
-1.  Basket 1- sufficient/insufficient. If it is insufficient, next month’s income goes into filling it or you shift money from basket 2 to basket 1. Otherwise, next step.
+1.  Basket 1- sufficient/insufficient. If it is insufficient, next month's income goes into filling it or you shift money from basket 2 to basket 1. Otherwise, next step.
 2.  Basket 2 – sufficient/insufficient. If if it is insufficient, then fill this up back again either using income or from basket 3 funds. Otherwise, next step.
 3.  Basket 3 – check asset allocation values. Balance by adding to the lower allocation asset Till the time they are upto the desired values. This may take months of investing in equity followed by months into debt or equal amounts in both as per different conditions.
 4.  Whenever, there is an acute short-fall, then money should go from Basket 2 > Basket 1. OR Basket 3 > Basket 2. If you are feeling the need of getting money from Basket 3 > Basket 1 (in simpler terms, money from longer term goals / equity for day-to-day expenses, then something is seriously wrong and you need to correct course).

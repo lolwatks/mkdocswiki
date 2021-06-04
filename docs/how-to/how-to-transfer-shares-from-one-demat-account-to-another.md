@@ -25,7 +25,7 @@ Online transfer will only work if the national depository of both the to & from 
 
 List of DPs offering Online transfer- [NSDL](https://nsdl.co.in/speed-e.php), [CDSL](https://www.cdslindia.com/DP/dplist.aspx)
 
-CDSL Provides an online platform (*EasiEasiest*) for submitting off-market, on-market, inter-depository and early pay-in debit instructions from one’s demat account.
+CDSL Provides an online platform (*EasiEasiest*) for submitting off-market, on-market, inter-depository and early pay-in debit instructions from one's demat account.
 
 Below are the steps to use that facility to transfer shares from one DP to another
 
@@ -51,8 +51,7 @@ Please note that you may have to pay the charges for the DIS slip, and its posta
 3.  Send the DIS along with the CMR (Client master report) copy to the new account provider.
 4.  In 3-4 days after the receipt of the DIS, the shares should reflect in your new account.
 
-{% hint style=“info” %}
-If you are closing the old account, you can fill the details of the account to which you need to transfer the shares. This will eliminate any transfer fees
-
-To close the account in NSDL, the application form in [Annexure Q](https://nsdl.co.in/downloadables/annex-q.pdf) must be submitted or a separate request on plain paper along with the DIS form to transfer securities, both signed by the account holder and it takes 15 days after that. Refer [this link](https://nsdl.co.in/nsdlnews/newsarchives20.php) for more details
-{% endhint %}
+???+ info
+    If you are closing the old account, you can fill the details of the account to which you need to transfer the shares. This will eliminate any transfer fees
+    
+    To close the account in NSDL, the application form in [Annexure Q](https://nsdl.co.in/downloadables/annex-q.pdf) must be submitted or a separate request on plain paper along with the DIS form to transfer securities, both signed by the account holder and it takes 15 days after that. Refer [this link](https://nsdl.co.in/nsdlnews/newsarchives20.php) for more details

@@ -32,7 +32,7 @@ Additional Points:
 
 1.  Annuities are taxable. They are treated as income and accordingly, applicable taxes as per the amount.
 2.  Presently, they invest mostly in debt products (probably, since the structure of most of these products is not transparent). The rates are anywhere from 5-9.5% depending upon various options like return of premium, joint life plans, etc.
-3.  Biggest problem is ‘the annuity amount is fixed’. So, x amount maybe good for next 1-2 years, but after 5 years, the same x amount will be inadequate, assuming you want to maintain the same lifestyle.
+3.  Biggest problem is 'the annuity amount is fixed'. So, x amount maybe good for next 1-2 years, but after 5 years, the same x amount will be inadequate, assuming you want to maintain the same lifestyle.
 
 More reading and analysis [here](http://capitalmind.in/2010/01/low-annuity-returns-in-india/)
 

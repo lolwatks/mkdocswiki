@@ -1,5 +1,5 @@
 ---
-description: An opaque form of investment, that’s costly for you, and doesn’t adequately cover you. More importantly, you cannot exit if you choose to, not until maturity.
+description: An opaque form of investment, that's costly for you, and doesn't adequately cover you. More importantly, you cannot exit if you choose to, not until maturity.
 ---
 
 # ULIP - Unit Linked Insurance Plan

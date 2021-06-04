@@ -4,15 +4,15 @@ description: For shorter durations, few days to few months; Overnight funds / Li
 
 # Where can I park money for a few days, a few months, or a few years?
 
-First of all, it should be clear what you mean when you say “park money”. You intend to keep some money safe somewhere for a requirement that’s going to come up in the near future (somewhere between a few days to 1-3 years down the line).
+First of all, it should be clear what you mean when you say "park money". You intend to keep some money safe somewhere for a requirement that's going to come up in the near future (somewhere between a few days to 1-3 years down the line).
 
 ### Bank Savings Account
 
-Let’s start with the absolute basic thing you can do. **Nothing**. If you want to park money for a few days or a few months, you can keep it in your savings bank account which, as of Jan 2021, would yield anywhere from $$2.7\%$$ to $$3.5\%$$ in too big to fail banks like SBI, HDFC, and ICICI. Axis Bank and Kotak Mahindra Bank are offering upto $$4\%$$.
+Let's start with the absolute basic thing you can do. **Nothing**. If you want to park money for a few days or a few months, you can keep it in your savings bank account which, as of Jan 2021, would yield anywhere from $$2.7\%$$ to $$3.5\%$$ in too big to fail banks like SBI, HDFC, and ICICI. Axis Bank and Kotak Mahindra Bank are offering upto $$4\%$$.
 
 You can also park your money in a high yield savings account, if available. Banks may offer abnormally high interest rates for many reasons. For example, [IDFC First Bank was offering upto $$7\%$$ interest rate](https://www.financialexpress.com/industry/banking-finance/idfc-first-bank-to-give-7-interest-on-savings-account-opened-through-video-kyc/1972969/) ([archive.org link](https://web.archive.org/web/20201020232709/https://www.financialexpress.com/industry/banking-finance/idfc-first-bank-to-give-7-interest-on-savings-account-opened-through-video-kyc/1972969/) \| [archive.is link](https://archive.is/QgFcx)) during Jan 2021. This was at a time when big banks like SBI were offering $$2.75\%$$ on their saving account. In this case, IDFC First Bank wanted to improve its Current Account Savings Account (CASA) ratio. As their CASA ratio improved, they decreased their interest rates accordingly. For more details, check out [page 42 of the Q3 FY21 investor presentation](https://www.idfcfirstbank.com/content/dam/IDFCFirstBank/invester-relation/Financial-Results/2020/IDFC-FIRST-Bank-Investor-Presentation-Q3-FY21-new.pdf) ([archive.org link](https://web.archive.org/web/20210131095643/https://www.idfcfirstbank.com/content/dam/IDFCFirstBank/invester-relation/Financial-Results/2020/IDFC-FIRST-Bank-Investor-Presentation-Q3-FY21-new.pdf)) from IDFC First Bank.
 
-As a thumb rule, **avoid co-operative banks and small finance banks**. Although DICGC insures your deposits in a bank account up to ₹5 lakh, it’s better not to rely on it and take unnecessary risks.
+As a thumb rule, **avoid co-operative banks and small finance banks**. Although DICGC insures your deposits in a bank account up to ₹5 lakh, it's better not to rely on it and take unnecessary risks.
 
 Check out the links mentioned below if you want to know how to evaluate the health and safety of banks in India.
 
@@ -39,7 +39,7 @@ That being said, investments in debt funds don’t incur TDS or taxes until you 
 
 In addition, debt mutual funds enjoy *indexation* benefits when it comes to taxation if they are held for 3 years or more.
 
-As an example, let’s consider $$₹1$$ lakh parked for 1 year in a bank account, a fixed deposit, and a liquid fund. The interest earned and the actual interest earned after taxes, assuming $$30\%$$ tax slab, are mentioned as follows:
+As an example, let's consider $$₹1$$ lakh parked for 1 year in a bank account, a fixed deposit, and a liquid fund. The interest earned and the actual interest earned after taxes, assuming $$30\%$$ tax slab, are mentioned as follows:
 
 | Savings Account \[$$2.7\%$$\] | Fixed Deposit \[$$5\%$$\]       | Liquid Fund \[$$3.3\%$$\]       |
 |:------------------------------|:--------------------------------|:--------------------------------|
@@ -48,14 +48,14 @@ As an example, let’s consider $$₹1$$ lakh parked for 1 year in a bank accoun
 
 Since the interest earned from Savings Account is less than $$₹10,000$$, this is tax free income. FD and Debt Mutual Funds are taxed at the applicable tax slab.
 
-Let’s see what happens when we park $$₹1$$ lakh for 3 years. This is where indexation benefits come into the picture in debt mutual funds.
+Let's see what happens when we park $$₹1$$ lakh for 3 years. This is where indexation benefits come into the picture in debt mutual funds.
 
 | Savings Account \[$$2.7\%$$\] | Fixed Deposit \[$$5.3\%$$\]       | Money Market Fund \[$$3.9\%$$\] |
 |:------------------------------|:----------------------------------|:--------------------------------|
 | $$₹8,320$$                    | $$₹17,111$$                       | $$₹12,162$$                     |
 | $$₹8,320$$                    | $$₹17,111\times(1-30\%)=₹11,977$$ | $$₹8,433$$                      |
 
-We’ve considered the [Cost of Inflation Index (CII) values between FY19 and FY21](https://www.incometaxindia.gov.in/charts%20%20tables/cost-inflation-index.htm), which are 280 and 301, respectively. The indexed cost of investment, at the time of redemption in FY21, becomes
+We've considered the [Cost of Inflation Index (CII) values between FY19 and FY21](https://www.incometaxindia.gov.in/charts%20%20tables/cost-inflation-index.htm), which are 280 and 301, respectively. The indexed cost of investment, at the time of redemption in FY21, becomes
 
 $$(₹1,00,000\times\displaystyle\frac{301}{280})=₹1,07,500$$
 
@@ -69,7 +69,7 @@ At the end of the day, when it comes to parking money in arbitrage funds, buyer 
 
 ### DO NOT park money in these instruments
 
-Now that we’ve covered where you can park your money, we’ll list some instruments **where you probably shouldn’t park money** for planned redemption in the near future.
+Now that we've covered where you can park your money, we'll list some instruments **where you probably shouldn't park money** for planned redemption in the near future.
 
 -   any debt mutual fund with somewhat significant interest rate or credit risk This includes credit risk funds, dynamic bond funds, gilt funds, banking & PSU funds, ultra short, short, low, medium, and long duration funds, and corporate debt funds.
 -   hybrid mutual funds

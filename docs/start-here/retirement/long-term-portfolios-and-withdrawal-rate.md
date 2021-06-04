@@ -1,5 +1,5 @@
 ---
-description: When you retire with a large corpus, how do you go about withdrawing from that at a steady rate to sustain your lifestyle, while also letting the corpus grow? Here’s what academia has to say on this.
+description: When you retire with a large corpus, how do you go about withdrawing from that at a steady rate to sustain your lifestyle, while also letting the corpus grow? Here's what academia has to say on this.
 ---
 
 # Studies of Long Term Portfolios and Retirement Withdrawal Rate Suggestions

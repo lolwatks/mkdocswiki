@@ -48,7 +48,7 @@ More points:
 1.  No need to look at the Stars (they are not important). Reasons [HERE](http://redd.it/182apk).
 2.  Whenever you need to check the status of your funds, recheck this way.
 3.  You can *actually* read the research report to have more details. There are historical reports too in the Archive tab, if you want to go through the past reports.
-4.  If you don’t like Morningstar, and want to do all this yourself, check out the [Expanded Guidelines](http://redd.it/2ai6hy).
+4.  If you don't like Morningstar, and want to do all this yourself, check out the [Expanded Guidelines](http://redd.it/2ai6hy).
 5.  An earlier Short [Guide](http://redd.it/17mhp4).
 6.  FAQs for Mutual Funds [here](http://redd.it/21tmss)
 7.  This guide does not let me give me the fund which my friends / agents have told me and has given 80%/120% return in 1 year. Have a look at this [series](http://redd.it/1xotcf).

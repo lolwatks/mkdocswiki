@@ -14,11 +14,10 @@ Some of these are
 2.  Vendor lock-in, where you are locked to the brokerage platform and its subset of functionalities.
 3.  You will have to pay various charges like annual charges, depository charges etc.
 
-{% hint style=“info” %}
-Often, you might find it more cost effective to sell your demat holdings through your broker, and re-buy units in non-demat mode in same fund’s direct plan; than going through this process.
-
-You should consider the alternative course of action and estimate your costs for both these processes.
-{% endhint %}
+???+ info
+    Often, you might find it more cost effective to sell your demat holdings through your broker, and re-buy units in non-demat mode in same fund's direct plan; than going through this process.
+    
+    You should consider the alternative course of action and estimate your costs for both these processes.
 
 Below steps will help you to understand how to convert your mutual funds in demat form.
 
@@ -31,8 +30,7 @@ Below steps will help you to understand how to convert your mutual funds in dema
 5.  On confirmation of details provided, the corresponding accepted balance in the BO’s (**B**eneficiary **O**wner) account is reduced from that ISIN balance in the BO’s Account.
 6.  The AMC / RTA sends the SoA/certificate in physical or electronic form directly to the *Registered Owner*.
 
-{% hint style=“info” %}
-1. Charges for re-materialization may apply (as decided by the DP).
-2. Partial conversion may not be possible.
-3. Re-materialization of lien-marked units cannot be done.
-{% endhint %}
+???+ info
+    1. Charges for re-materialization may apply (as decided by the DP).
+    2. Partial conversion may not be possible.
+    3. Re-materialization of lien-marked units cannot be done.

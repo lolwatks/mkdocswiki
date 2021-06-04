@@ -28,7 +28,7 @@ There are also actively managed funds starting at a sightly higher (but still pr
 But if one were to try and invest directly, one would run into a few challenges. At present, the international fund transfer process is cumbersome and expensive. Mainly because:
 
 -   Banks typically charge ₹500 - ₹1500 for every single international fund transfer.
--   There is another 1% in currency spread / forex costs on the transaction, that’s incurred for every transfer.
+-   There is another 1% in currency spread / forex costs on the transaction, that's incurred for every transfer.
 -   There is an LRS form (called the A2 form) that needs to be **physically submitted** and presented to the bank for international transfers for the purpose of investing. Some banks might pick up this document from your place, or allow an online submission, but it can take up to two weeks for the funds to show up in your international trading account. Which means two weeks of opportunity and interest cost.
 -   The same costs and time, when withdrawing the funds back to Indian bank accounts; effectively doubling all above costs.
 
@@ -42,7 +42,7 @@ Because of the cumbersome and expensive fund transfer process and additional tax
 
 ## An Estimate of Fees 💱
 
-One’s fees will vary depending on the bank or service one uses, and tends to get more reasonable as a fraction of total investments the larger one’s investment amount is. As an illustration one can refer to the below table (\$1 = ₹72.5):
+One's fees will vary depending on the bank or service one uses, and tends to get more reasonable as a fraction of total investments the larger one’s investment amount is. As an illustration one can refer to the below table (\$1 = ₹72.5):
 
 | Amount to invest | Remittance Charges + Taxes | Investible / Redeemable Amount | Broker charges - to transfer money to your Indian bank A/c (\$35) | Amount credited to bank A/c | Actual Returns |
 |:-----------------|:---------------------------|:-------------------------------|:------------------------------------------------------------------|:----------------------------|:---------------|
@@ -52,17 +52,16 @@ One’s fees will vary depending on the bank or service one uses, and tends to g
 | ₹5,00,000        | ₹1,250                     | ₹4,98,750                      | ₹2500                                                             | ₹4,96,250                   | -0.75%         |
 | ₹10,00,000       | ₹1,700                     | ₹9,98,300                      | ₹2500                                                             | ₹9,95,800                   | -0.42%         |
 
-{% hint style=“warning” %}
-Remittance charges may vary from bank to bank. For simplicity, we’ve used the average of present remittance charges across HDFC, ICICI, and SBI. You may notice a slight difference depending on which bank you use.
-{% endhint %}
+???+ warning
+    Remittance charges may vary from bank to bank. For simplicity, we’ve used the average of present remittance charges across HDFC, ICICI, and SBI. You may notice a slight difference depending on which bank you use.
 
-The above table doesn’t consider the forex conversion spread, which can be estimated as 1%.
+The above table doesn't consider the forex conversion spread, which can be estimated as 1%.
 
-A conversion spread means you get to buy USD from bank, at higher price than it’s worth, and sell to bank at lower price, than it’s worth at that time.
+A conversion spread means you get to buy USD from bank, at higher price than it's worth, and sell to bank at lower price, than it's worth at that time.
 
 On the other hand, as you invest and accumulate larger and larger corpus; the proportional cost model (i.e., where you get charged a percentage of your asset size) becomes costlier.
 
-For instance, if you’re investing ₹50,00,000 (50 Lakhs INR), an effective expense ratio of 1.5% would eat away ~₹75,000 (75k INR), every year. At that corpus size, it might be cheaper to actually invest directly into a US ETF (domiciled in IRE / LUX), and incur compliance costs.
+For instance, if you're investing ₹50,00,000 (50 Lakhs INR), an effective expense ratio of 1.5% would eat away ~₹75,000 (75k INR), every year. At that corpus size, it might be cheaper to actually invest directly into a US ETF (domiciled in IRE / LUX), and incur compliance costs.
 
 ## List of Direct Platforms ✔️
 
@@ -128,6 +127,6 @@ Also, one must keep in mind that **tax rules can change over time**.
     -   [FINRA broker check](https://brokercheck.finra.org/)
     -   [SIPC list of members](https://www.sipc.org/list-of-members/)
 
--   If you opt for the **indirect option**, some of these funds might be fund of funds. ie, the India-based MF simply buys units of another fund investing in the US markets (called the underlying fund). For instance, the Franklin India Feeder - Franklin U.S. Opportunities Fund invests in the Franklin U.S. Opportunities Fund, Class I (Acc) fund which is an international fund investing in US stocks and run by Franklin Templeton in multiple countries. Investors should note that the Total Expense Ratio (TER) shown in the factsheet of such funds usually only includes the TER of the FoF/feeder fund. The underlying fund would also have its own fees (e.g., management fees, etc). The actual expense incurred by investors will also include this and will usually be the sum of both these, i.e. Effective TER = TER of the FoF + total fees of the underlying fund To illustrate, let us look at the Franklin India Feeder - Franklin U.S. Opportunities Fund. As of 29 January 2021, its [factsheet](https://www.franklintempletonindia.com/downloadsServlet/pdf/franklin-india-feeder-franklin-us-opportunities-fund-fact-sheet-islnfdpp) ([archive.org link](https://web.archive.org/web/20201111163404/https://www.franklintempletonindia.com/downloadsServlet/pdf/franklin-india-feeder-franklin-us-opportunities-fund-fact-sheet-islnfdpp) \| [archive.is link](https://archive.is/Pzh7g)) mentions its expense ratio as `0.61%` for the direct plan. But we also see that the underlying fund’s [prospectus](https://www.franklintempleton.lu/download/en-lu/common/h2k8emo7/Franklin-Templeton-Investment-Funds-Prospectus-August-31-2020.pdf) ([archive.org link](https://www.franklintempleton.lu/download/en-lu/common/h2k8emo7/Franklin-Templeton-Investment-Funds-Prospectus-August-31-2020.pdf) \| [archive.is link](https://archive.is/7ixi3)) mentions a management fee of `0.70%`. So for an investor, as on 29 January 2021, the total expense charged would be at least: `0.61 + 0.70 = 1.31%`
+-   If you opt for the **indirect option**, some of these funds might be fund of funds. ie, the India-based MF simply buys units of another fund investing in the US markets (called the underlying fund). For instance, the Franklin India Feeder - Franklin U.S. Opportunities Fund invests in the Franklin U.S. Opportunities Fund, Class I (Acc) fund which is an international fund investing in US stocks and run by Franklin Templeton in multiple countries. Investors should note that the Total Expense Ratio (TER) shown in the factsheet of such funds usually only includes the TER of the FoF/feeder fund. The underlying fund would also have its own fees (e.g., management fees, etc). The actual expense incurred by investors will also include this and will usually be the sum of both these, i.e. Effective TER = TER of the FoF + total fees of the underlying fund To illustrate, let us look at the Franklin India Feeder - Franklin U.S. Opportunities Fund. As of 29 January 2021, its [factsheet](https://www.franklintempletonindia.com/downloadsServlet/pdf/franklin-india-feeder-franklin-us-opportunities-fund-fact-sheet-islnfdpp) ([archive.org link](https://web.archive.org/web/20201111163404/https://www.franklintempletonindia.com/downloadsServlet/pdf/franklin-india-feeder-franklin-us-opportunities-fund-fact-sheet-islnfdpp) \| [archive.is link](https://archive.is/Pzh7g)) mentions its expense ratio as `0.61%` for the direct plan. But we also see that the underlying fund’s [prospectus](https://www.franklintempleton.lu/download/en-lu/common/h2k8emo7/Franklin-Templeton-Investment-Funds-Prospectus-August-31-2020.pdf) ([archive.org link](https://www.franklintempleton.lu/download/en-lu/common/h2k8emo7/Franklin-Templeton-Investment-Funds-Prospectus-August-31-2020.pdf) \| [archive.is link](https://archive.is/7ixi3)) mentions a management fee of `0.70%`. So for an investor, as on 29 January 2021, the total expense charged would be at least: `0.61 + 0.70 = 1.31%`
 
 It is advisable for Indian investors to also go through the prospectus, factsheet or other such scheme documents of the underlying fund to get a better idea of any hidden fees and charges.

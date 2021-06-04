@@ -11,9 +11,8 @@ description: How can we use various screener websites to our advantage and analy
 -   The watchlists in the screenshot of this section are **NOT** the author(s) actual watchlist. They are just resultants of arbitrary screens run for illustration and educational purposes. Stocks under these screenshots are **NOT** stock recommendations.
 -   The author(s) of this section did not get incentivised for recommending or not recommending any websites/tools/products mentioned in this section.
 
-{% hint style=“info” %}
-Don’t trust numbers reported on any screener at their face value, always verify the numbers shown. Since calculations are done based on one-size-fits-all formulaes, factoring in nuances in input values is not possible. **The methods of calculating these numbers may vary between different websites. Sometimes, the numbers can even be absurd and the methods used in calculating them can differ from generally accepted definitions.** Making investment decisions solely based on the reported idea can be extremely risky.
-{% endhint %}
+???+ info
+    Don't trust numbers reported on any screener at their face value, always verify the numbers shown. Since calculations are done based on one-size-fits-all formulaes, factoring in nuances in input values is not possible. **The methods of calculating these numbers may vary between different websites. Sometimes, the numbers can even be absurd and the methods used in calculating them can differ from generally accepted definitions.** Making investment decisions solely based on the reported idea can be extremely risky.
 
 ## Introduction
 
@@ -29,30 +28,30 @@ Fortunately, there are tons of screeners available, that can filter through thes
 
 In India, there are many screeners available to you for free. Some of these screeners stand out with distinct use cases, so it makes sense to use different screeners as per the need of the hour. These are,
 
--   [Tijori](https://www.tijorifinance.com/) differentiates itself from other screeners by providing company’s alternate data (financial or operational information that is typically beyond the scope of a company’s stock exchange filings), such as market share of its products, or number of stores the company operates. It also has some neat features, such as a [macro page](https://www.tijorifinance.com/macro) to track economic indicators, sector indices, and sector-based market data. However, the platform has moved to a paid subscription-based model. Whether it’s worth for you is going to be a personal call.
--   [Tickertape](https://www.tickertape.in/) has a friendly interface for beginners, and explains relevance of figures presented in financial data. However, this is a double-edged sword, a screener’s commentary on figures can eliminate its neutrality as a tool, and induce bias.
--   [Screener](https://www.screener.in/)’s interface/feature set is **mostly** neutral and thus doesn’t introduce a lot of bias. The screening itself is more flexible/comprehensive than most other screeners (maybe barring Tijori), and allows exporting financial data to an excel sheet (you can customize the sheet’s template!). However, the interface can be slightly overwhelming for beginners, and some data that is freely available in annual reports, or other screeners is behind a paywall.
+-   [Tijori](https://www.tijorifinance.com/) differentiates itself from other screeners by providing company's alternate data (financial or operational information that is typically beyond the scope of a company's stock exchange filings), such as market share of its products, or number of stores the company operates. It also has some neat features, such as a [macro page](https://www.tijorifinance.com/macro) to track economic indicators, sector indices, and sector-based market data. However, the platform has moved to a paid subscription-based model. Whether it's worth for you is going to be a personal call.
+-   [Tickertape](https://www.tickertape.in/) has a friendly interface for beginners, and explains relevance of figures presented in financial data. However, this is a double-edged sword, a screener's commentary on figures can eliminate its neutrality as a tool, and induce bias.
+-   [Screener](https://www.screener.in/)'s interface/feature set is **mostly** neutral and thus doesn't introduce a lot of bias. The screening itself is more flexible/comprehensive than most other screeners (maybe barring Tijori), and allows exporting financial data to an excel sheet (you can customize the sheet's template!). However, the interface can be slightly overwhelming for beginners, and some data that is freely available in annual reports, or other screeners is behind a paywall.
 -   [Trendlyne](https://trendlyne.com/stock-screeners/) aggregates research reports for a company, and you can usually find audio files of conference calls held by a company about a day after being conducted. However, the actual screening is limiting, and the interface is not the most intuitive of the bunch.
 
 ## Screener.in
 
 The two primary reasons we chose Screener (capital S will refer to [screener.in](http://screener.in/) subsequently) for illustration purposes of this section are,
 
--   Screener doesn’t induce simplification, nudges, or potential biases.
--   We would recommend you to start building your own excel sheet for financial data once you’re comfortable. Screener’s *Export to excel* feature and the ability to customize the sheet’s template helps as a transitional step towards that.
+-   Screener doesn't induce simplification, nudges, or potential biases.
+-   We would recommend you to start building your own excel sheet for financial data once you're comfortable. Screener's *Export to excel* feature and the ability to customize the sheet's template helps as a transitional step towards that.
 
-### Outline of a company’s page
+### Outline of a company's page
 
-You can land to a company’s page on Screener by using the search bar located on the top right of any page. Once you are on a company’s page, you will find,
+You can land to a company's page on Screener by using the search bar located on the top right of any page. Once you are on a company's page, you will find,
 
 #### Overview section
 
 You can find quick access to frequently sought information here such as,
 
--   links to company’s official website, NSE page, and BSE page,
+-   links to company's official website, NSE page, and BSE page,
 -   market information (market cap, current price, shares outstanding), and key ratios (you can customize this to your liking!),
 -   a short outline/history about the company,
--   an option to export the company’s financial data to an excel sheet, and
+-   an option to export the company's financial data to an excel sheet, and
 -   the ability to add the company to your watchlist (more on this later)
 
 ![Overview section of Tata Consultancy Services Ltd's Screener page](../.gitbook/assets/screener-1.png)
@@ -83,55 +82,55 @@ This section can safely be ignored, as it lists pros and cons of a company based
 
 #### Peers section
 
-This is where things start to get interesting! You can compare a company to its listed competitors in this section, on the basis of financial data selected by you — say you want to check how a company’s operating margins stack up against that of its peers to determine if its products have pricing power, or say you want to check if the company’s quarterly results are in line with the sector — you can do this here.
+This is where things start to get interesting! You can compare a company to its listed competitors in this section, on the basis of financial data selected by you --- say you want to check how a company's operating margins stack up against that of its peers to determine if its products have pricing power, or say you want to check if the company's quarterly results are in line with the sector --- you can do this here.
 
 ![Peers section of Tata Consultancy Services Ltd's Screener page](../.gitbook/assets/screener-6.png)
 
-Don’t let the ratios used in the screenshot above overwhelm you. We’ve covered tons of them under our *Financial Ratios* section if you haven’t checked it out already. You can add, remove, or change the order of ratios shown here by clicking on the *‘edit columns’* button.
+Don't let the ratios used in the screenshot above overwhelm you. We've covered tons of them under our *Financial Ratios* section if you haven't checked it out already. You can add, remove, or change the order of ratios shown here by clicking on the *'edit columns'* button.
 
-If you click on either the company’s *Sector* or *Industry*, you can look at the complete directory of the company’s listed competitors (in the peers section, screener only shows you a few).
+If you click on either the company's *Sector* or *Industry*, you can look at the complete directory of the company's listed competitors (in the peers section, screener only shows you a few).
 
 ![IT - Software Industry screen on Screener](../.gitbook/assets/screener-7.png)
 
-You can also use the *‘Detailed comparison with’* option to get a head to head comparison of the company with one of its peer if you have a paid subscription.
+You can also use the *'Detailed comparison with'* option to get a head to head comparison of the company with one of its peer if you have a paid subscription.
 
-If you’re unsure what to look for, don’t worry! We’ve covered how to compare a company to its peer in *‘*[*Researching a sector’*](https://indiainvestments.gitbook.io/content/wiki/researching-a-sector) and *’*[*Understanding a business’*](https://indiainvestments.gitbook.io/content/wiki/understanding-a-business) chapter of this series.
+If you're unsure what to look for, don't worry! We've covered how to compare a company to its peer in *'*[*Researching a sector'*](https://indiainvestments.gitbook.io/content/wiki/researching-a-sector) and *'*[*Understanding a business'*](https://indiainvestments.gitbook.io/content/wiki/understanding-a-business) chapter of this series.
 
 #### Quarterly Results section
 
-You can find the past few quarters’ standalone & consolidated profit and loss (P&L) data in this section.
+You can find the past few quarters' standalone & consolidated profit and loss (P&L) data in this section.
 
 ![Quarterly Results section of Tata Consultancy Services Ltd's Screener page](../.gitbook/assets/screener-8.png)
 
-There’s an option to view the revenue, profit, and return on capital breakup based on product segments and geographical segments for paid users, but you can get this data free of cost from the company’s quarterly earnings reports.
+There's an option to view the revenue, profit, and return on capital breakup based on product segments and geographical segments for paid users, but you can get this data free of cost from the company's quarterly earnings reports.
 
 #### Profit & Loss section
 
-This section gives you past ten years & trailing twelve months (ttm) financial data from profit & loss (P&L) statements of the company, in both standalone and consolidated figures, for easy comparison — for instance, to check the trend of operating margins (OMP) over the past few years, or to check interest on the company’s debt it pays each year.
+This section gives you past ten years & trailing twelve months (ttm) financial data from profit & loss (P&L) statements of the company, in both standalone and consolidated figures, for easy comparison --- for instance, to check the trend of operating margins (OMP) over the past few years, or to check interest on the company's debt it pays each year.
 
 ![Profit & Loss section of Tata Consultancy Services Ltd's Screener page](../.gitbook/assets/screener-9.png)
 
-Again, there is an option for paid subscribers to view the revenue, profit, and return on capital breakup based on product or geographical segments, but you can get this data free of cost from the company’s annual reports.
+Again, there is an option for paid subscribers to view the revenue, profit, and return on capital breakup based on product or geographical segments, but you can get this data free of cost from the company's annual reports.
 
 Below the P&L data table, this section shows you compounded sales, profit, & stock price growth, and average return on equity over the past 3, 5, & 10 years, and the trailing twelve months (TTM).
 
 ![Profit & Loss section of Tata Consultancy Services Ltd's Screener page](../.gitbook/assets/screener-11.png)
 
-We’ve covered how to read a profit & loss (P&L) statement and related financial data under our [*Financial statements*](https://indiainvestments.gitbook.io/content/wiki/financial-statements) chapter of this series.
+We've covered how to read a profit & loss (P&L) statement and related financial data under our [*Financial statements*](https://indiainvestments.gitbook.io/content/wiki/financial-statements) chapter of this series.
 
 #### Balance Sheet section
 
-This section gives you the past ten years of financial data from the balance sheets of the company, in both consolidated and standalone figures, for easy comparison — for instance, you can compare the company’s debt over the past few years, or check how much cash the company holds.
+This section gives you the past ten years of financial data from the balance sheets of the company, in both consolidated and standalone figures, for easy comparison --- for instance, you can compare the company's debt over the past few years, or check how much cash the company holds.
 
 ![Balance Sheet section of Tata Consultancy Services Ltd's Screener page](../.gitbook/assets/screener-12.png)
 
-There’s also a handy option to check details of past corporate actions (this data goes back up to 2005) taken by the company, such as buybacks, distribution of dividends, allotment of bonus shares, stock splits, mergers, and rights.
+There's also a handy option to check details of past corporate actions (this data goes back up to 2005) taken by the company, such as buybacks, distribution of dividends, allotment of bonus shares, stock splits, mergers, and rights.
 
 ![Corporate actions under the Balance Sheet section of Tata Consultancy Services Ltd's Screener page](../.gitbook/assets/screener-13.png)
 
 #### Cash Flow section
 
-This section gives you past ten years of financial data for cash flows of the company, in both consolidated and standalone figures, for easy comparison — for instance, you can check cash outflows due to distribution of dividends by the company to its shareholders, or compare changes in working capital the past few years.
+This section gives you past ten years of financial data for cash flows of the company, in both consolidated and standalone figures, for easy comparison --- for instance, you can check cash outflows due to distribution of dividends by the company to its shareholders, or compare changes in working capital the past few years.
 
 ![Cash Flows section of Tata Consultancy Services Ltd's Screener page](../.gitbook/assets/screener-14.png)
 
@@ -145,21 +144,21 @@ You can find return on capital employed (in %), debtor days, and inventory turno
 
 #### Investors section
 
-You can find the shareholding pattern of a company’s promoter entity, and distribution of its shareholders between promoters, foreign institutional investors (FII), domestic institutional investors (DII), government entities, and retail shareholders for the past few quarters here.
+You can find the shareholding pattern of a company's promoter entity, and distribution of its shareholders between promoters, foreign institutional investors (FII), domestic institutional investors (DII), government entities, and retail shareholders for the past few quarters here.
 
 ![Investors section of Tata Consultancy Services Ltd's Screener page](../.gitbook/assets/screener-17.png)
 
-Screener also allows you to view other listed companies held a shareholders of the company. For example, if you click on *Life Insurance Corporation of India* in the screenshot above, you’ll find a list of other public companies held by LIC.
+Screener also allows you to view other listed companies held a shareholders of the company. For example, if you click on *Life Insurance Corporation of India* in the screenshot above, you'll find a list of other public companies held by LIC.
 
 ![Listed companies held by Life Insurance Corporation (LIC) on Screener](../.gitbook/assets/screener-18.png)
 
 #### Documents section
 
-This section gives you quick access to recent stock exchange filings and annual report of a company. As far as I’ve observed, they are usually linked to BSE’s repository. Apart from stock exchange filings, Screener also provides links to credit rating reports of a company here.
+This section gives you quick access to recent stock exchange filings and annual report of a company. As far as I've observed, they are usually linked to BSE's repository. Apart from stock exchange filings, Screener also provides links to credit rating reports of a company here.
 
 ![Documents section of Tata Consultancy Services Ltd's Screener page](../.gitbook/assets/screener-19.png)
 
-Now that we have some understanding of a company’s Screener page, let’s move on to more interesting things.
+Now that we have some understanding of a company's Screener page, let's move on to more interesting things.
 
 ### Creating a screen
 
@@ -175,38 +174,38 @@ As remarked earlier, there are thousands of companies listed on the Bombay Stock
 
 ![Create a Query dialogue on Screener](../.gitbook/assets/screener-21.png)
 
--   This query gives us a list of public companies and some ratios (customizable using the *edit columns* button) that match the financial constraints we’ve put. You have the option to save a query for conveniently running it again (it can be located at the screens page from the top).
+-   This query gives us a list of public companies and some ratios (customizable using the *edit columns* button) that match the financial constraints we've put. You have the option to save a query for conveniently running it again (it can be located at the screens page from the top).
 
 ![Screen results on Screener](../.gitbook/assets/screener-22.png)
 
 ### Building custom ratios
 
-If you find a financial ratio missing from the set available by default, Screener allows you to manually create your own [here](https://www.screener.in/ratios/new/). For example, to create a ratio for P/FCF, you can fill in the following information —
+If you find a financial ratio missing from the set available by default, Screener allows you to manually create your own [here](https://www.screener.in/ratios/new/). For example, to create a ratio for P/FCF, you can fill in the following information ---
 
 ![Create a new ratio dialogue on Screener](../.gitbook/assets/screener-23.png)
 
-The ratios you create can be added to *Peers comparison* section of a company’s page, or on results returned by a query.
+The ratios you create can be added to *Peers comparison* section of a company's page, or on results returned by a query.
 
 ### Building a watchlist & tracking them
 
-You can add a company to your watchlist by *following* it from the company’s page. There are a couple things you can do with your watchlist. One, you can view it as a query and manage it [here](https://www.screener.in/watchlist/), and two, keep track of the company’s filings on Screener’s home (feed) page. On the left part of this page, you can see latest filings submitted to stock exchanges by the companies you have in your watchlist. On the right, you can check when the upcoming results of companies you have followed are expected.
+You can add a company to your watchlist by *following* it from the company's page. There are a couple things you can do with your watchlist. One, you can view it as a query and manage it [here](https://www.screener.in/watchlist/), and two, keep track of the company's filings on Screener's home (feed) page. On the left part of this page, you can see latest filings submitted to stock exchanges by the companies you have in your watchlist. On the right, you can check when the upcoming results of companies you have followed are expected.
 
 ![Feed page on Screener](../.gitbook/assets/screener-24.png)
 
 ### Exporting financial data to an excel sheet
 
-You can export a company’s financial data to a spreadsheet using the *‘Export to excel’* option available on the top of any company’s Screener page.
+You can export a company's financial data to a spreadsheet using the *'Export to excel'* option available on the top of any company's Screener page.
 
 ![Exported excel sheet's Profit & Loss tab](../.gitbook/assets/screener-25.png)
 
-More importantly, you can set up a custom template for excel sheets downloaded by the *‘Export to excel’* option. To do this,
+More importantly, you can set up a custom template for excel sheets downloaded by the *'Export to excel'* option. To do this,
 
--   First use the *‘Export to excel’* option for **any** company – it doesn’t matter which one. Then, open the excel sheet and go to the *‘Customization’* tab. It should look something like this.
+-   First use the *'Export to excel'* option for **any** company -- it doesn't matter which one. Then, open the excel sheet and go to the *'Customization'* tab. It should look something like this.
 
 ![Exported excel sheet's Customization tab as it would appear by default](../.gitbook/assets/screener-26.png)
 
 -   Delete everything on this tab. This is now a blank slate to put everything you want to see in your custom template. Use the financial data from other tabs of this excel sheet for calculations done in this tab. For ideas, you can refer to [*Financial statements*](https://indiainvestments.gitbook.io/content/wiki/financial-statements) and [*Financial ratios*](https://indiainvestments.gitbook.io/content/wiki/financial-ratios) chapters in this series and see what is missing on Screener by default.
--   For illustration purposes, I’ve used this tab to find estimated free cash flows of a company over the past few years. Free cash flows are calculated as `FCF = Cash flows from Operations - Capital expenditure`. I’ve used `cash flow from operations` data from the cash-flows tab of this sheet, and calculated `capex` using `fixed assets` and `capital work in progress` from the balance sheet tab & using `depreciation` from the profit and loss (P&L) tab of this sheet.
+-   For illustration purposes, I've used this tab to find estimated free cash flows of a company over the past few years. Free cash flows are calculated as `FCF = Cash flows from Operations - Capital expenditure`. I've used `cash flow from operations` data from the cash-flows tab of this sheet, and calculated `capex` using `fixed assets` and `capital work in progress` from the balance sheet tab & using `depreciation` from the profit and loss (P&L) tab of this sheet.
 
 ![This is how my customization tab appears while editing it (for illustrative purposes)](../.gitbook/assets/screener-27.png)
 
@@ -214,15 +213,15 @@ More importantly, you can set up a custom template for excel sheets downloaded b
 
 ![Upload customized excel file dialogue on Screener](../.gitbook/assets/screener-28.png)
 
--   All done! Try using the *‘Export to excel’* option for a different company – you will find your custom ratios for this company added in the customization tab automatically.
+-   All done! Try using the *'Export to excel'* option for a different company -- you will find your custom ratios for this company added in the customization tab automatically.
 
 ![Customization tab of an exported excel sheet of another company after previous step](../.gitbook/assets/screener-29.png)
 
 ## Popular screens & further reading
 
-If you’re up for it, try running various stock picking strategies as a screen! Here are a few you can try,
+If you're up for it, try running various stock picking strategies as a screen! Here are a few you can try,
 
--   Joel Greenblatt’s Magic Formula, an investment technique explained in his book – *The Little Book that Beats The Market*\[^3\](https://www.amazon.in/Little-Still-Market-Books-Profits-ebook/dp/B003VWCQB0).
--   Benjamin Graham’s net-net investing, in which a security is valued solely on the basis of its current assets\[^4\](https://www.investopedia.com/terms/n/net-net.asp).
--   Rob Kirby’s Coffee Can investing, popularized by Saurabh Mukherjea’s book on the subject\[^5\](https://www.amazon.in/Coffee-Can-Investing-Stupendous-Wealth/dp/067009045X)
+-   Joel Greenblatt's Magic Formula, an investment technique explained in his book -- *The Little Book that Beats The Market*\[^3\](https://www.amazon.in/Little-Still-Market-Books-Profits-ebook/dp/B003VWCQB0).
+-   Benjamin Graham's net-net investing, in which a security is valued solely on the basis of its current assets\[^4\](https://www.investopedia.com/terms/n/net-net.asp).
+-   Rob Kirby's Coffee Can investing, popularized by Saurabh Mukherjea's book on the subject\[^5\](https://www.amazon.in/Coffee-Can-Investing-Stupendous-Wealth/dp/067009045X)
 -   Dividend Yield Investing, popularized by investment newsletter publisher Investment Quality Trends, known as IQT\[^6\](https://simplysafedividends.com/intelligent-income/posts/1104-dividend-yield-theory-explained)

@@ -28,7 +28,7 @@ For you as an **EXAMPLE**, if the child is 3 years and you want to invest your 5
 **VARIATIONS / MODIFICATIONS:**
 
 1.  If you have a slightly aggressive mindset (aggressive means you can undergo the deep cut associated with equity investments), you can use either a large cap fund (like Franklin Blue Chip Fund or HDFC Top 200) or a multicap fund (like Franklin Prima Plus or HDFC Equity or DSP Equity) instead of the equity-oriented hybrid fund mentioned above.
-2.  It is not necessary to use Indian instruments alone. You may want to use your own resident country’s funds too. Say you are living in USA, then you can use their index funds and manage accordingly. The basic idea remains the same.
+2.  It is not necessary to use Indian instruments alone. You may want to use your own resident country's funds too. Say you are living in USA, then you can use their index funds and manage accordingly. The basic idea remains the same.
 3.  If you want to use a Ulip with a marketing name of “Child” placed in it (No, there is no major difference between a non-child Ulip or a Child named Ulip except as a marketing tool), so be it. Please do go through the [Ulip primer](http://redd.it/1kv67v) to understand them first. The shifting across equity, long term debt and short-term/liquid debt instruments would remain the same in principle. There is one added advantage in the sense that the money will remain tied into that for the entire duration, which can be a good thing.
 4.  It is preferable to use Direct route to AMCs if you are clear about the entire concept.
 5.  One can take the help of a professional financial planner too for actual management of the instruments. The entire above thing will then at least guide you.

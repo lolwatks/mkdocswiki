@@ -1,10 +1,10 @@
 ---
-description: Corrections in the stock market aren’t unusual. Do your own due diligence before buying stocks.
+description: Corrections in the stock market aren't unusual. Do your own due diligence before buying stocks.
 ---
 
 # The Stock Market Has Crashed. Which Stocks Should I Buy?
 
-### Market Corrections Aren’t Unusual
+### Market Corrections Aren't Unusual
 
 A correction or a crash in the stock market isn’t an unusual event, despite what one might think during such an event. [According to Fidelity Investments](https://web.archive.org/web/20200311095915/https://www.fidelity.com/learning-center/trading-investing/markets-sectors/stock-market-corrections),
 

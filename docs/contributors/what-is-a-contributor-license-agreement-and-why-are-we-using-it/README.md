@@ -1,5 +1,5 @@
 ---
-description: The reasons why we’re using a contributor license agreement, prominent examples of contributor license agreements being used, and a human readable summary.
+description: The reasons why we're using a contributor license agreement, prominent examples of contributor license agreements being used, and a human readable summary.
 ---
 
 # What is a Contributor License Agreement and why are we using it?
@@ -30,6 +30,6 @@ This is a human friendly summary of (and not a substitute for) the full CLA link
 -   **legal entitlement of contributions** - you agree that you are legally entitled to grant us a copyright over your contributions
 -   **providing support** - you are not expected to provide support for your contributions except to the extent you desire. The support provided shall be free or none at all.
 
-Here’s the actual legal CLA.
+Here's the actual legal CLA.
 
-{% page-ref page=“contributor-license-agreement.md” %}
+{% page-ref page="contributor-license-agreement.md" %}

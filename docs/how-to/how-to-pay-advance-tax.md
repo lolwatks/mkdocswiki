@@ -25,13 +25,13 @@ Examples include:
 
 In such cases, the responsibility lies on the taxpayer to compute their tax liability in advance and pay it to the government directly; as advance tax.
 
-However, it’s also **not enough** to just pay the total tax owed to the Income Tax department, by end of the financial year.
+However, it's also **not enough** to just pay the total tax owed to the Income Tax department, by end of the financial year.
 
 As it happens, one needs to also pay the right tax based on estimate of gross income for the whole year, before the right dates (advance tax deadlines) in a financial year.
 
 ## When to pay the Advance Tax <a id="When-to-pay-the-Advance-Tax"></a>
 
-Based on prevailing Indian tax law and IT act, it’s generally supposed to be paid on a quarterly basis.
+Based on prevailing Indian tax law and IT act, it's generally supposed to be paid on a quarterly basis.
 
 The advance tax must be computed and paid based on the tax slab, to which the taxpayer belongs, if the overall tax liability is greater than ₹10,000 in a financial year.
 
@@ -64,11 +64,11 @@ The advance tax must be computed and paid based on the tax slab, to which the ta
 
 ![Type of Payment - Light mode](../.gitbook/assets/type-of-payment.light.png)
 
--   Select the mode of payment, enter your PAN, assessment year and other details. Assessment Year (AY), is usually one year ahead of Financial Year (FY). For example, if it’s advance tax for FY20-21, then that should be selected as AY21-22.
+-   Select the mode of payment, enter your PAN, assessment year and other details. Assessment Year (AY), is usually one year ahead of Financial Year (FY). For example, if it's advance tax for FY20-21, then that should be selected as AY21-22.
 -   Make the payment with Netbanking or Debit card or UPI (as applicable), and keep a copy of the tax receipt /challan, which has details such as
     -   BSR Code
     -   Tender Date
-    -   Challan No. 
+    -   Challan No.
 
 See below for a sample counterfoil after advance tax has been paid.
 
@@ -82,13 +82,13 @@ However, ideally, if the transaction and payment were successful, you should see
 
 ## Wrap Up
 
-One might wonder, if there’s any value in paying taxes in advance. Why can’t we just pay it during filing returns?
+One might wonder, if there's any value in paying taxes in advance. Why can't we just pay it during filing returns?
 
-Section 234, in particular section 234B and section 234C, deal with penalties of not paying right taxes at the right time. Rest assured, if you owe the Govt. any taxes, you’d have to pay it.
+Section 234, in particular section 234B and section 234C, deal with penalties of not paying right taxes at the right time. Rest assured, if you owe the Govt. any taxes, you'd have to pay it.
 
-If you don’t do it on time, you’d be paying that with exorbitant interest as penalty for late payment.
+If you don't do it on time, you'd be paying that with exorbitant interest as penalty for late payment.
 
-If you’ve any concerns over how to estimate advance taxes, it’s prudent to do a tax planning at the beginning of the financial year, and review that once a quarter. If needed, it’s of extreme value to employ a tax professional for a fee. Might save you a lot of headache and surprises down the line.
+If you've any concerns over how to estimate advance taxes, it's prudent to do a tax planning at the beginning of the financial year, and review that once a quarter. If needed, it's of extreme value to employ a tax professional for a fee. Might save you a lot of headache and surprises down the line.
 
 You might want to refer to some online articles or posts about more details on this process, and various corner-cases. Here are a few examples, provided below.
 

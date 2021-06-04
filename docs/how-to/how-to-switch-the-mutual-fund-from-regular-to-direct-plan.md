@@ -27,9 +27,9 @@ There are two modes by which you will be able to perform the switch
 
 This is the easiest method for switching a fund.
 
-1.  Login to the fund house or Mutual fund platform website (Create account if you don’t have)
+1.  Login to the fund house or Mutual fund platform website (Create account if you don't have)
 2.  Select the fund you need to switch
-3.  Stop the existing SIP (if you don’t, the SIP in regular fund will continue to get processed)
+3.  Stop the existing SIP (if you don't, the SIP in regular fund will continue to get processed)
 4.  After selection, you will be presented with options like switch, redeem etc.
 5.  Select switch and then select the fund to which you would like to switch
 6.  Then select whether you would like to do switch for full investment or partial.
@@ -41,8 +41,7 @@ If you have an old fund where the email ID is not updated, then this is the only
 
 1.  Go to the office of the fund house and ask for the form to do the switching
 2.  You will be receiving a communication from them once the fund is switched
-3.  If the fund house doesn’t have that facility offline, ask for form to redeem the fund. Once the fund is redeemed and the amount credited to your account, invest via offline by filling the purchase form or online
+3.  If the fund house doesn't have that facility offline, ask for form to redeem the fund. Once the fund is redeemed and the amount credited to your account, invest via offline by filling the purchase form or online
 
-{% hint style=“info” %}
-For any schemes having lock-in period like ELSS fund, switching can happen only after the period. You may use STP for this.
-{% endhint %}
+???+ info
+    For any schemes having lock-in period like ELSS fund, switching can happen only after the period. You may use STP for this.

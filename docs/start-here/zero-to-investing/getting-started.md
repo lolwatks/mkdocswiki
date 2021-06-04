@@ -6,17 +6,17 @@ description: "Part one of Zero to Investing series : for absolute beginners star
 
 ## Intro : Level Zero 😊
 
-{% embed url=“https://tenor.com/view/po-level-zero-kung-fu-panda-fail-gif-11786422” caption=“There's a level zero” %}
+{% embed url="https://tenor.com/view/po-level-zero-kung-fu-panda-fail-gif-11786422" caption="There's a level zero" %}
 
-You’re at *level zero*, if you’ve basic idea about bank accounts, or maybe some idea about FD, have heard about SIP stuff, and that is it.
+You're at *level zero*, if you've basic idea about bank accounts, or maybe some idea about FD, have heard about SIP stuff, and that is it.
 
-Otherwise, we’d assume you’re a well-earning professional, protected by parents. Who are also likely to not have great ideas about money management.
+Otherwise, we'd assume you're a well-earning professional, protected by parents. Who are also likely to not have great ideas about money management.
 
 These are some common ideas you probably hold dear
 
 -   *Buy your house first*
 -   *Real estate is the best investment*
--   *FDs are the best, even better if you invest in FD in your spouse’s name ,to save tax*
+-   *FDs are the best, even better if you invest in FD in your spouse's name ,to save tax*
 -   *Gold is the best hedge against inflation, it always goes up*
 
 ## A Basic Question ❓
@@ -25,7 +25,7 @@ Let’s start with the most basic question.
 
 **Why do you earn money?**
 
-Why have you studied so much (12+3+2 or 12+4+/-2, we have added MBA level to a graduate or engineering graduate). Even longer, if you’re in medicine.
+Why have you studied so much (12+3+2 or 12+4+/-2, we have added MBA level to a graduate or engineering graduate). Even longer, if you're in medicine.
 
 In short, 17-18 years of studies. Plus add 2/3 years of working. And yet, there are not equal minutes to have really read and understand how to manage all that money that has been earned and will be earned in the future.
 
@@ -37,11 +37,11 @@ And then how to save or invest, etc. Everything passive, bombarded by messages f
 
 ## Where to even start? 🤔
 
-Since we don’t know anything about it, and when we are starting to dip our toes in this ocean of information about money management, it’s scary.
+Since we don’t know anything about it, and when we are starting to dip our toes in this ocean of information about money management, it's scary.
 
-**It turns into an analysis paralysis -** ***since I don’t know what to do, I’ll do nothing*****.**
+**It turns into an analysis paralysis -** ***since I don’t know what to do, I'll do nothing*****.**
 
-Some will keep kicking the can down the road, without taking any money management decisions themselves. Some would do what their bank RM or LIC uncle tell them to do. Most would continue to find topic of money quite boring and mundane, something they’d prefer never have to deal with.
+Some will keep kicking the can down the road, without taking any money management decisions themselves. Some would do what their bank RM or LIC uncle tell them to do. Most would continue to find topic of money quite boring and mundane, something they'd prefer never have to deal with.
 
 **If you want to buy things you want, you have to save.**
 
@@ -49,7 +49,7 @@ This was our first lesson in savings and investment.
 
 ## Baby Steps 👶
 
-We’ll be writing about someone who has got some amount but don’t know how to start managing it. Rather than someone who is about to start.
+We'll be writing about someone who has got some amount but don’t know how to start managing it. Rather than someone who is about to start.
 
 **Bank Account:** The earned amount is sitting in the savings account and earning a measly 3%-3.5% (tax free up to 10-15,000 – whatever govt has limited, as such the amount is small). This money is relatively safe. Relatively, because in today’s world of online banking and debit cards, the risk is non-zero.
 
@@ -75,18 +75,17 @@ I will cut short the other options, because they are as pathetic for someone of 
 
 Why that thing? Because they are:
 
--   Diversified Basically, Liquid MFs keep money into a large number of different areas, so that if one area goes bad (recent news like IL&FS, or CoVid crash), then your entire corpus is not in jeopardy all at once. The more diversified the money is kept, better is the protection (this is a general rule, but there are exceptions, which we’d get to later).
+-   Diversified Basically, Liquid MFs keep money into a large number of different areas, so that if one area goes bad (recent news like IL&FS, or CoVid crash), then your entire corpus is not in jeopardy all at once. The more diversified the money is kept, better is the protection (this is a general rule, but there are exceptions, which we'd get to later).
 -   In general, you can earn more than FD, both as amount of interest as well as with less tax, if you keep the money in there for >3 years.
 -   Third and most important, the money withdrawal is flexible. You want to redeem only 5,000 INR, you can. You want to take out 1L, you can (of course, you should have more than 1 lakh invested). You want to remove the entire amount and see it in your balance, you can do that as well
 
-{% hint style=“warning” %}
-You will receive money only the next working day from liquid mutual fund. For smaller amounts, (&lt;50,000 INR, or 90% of your investments, whichever is smaller), most liquid MFs have the facility of 24x7 instant redemption via IMPS, which is a great thing.
-{% endhint %}
+???+ warning
+    You will receive money only the next working day from liquid mutual fund. For smaller amounts, (&lt;50,000 INR, or 90% of your investments, whichever is smaller), most liquid MFs have the facility of 24x7 instant redemption via IMPS, which is a great thing.
 
 **Solution:** so, for that person with 24L, we advised him to keep 3L in savings account (he had been seeing that huge amount in his account statement, so just could not ask him to remove everything. It would have been a shock to him), keep three 1L FDs of similar maturity and rest 18L in *Franklin Templeton’s liquid fund*.
 
-We’re giving a specific name here, because there are so many options in that category, that it again causes action paralysis of which one to choose.
+We're giving a specific name here, because there are so many options in that category, that it again causes action paralysis of which one to choose.
 
-Other one which we can recommend is Parag Parikh liquid fund (because they have put most of their portfolio, mostly in the SOV-rated RBI papers; which if you don’t know what is, know that it’s the safest piece of debt instruments out there).
+Other one which we can recommend is Parag Parikh liquid fund (because they have put most of their portfolio, mostly in the SOV-rated RBI papers; which if you don't know what is, know that it's the safest piece of debt instruments out there).
 
 From other analysis available on the internet, Quantum’s liquid fund is a good idea.

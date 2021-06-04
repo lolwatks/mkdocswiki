@@ -9,7 +9,7 @@ A government security is a type of bond issued by the Central Government or the 
 -   **Short Term Bonds** - Colloquially known as Treasury Bills (T Bills), these are secrurities that are issued for durations shorter than a year. Generally, only the central government issues this type of securities.
 -   **Long Term Bonds** - These are dated securities which are sometimes referred to as GSecs (despite only being a subset of government securities). There are issued by both the central government as well as the state governments. When issued by the latter they are reffered to as State Development Loans (SDLs).
 
-Due to being issued by the government itself, these bonds are a form of sovereign debt and have low credit risk. The overall risk of a nation’s bond can be assessed by looking at their sovereign credit rating which is an assesment of the creditworthiness of a country. For example, India’s credit rating as of this article is BBB- according to Fitch and Baa3 according to Moody’s which is the minimum grade required for a bond to be considered “investment grade”. Furthermore, investors see full transparency of the investment process as the RBI conducts the auction for participants to see. As such these can play a crucial role in an investor’s portfolio for long term wealth creation as a low risk debt instrument.
+Due to being issued by the government itself, these bonds are a form of sovereign debt and have low credit risk. The overall risk of a nation's bond can be assessed by looking at their sovereign credit rating which is an assesment of the creditworthiness of a country. For example, India's credit rating as of this article is BBB- according to Fitch and Baa3 according to Moody's which is the minimum grade required for a bond to be considered "investment grade". Furthermore, investors see full transparency of the investment process as the RBI conducts the auction for participants to see. As such these can play a crucial role in an investor's portfolio for long term wealth creation as a low risk debt instrument.
 
 ### Short Term Bonds
 
@@ -49,7 +49,7 @@ These are bonds where the interest rate is fixed for the entire duration of the 
 These are bonds where the interest rate is not fixed for the entire duration of the bond and is revised at fixed intervals by RBI. There come in two main types.
 
 -   Floating rate bonds without a fixed spread ie they are simply issued at face value and pay out the coupon rate for the currently set period.
--   Floating rate bonds with a fixed spread. These are auctioned and sold at a discount similar to the aforementioned treasury bills, which means there’s a variable component which is the coupon yield set by RBI as well as the fixed spread which is guaranteed based on the discount the bond was purchased at. An example of this type of bond is the [FRB 2033 issued by RBI.](https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=50728)
+-   Floating rate bonds with a fixed spread. These are auctioned and sold at a discount similar to the aforementioned treasury bills, which means there's a variable component which is the coupon yield set by RBI as well as the fixed spread which is guaranteed based on the discount the bond was purchased at. An example of this type of bond is the [FRB 2033 issued by RBI.](https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=50728)
 
 **Floating Rate Savings Bond**
 
@@ -63,7 +63,7 @@ In recent years, much of the sheen of these are fallen with inflation levels fal
 
 #### State Development Loans (SDLs)
 
-State Development Loans are securities issued by various state governments instead of the the central government. In theory based on the Basel III guidelines as well as RBI’s Statutory liquidity ratio requirements, these are considered to be having zero credit risk. In the markets this is contested as there is often a premium over the central government’s equivalent government security. The spread depends on the credit worthiness of the states in question and can vary from state to state. Since RBI is the facilitator for the state to issue such bonds they have the power to make payments to bond holders from the central government’s kitty for the respective state.
+State Development Loans are securities issued by various state governments instead of the the central government. In theory based on the Basel III guidelines as well as RBI's Statutory liquidity ratio requirements, these are considered to be having zero credit risk. In the markets this is contested as there is often a premium over the central government's equivalent government security. The spread depends on the credit worthiness of the states in question and can vary from state to state. Since RBI is the facilitator for the state to issue such bonds they have the power to make payments to bond holders from the central government's kitty for the respective state.
 
 #### Sovereign Gold Bonds (SGBs)
 

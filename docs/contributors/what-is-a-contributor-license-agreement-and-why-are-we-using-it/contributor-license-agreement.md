@@ -10,17 +10,17 @@ You accept and agree to the following terms and conditions for Your past, presen
 
 #### 1. Definitions <a id="1-Definitions"></a>
 
-**“You”** means the individual Copyright owner or Legal Entity authorized by the copyright owner who Submits a Contribution to Us.
+**"You"** means the individual Copyright owner or Legal Entity authorized by the copyright owner who Submits a Contribution to Us.
 
-**“Legal Entity”** means an entity that is not a natural person. A Legal Entity making a Contribution and all other entities that control, are controlled by, or are under common control with that entity are considered to be a single Contributor. For the purposes of this definition, “control” means (i) the power, direct or indirect, to cause the direction or management of such entity, whether by contract or otherwise, or (ii) ownership of fifty percent (50%) or more of the outstanding shares, or (iii) beneficial ownership of such entity.
+**"Legal Entity"** means an entity that is not a natural person. A Legal Entity making a Contribution and all other entities that control, are controlled by, or are under common control with that entity are considered to be a single Contributor. For the purposes of this definition, “control” means (i) the power, direct or indirect, to cause the direction or management of such entity, whether by contract or otherwise, or (ii) ownership of fifty percent (50%) or more of the outstanding shares, or (iii) beneficial ownership of such entity.
 
-**“Contribution”** means any original work of authorship, including any original modifications or additions to an existing work of authorship, Submitted by You to Us, in which You own the Copyright.
+**"Contribution"** means any original work of authorship, including any original modifications or additions to an existing work of authorship, Submitted by You to Us, in which You own the Copyright.
 
-**“Copyright”** means all rights protecting works of authorship, including copyright, moral and neighboring rights, as appropriate, for the full term of their existence.
+**"Copyright"** means all rights protecting works of authorship, including copyright, moral and neighboring rights, as appropriate, for the full term of their existence.
 
-**“Submit”** means any act by which a Contribution is transferred to Us by You by means of tangible or intangible media, including but not limited to electronic mailing lists, source code control systems, and issue tracking systems that are managed by, or on behalf of, Us, but excluding any transfer that is conspicuously marked or otherwise designated in writing by You as “Not a Contribution.”
+**"Submit"** means any act by which a Contribution is transferred to Us by You by means of tangible or intangible media, including but not limited to electronic mailing lists, source code control systems, and issue tracking systems that are managed by, or on behalf of, Us, but excluding any transfer that is conspicuously marked or otherwise designated in writing by You as “Not a Contribution.”
 
-**“Documentation”** means the collection of Contributions hosted on platforms used by India Investments including, but not limited to, Reddit, Discord, Trello, HackMD, GitHub, and GitBook.
+**"Documentation"** means the collection of Contributions hosted on platforms used by India Investments including, but not limited to, Reddit, Discord, Trello, HackMD, GitHub, and GitBook.
 
 #### 2. Grant of Copyright License. <a id="2-Grant-of-Copyright-License"></a>
 
