@@ -8,9 +8,8 @@ description: All things health insurance
 
 A [link](http://www.gettingyourich.com/blog/-review-of-health-insurance-policies) which compares 4 health insurance policies.
 
-Varun Dua \(Co-founder of Coverfox.com\) [AMA](http://www.reddit.com/r/IndiaInvestments/comments/2immmu/im_varun_the_cofounder_of_coverfox_insurance_its/)
+Varun Dua (Co-founder of Coverfox.com) [AMA](http://www.reddit.com/r/IndiaInvestments/comments/2immmu/im_varun_the_cofounder_of_coverfox_insurance_its/)
 
 **Post/Comment Section**
 
 [Health Insurance for Parents](http://www.reddit.com/r/IndiaInvestments/comments/261lax/parents_health_insurance_recommendations/)
-

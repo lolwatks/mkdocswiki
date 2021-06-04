@@ -10,11 +10,11 @@ You have to opt for dividend option if you want to get the dividend declared to 
 
 ## Liquid Funds
 
-These are a type of Money-market funds. These types of mutual funds invest in highly liquid and high credit rated securities with very short maturity time frames \(usually less than 91 days\) like CD \(certificate of deposit which is a big FD\), government securities, commercial papers, and corporate bonds \(AA+ and above, mostly\).
+These are a type of Money-market funds. These types of mutual funds invest in highly liquid and high credit rated securities with very short maturity time frames (usually less than 91 days) like CD (certificate of deposit which is a big FD), government securities, commercial papers, and corporate bonds (AA+ and above, mostly).
 
-They usually pay higher interest rates than corresponding FD or savings account rates and are extremely safe. The last 1 year average return is around 8.9% and the forward yield is around 8.7%. The 5- year return has been 8.1%. \(Time-End Nov 2014\). Source – Morningstar.in. Reliance MF has an ATM card which you can associate with their funds. [Link](https://www.reliancemutual.com/investor-services/innovative-products/reliance-any-time-money-card). I don’t have personal experience with it.
+They usually pay higher interest rates than corresponding FD or savings account rates and are extremely safe. The last 1 year average return is around 8.9% and the forward yield is around 8.7%. The 5- year return has been 8.1%. (Time-End Nov 2014). Source – Morningstar.in. Reliance MF has an ATM card which you can associate with their funds. [Link](https://www.reliancemutual.com/investor-services/innovative-products/reliance-any-time-money-card). I don’t have personal experience with it.
 
-## Bond Funds \(Debt Funds\)
+## Bond Funds (Debt Funds)
 
 Bond funds have the aim to earn more than the liquid funds by investing in a portfolio of bonds and other instruments. Depending upon the underlying specific objective, bond funds can be of the following types:
 
@@ -22,7 +22,7 @@ Bond funds have the aim to earn more than the liquid funds by investing in a por
 
 These use bonds for up to 3-6 months in most cases. They can invest in government as well as corporate bonds.
 
-**Gilt Short Term Bond funds** Funds which exclusively invest in government \(gilt is for gilded = backed by govt\) short-term securities. They are safer than funds which invest in corporate bonds.
+**Gilt Short Term Bond funds** Funds which exclusively invest in government (gilt is for gilded = backed by govt) short-term securities. They are safer than funds which invest in corporate bonds.
 
 **Short Term Bond funds** These use bonds up to 1-3 years.
 
@@ -30,7 +30,7 @@ These use bonds for up to 3-6 months in most cases. They can invest in governmen
 
 **Gilt Medium to Long Term funds**
 
-These use government \(gilt\) bonds, which have longer maturities. Currently, some of the funds have average maturities of 20-25 years.
+These use government (gilt) bonds, which have longer maturities. Currently, some of the funds have average maturities of 20-25 years.
 
 ## Growth Objective
 
@@ -56,17 +56,16 @@ These funds invest in a particular region / country of the globe.
 
 **International Funds** These funds invest internationally without restriction to a specific country.
 
-**Gold / Thematic funds** These funds invest in gold ETFs or gold mining companies, commodities, agribusiness, real-estate, real asset companies. Thematic funds appear like sectoral funds on the surface, but a theme is much larger than a single sector. Infra funds are usually considered thematic instead of sectoral, since the companies cut across various sectors related to infrastructure - banking and finance, engineering \(who finances the projects\), construction \(who builds them\), energy, metals and automobiles \(where do the raw materials come from and who transports them\) etc.
+**Gold / Thematic funds** These funds invest in gold ETFs or gold mining companies, commodities, agribusiness, real-estate, real asset companies. Thematic funds appear like sectoral funds on the surface, but a theme is much larger than a single sector. Infra funds are usually considered thematic instead of sectoral, since the companies cut across various sectors related to infrastructure - banking and finance, engineering (who finances the projects), construction (who builds them), energy, metals and automobiles (where do the raw materials come from and who transports them) etc.
 
 **Ethical / Socially Responsible Funds** These funds do not invest in companies associated with “sin products” like gambling, cigarette, porn, alcohol, etc. The Shariah related funds come under this.
 
 ## GROWTH AND INCOME OBJECTIVE
 
-**Balanced Funds** These have variable allocation to equity and debt. There are equity-oriented hybrid funds which have &gt;65% equity allocation, while others are debt-oriented hybrid funds which have lesser amounts of equity \(can go to 5-10%\). They have an in-built asset re-allocation based on changes in the values of the securities.
+**Balanced Funds** These have variable allocation to equity and debt. There are equity-oriented hybrid funds which have &gt;65% equity allocation, while others are debt-oriented hybrid funds which have lesser amounts of equity (can go to 5-10%). They have an in-built asset re-allocation based on changes in the values of the securities.
 
 **Asset Allocation funds** These funds use other funds to manage the assets. Many life cycle funds and dynamic ratio funds come under this head.
 
 ## ETF
 
 Exchange traded funds are a separate type of mutual fund. These funds can be bought / sold during the trading hours on the Exchange and these track the price of the underlying portfolio. So, a nifty index ETF can have a variable NAV throughout the trading period, while a nifty index mutual fund will only have a single NAV for the day declared at the end of the trading hours.
-

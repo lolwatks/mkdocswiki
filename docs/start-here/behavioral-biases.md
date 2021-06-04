@@ -16,9 +16,8 @@ The Holy Grail of Investing [post](http://redd.it/2bdjtz)
 
 #### **Specific Behavioral Finance / Economics Books**
 
-1. Thinking Fast and Slow - Daniel Kahneman
-2. Predictably Irrational - Dan Ariely
-3. Behavioral Investing - James Montier
-4. Nudge - Richard Thaler
-5. Austrian Economics tries to explain the reasons, non-mathematical, behind Behavioral Economics. A [free pdf](http://mises.org/library/man-economy-and-state-power-and-market) of Man, Economics and State, with Power and Market by Murray Rothbard.
-
+1.  Thinking Fast and Slow - Daniel Kahneman
+2.  Predictably Irrational - Dan Ariely
+3.  Behavioral Investing - James Montier
+4.  Nudge - Richard Thaler
+5.  Austrian Economics tries to explain the reasons, non-mathematical, behind Behavioral Economics. A [free pdf](http://mises.org/library/man-economy-and-state-power-and-market) of Man, Economics and State, with Power and Market by Murray Rothbard.
