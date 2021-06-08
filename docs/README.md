@@ -20,12 +20,22 @@ If you're just starting out, have never had to think about finances, investments
 
 You might be here because you've a specific query that just can't wait. Do browse through our common queries sections below, to see if your query already has been answered by us.
 
+{% page-ref page="faqs/s.md" %}
+
+{% page-ref page="how-to/s.md" %}
+
 ## Series
 
 ???+ info
     Our wiki is a work-in-progress, constantly being edited, reviewed, and updated. We've done our best to review these, but if you notice spelling errors, or other discrepancies, kindly reach out to us so we can fix these.
 
-Here are some of the topics we presently cover in our wiki
+Here are some of the topics we presently cover in our wiki, in the form of their own dedicated series:
+
+{% page-ref page="stocks/s.md" %}
+
+{% page-ref page="excel/s.md" %}
+
+{% page-ref page="bonds/s.md" %}
 
 ## License
 
