@@ -2,6 +2,9 @@
 # the name of our website
 site_name: India Investments Wiki
 
+# the URL of our site
+site_url: https://staging.indiainvestments.wiki
+
 # enable "edit this page" feature and link to our github repo
 repo_url: https://github.com/indiainvestments/mkdocswiki
 

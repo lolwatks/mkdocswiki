@@ -28,6 +28,7 @@ jobs:
       - name: checkout the mkdocs repo
         uses: actions/checkout@v2
         with:
+          fetch-depth: 0
           path: mkdocswiki
       - name: setup python
         uses: actions/setup-python@v2
