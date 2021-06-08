@@ -37,12 +37,11 @@ jobs:
       - name: upgrade pip, install mkdocs material, and some extensions
         run: >-
           python -m pip install --upgrade pip mkdocs-material
-          mkdocs-git-revision-date-localized-plugin mkdocs-literate-nav
+          mkdocs-git-revision-date-localized-plugin
       - name: copy over content from gitbook to mkdocs
         run: |
           cp -f gitbookwiki/README.md mkdocswiki/docs/README.md
           cp -f gitbookwiki/disclaimers-and-disclosures.md mkdocswiki/docs/disclaimers-and-disclosures.md
-          cp -f gitbookwiki/SUMMARY.md mkdocswiki/docs/SUMMARY.md
           rsync -Pra --delete gitbookwiki/bonds/ mkdocswiki/docs/bonds
           rsync -Pra --delete gitbookwiki/contributors/ mkdocswiki/docs/contributors
           rsync -Pra --delete gitbookwiki/discord/ mkdocswiki/docs/discord

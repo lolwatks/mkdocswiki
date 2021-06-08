@@ -38,8 +38,6 @@ plugins:
       enable_creation_date: true
   - search:
       prebuild_index: true
-  - literate-nav:
-      nav_file: docs/SUMMARY.md
 
 extra_css:
   - css/image_toggle.css
