@@ -72,9 +72,9 @@ jobs:
         run: |
           git --work-tree=mkdocswiki/ --git-dir=mkdocswiki/.git/ config user.name github-actions
           git --work-tree=mkdocswiki/ --git-dir=mkdocswiki/.git/ config user.email github-actions@github.com
-          git --work-tree=mkdocswiki/ --git-dir=mkdocswiki/.git/ add -A
-          git --work-tree=mkdocswiki/ --git-dir=mkdocswiki/.git/ commit -m "markdown sanitized"
-          git --work-tree=mkdocswiki/ --git-dir=mkdocswiki/.git/ push origin master
+          git --work-tree=mkdocswiki/ --git-dir=mkdocswiki/.git/ add -A || true
+          git --work-tree=mkdocswiki/ --git-dir=mkdocswiki/.git/ commit -m "markdown sanitized" || true
+          git --work-tree=mkdocswiki/ --git-dir=mkdocswiki/.git/ push origin master || true
       - name: deploy mkdocs in gh-pages
         run: |
           cd mkdocswiki/
