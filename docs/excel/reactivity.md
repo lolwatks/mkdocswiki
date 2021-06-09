@@ -120,7 +120,7 @@ Follow these steps to validate each price computation row:
 
 -   Go to the bottom right end of this newly created cell, there’s a small square.
 
-    ![](/images/excel-drag.dark.png){.dark-mode-image}![](/images/excel-drag.light.png){.light-mode-image}
+    ![](/images/excel-drag.dark.png)![](/images/excel-drag.light.png){.dark-mode-image}
 
     Click on that, and while it remains clicked / pressed, drag it down to cover the other rows. You’d notice how the formula gets copied on the cells in other rows, but somehow magically Excel keeps selecting right cells from that row (and not from the first row).
 

@@ -88,9 +88,9 @@ Our approach:
 
 -   Finally, in one last row, we’d invoke the in-built `SUM` formula, to add up all units purchased over the years. Then multiply it by NASDAQ closing price, as on 22nd May 2015, to get corpus value as on that date.
 
-![Planned Table (dark mode)](/images/screen-shot-2021-03-09-at-10.56.40-pm.png)
+![Planned Table (dark mode)](/images/screen-shot-2021-03-09-at-10.56.40-pm.png){.dark-mode-image}
 
-![Planned Table (light mode)](/images/screen-shot-2021-03-09-at-10.56.58-pm.png)
+![Planned Table (light mode)](/images/screen-shot-2021-03-09-at-10.56.58-pm.png){.light-mode-image}
 
 ## Implementation
 

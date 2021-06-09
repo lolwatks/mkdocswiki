@@ -689,7 +689,7 @@ Final result should match these
 
 ![Units Purchased more than 1Y Ago - Dark Mode](/images/units-purchased-one-year-ago.dark.png){.dark-mode-image}
 
-![Units Purchased more than 1Y Ago - Light Mode](/images/units-purchased-one-year-ago.light%20%281%29%20%281%29%20%281%29%20%281%29.png)
+![Units Purchased more than 1Y Ago - Light Mode](/images/units-purchased-one-year-ago.light%20%281%29%20%281%29%20%281%29%20%281%29.png){.light-mode-image}
 
 ???+ warning
     The numbers might not exactly match, because depending on today's date, you might have a higher value. Above computation is as on 21st March 2021.
@@ -711,7 +711,7 @@ A sample final result can look like this
 
 ![Units outside of STCG Taxation - Dark Mode](/images/units-outside-stcg.dark.png){.dark-mode-image}
 
-![Units outside of STCG Taxation - Light Mode](/images/units-purchased-one-year-ago.light%20%281%29%20%281%29%20%281%29.png)
+![Units outside of STCG Taxation - Light Mode](/images/units-purchased-one-year-ago.light%20%281%29%20%281%29%20%281%29.png){.light-mode-image}
 
 ## Wrapping up
 
