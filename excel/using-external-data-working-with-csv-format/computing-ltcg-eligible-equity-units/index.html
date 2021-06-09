@@ -3048,15 +3048,15 @@
 <li>total number of units older than 1 year, that they can sell</li>
 </ul>
 <p>Consider a sample transaction history, plotted against time, for an investor who’s been investing for a few years (figures not to scale)</p>
-<p><img alt="Transaction History Sample - Dark Mode" src="/images/transaction-history.dark.png" /></p>
-<p><img alt="Transaction History Sample - Light Mode" src="/images/transaction-history.light.png" /></p>
+<p><img alt="Transaction History Sample - Dark Mode" class="dark-mode-image" src="/images/transaction-history.dark.png" /></p>
+<p><img alt="Transaction History Sample - Light Mode" class="light-mode-image" src="/images/transaction-history.light.png" /></p>
 <p>The Y-axis represents units purchased in every transaction. It’s positive for purchase transactions, and negative offshoots are for sell / redemption transactions.</p>
 <p>X-axis is for time, in years.</p>
 <p>Now, let’s assume today’s date is somewhere in 2021-22. Say, it’s 3rd July 2021.</p>
 <p>Then any units purchased in last 1 year before that, from 4th July 2020 to 3rd July 2021; are less than 1 year old.</p>
 <p>And all units purchased on or before 3rd July 2020, are older than 1 year.</p>
-<p><img alt="Transaction History with Clear Segregation - Dark Mode" src="/images/transaction-history2.dark.png" /></p>
-<p><img alt="Transaction History with Clear Segregation - Light Mode" src="/images/transaction-history2.light.png" /></p>
+<p><img alt="Transaction History with Clear Segregation - Dark Mode" class="dark-mode-image" src="/images/transaction-history2.dark.png" /></p>
+<p><img alt="Transaction History with Clear Segregation - Light Mode" class="light-mode-image" src="/images/transaction-history2.light.png" /></p>
 <p>Our task is to use excel / spreadsheet find these two:</p>
 <ul>
 <li>number of units older than 1 year old (to avoid STCG tax or <strong>S</strong>hort <strong>T</strong>erm <strong>C</strong>apital <strong>G</strong>ain)</li>
@@ -3454,11 +3454,11 @@
 </ul>
 </li>
 </ul>
-<p><img alt="Import Data Settings - Dark Mode" src="/images/import-data.dark.png" /></p>
-<p><img alt="Import Data Settings - Light Mode" src="/images/import-data.light.png" /></p>
+<p><img alt="Import Data Settings - Dark Mode" class="dark-mode-image" src="/images/import-data.dark.png" /></p>
+<p><img alt="Import Data Settings - Light Mode" class="light-mode-image" src="/images/import-data.light.png" /></p>
 <p>After importing this CSV file into your Spreadsheet, it should look like this</p>
-<p><img alt="After Importing Transaction History CSV - Dark Mode" src="/images/after-import.dark.png" /></p>
-<p><img alt="After Importing Transaction History CSV - Light Mode" src="/images/after-import.light.png" /></p>
+<p><img alt="After Importing Transaction History CSV - Dark Mode" class="dark-mode-image" src="/images/after-import.dark.png" /></p>
+<p><img alt="After Importing Transaction History CSV - Light Mode" class="light-mode-image" src="/images/after-import.light.png" /></p>
 <h3 id="extracting-unique-funds"><strong>Extracting Unique Funds</strong><a class="headerlink" href="#extracting-unique-funds" title="Permanent link">#</a></h3>
 <p>We’d use this sheet as our source of data.</p>
 <p>And in case you’re wondering, yes, excel / spreadsheet allows you to refer to data from a cell in <strong>different sheet</strong>.</p>
@@ -3486,8 +3486,8 @@
 </tbody>
 </table>
 <p>It should look like this</p>
-<p><img alt="Table Headers - Dark Mode" src="/images/table-header.dark.png" /></p>
-<p><img alt="Table Headers - Light Mode" src="/images/table-header.light.png" /></p>
+<p><img alt="Table Headers - Dark Mode" class="dark-mode-image" src="/images/table-header.dark.png" /></p>
+<p><img alt="Table Headers - Light Mode" class="light-mode-image" src="/images/table-header.light.png" /></p>
 <p>Next step is to use <code>UNIQUE()</code> function, with the range of all funds.</p>
 <p>There are total 329 entries in the CSV imported transactions.</p>
 <p>In the first sheet, if the first entry of fund name starts at <code>B2</code>, then the last entry would be at (329 - 2 + 1) = <code>B330</code>.</p>
@@ -3496,8 +3496,8 @@
 <p>{% embed url="<a href="https://www.youtube.com/watch?v=iXOSl-pfrC8">https://www.youtube.com/watch?v=iXOSl-pfrC8</a>" caption="Extracting Unique Fund Names - Dark Mode" %}</p>
 <p>{% embed url="<a href="https://www.youtube.com/watch?v=Q8KinGUG">https://www.youtube.com/watch?v=Q8KinGUG</a>_Ug" caption="Extracting Unique Fund Names - Light Mode" %}</p>
 <p>Final outcome of this process should look like as follows</p>
-<p><img alt="Unique Fund Names - Dark Mode" src="/images/unique-fund-names.dark.png" /></p>
-<p><img alt="Unique Fund Names - Light Mode" src="/images/unique-fund-names.light.png" /></p>
+<p><img alt="Unique Fund Names - Dark Mode" class="dark-mode-image" src="/images/unique-fund-names.dark.png" /></p>
+<p><img alt="Unique Fund Names - Light Mode" class="light-mode-image" src="/images/unique-fund-names.light.png" /></p>
 <h3 id="locking-cell-ids-for-dragging-autofills">Locking Cell IDs for Dragging Autofills<a class="headerlink" href="#locking-cell-ids-for-dragging-autofills" title="Permanent link">#</a></h3>
 <p>Before we proceed to compute the total units sold or purchased, a look at autofill drag behavior is warranted.</p>
 <p>Say, a formula is <code>FUNCTION(A2, sheet!C3:sheet!C300)</code>.</p>
@@ -3558,8 +3558,8 @@
 <p>{% embed url="<a href="https://www.youtube.com/watch?v=Oson6YaYs">https://www.youtube.com/watch?v=Oson6YaYs</a>_U" caption="Computing Units Sold with SUMIFS() - Dark Mode" %}</p>
 <p>{% embed url="<a href="https://www.youtube.com/watch?v=F-gcflvRs50">https://www.youtube.com/watch?v=F-gcflvRs50</a>" caption="Computing Units Sold with SUMIFS() - Light Mode" %}</p>
 <p>Final result should match this</p>
-<p><img alt="Total Units Sold - Dark Mode" src="/images/units-sold-final-result.dark.png" /></p>
-<p><img alt="Total Units Sold - Light Mode" src="/images/units-sold-final-result.light.png" /></p>
+<p><img alt="Total Units Sold - Dark Mode" class="dark-mode-image" src="/images/units-sold-final-result.dark.png" /></p>
+<p><img alt="Total Units Sold - Light Mode" class="light-mode-image" src="/images/units-sold-final-result.light.png" /></p>
 <h3 id="normalizing-imported-dates"><strong>Normalizing imported dates</strong><a class="headerlink" href="#normalizing-imported-dates" title="Permanent link">#</a></h3>
 <p>To determine unit balance for only purchase transactions, about a year ago, we need to use <code>SUMIFS()</code> function again.</p>
 <p>But this time, we’ve to add one more condition: <strong>date of purchase</strong></p>
@@ -3619,7 +3619,7 @@
 <p>{% embed url="<a href="https://www.youtube.com/watch?v=3XqMbPsOB00">https://www.youtube.com/watch?v=3XqMbPsOB00</a>" caption="Computing Units Purchased &gt; 1 Year - Dark Mode" %}</p>
 <p>{% embed url="<a href="https://www.youtube.com/watch?v=IDuWjJcHjCI">https://www.youtube.com/watch?v=IDuWjJcHjCI</a>" caption="Computing Units Purchased &gt; 1 Year - Light Mode" %}</p>
 <p>Final result should match these</p>
-<p><img alt="Units Purchased more than 1Y Ago - Dark Mode" src="/images/units-purchased-one-year-ago.dark.png" /></p>
+<p><img alt="Units Purchased more than 1Y Ago - Dark Mode" class="dark-mode-image" src="/images/units-purchased-one-year-ago.dark.png" /></p>
 <p><img alt="Units Purchased more than 1Y Ago - Light Mode" src="/images/units-purchased-one-year-ago.light%20%281%29%20%281%29%20%281%29%20%281%29.png" /></p>
 <details class="warning" open="open"><summary>Warning</summary><p>The numbers might not exactly match, because depending on today's date, you might have a higher value. Above computation is as on 21st March 2021.</p>
 </details>
@@ -3631,7 +3631,7 @@
 <p>Effectively, we have to sum up the column entries. We can use auto-fill with drag. In fact, spreadsheet might actually prompt here, on how to autofill these cells, in last column of second sheet.</p>
 <p>It also shows why keeping <em>units sold</em> in negative was a good idea.</p>
 <p>A sample final result can look like this</p>
-<p><img alt="Units outside of STCG Taxation - Dark Mode" src="/images/units-outside-stcg.dark.png" /></p>
+<p><img alt="Units outside of STCG Taxation - Dark Mode" class="dark-mode-image" src="/images/units-outside-stcg.dark.png" /></p>
 <p><img alt="Units outside of STCG Taxation - Light Mode" src="/images/units-purchased-one-year-ago.light%20%281%29%20%281%29%20%281%29.png" /></p>
 <h2 id="wrapping-up">Wrapping up<a class="headerlink" href="#wrapping-up" title="Permanent link">#</a></h2>
 <p>It’s easy to cross-check and verify that these complex computations and instrumentations actually lead to sane results</p>

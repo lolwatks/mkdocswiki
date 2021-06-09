@@ -3282,8 +3282,8 @@
 <p>{% embed url="<a href="https://www.youtube.com/watch?v=zDtcmcWD3O0">https://www.youtube.com/watch?v=zDtcmcWD3O0</a>" caption="Verifying XIRR with sum of discounted cashflows - Dark Mode" %}</p>
 <p>{% embed url="<a href="https://www.youtube.com/watch?v=9j5vqGYEo8E&amp;feature=emb">https://www.youtube.com/watch?v=9j5vqGYEo8E&amp;feature=emb</a>_logo" caption="Verifying XIRR with sum of discounted cashflows - Light Mode" %}</p>
 <p>Final result should resemble this:</p>
-<p><img alt="Verifying XIRR value from summing up discounted cashflows - Dark Mode" src="/images/verifying-xirr-sum-of-discounted-cashflow.dark.png" /></p>
-<p><img alt="Verifying XIRR value from summing up discounted cashflows - Light Mode" src="/images/verifying-xirr-sum-of-discounted-cashflow.light.png" /></p>
+<p><img alt="Verifying XIRR value from summing up discounted cashflows - Dark Mode" class="dark-mode-image" src="/images/verifying-xirr-sum-of-discounted-cashflow.dark.png" /></p>
+<p><img alt="Verifying XIRR value from summing up discounted cashflows - Light Mode" class="light-mode-image" src="/images/verifying-xirr-sum-of-discounted-cashflow.light.png" /></p>
 <details class="warning" open="open"><summary>Warning</summary><p>You would be tempted to manually use 3.52% or 0.0352 instead of relying on output of <code>xirr()</code> formula. As you’d see, it would add up to a finite positive or negative value.</p>
 <p>Due to formatting, we are only seeing two places after decimal point. But actual computed value is something slightly different from exact 3.52%.</p>
 </details>
@@ -3335,18 +3335,18 @@
 <p>It effectively means, if the investor were to sell the share when price is ₹2515.20, they’d receive ₹2515.20 in liquid cash in their account. We’re ignoring STT (<strong>S</strong>ecurity <strong>T</strong>ransaction <strong>T</strong>ax), brokerage, and other fees for now.</p>
 <p>Then XIRR of these transactions can be computed easily, by inserting these numbers from the table into a spr<strong>e</strong>adsheet, invoking the <code>xirr()</code> formula.</p>
 <p>We’d get XIRR as $$17.69\%$$ <strong>p.a.</strong></p>
-<p><img alt="XIRR of only two transactions - Dark Mode" src="/images/xirr-only-two-transactions-hdfc.dark.png" /></p>
-<p><img alt="XIRR of only two transactions - Light Mode" src="/images/xirr-only-two-transactions-hdfc.light.png" /></p>
+<p><img alt="XIRR of only two transactions - Dark Mode" class="dark-mode-image" src="/images/xirr-only-two-transactions-hdfc.dark.png" /></p>
+<p><img alt="XIRR of only two transactions - Light Mode" class="light-mode-image" src="/images/xirr-only-two-transactions-hdfc.light.png" /></p>
 <p>At the same time, we could obtain CAGR of underlying asset, HDFC shares, over 5 years, which also comes out to be $$17.69\%$$ <strong>p.a.</strong></p>
-<p><img alt="CAGR computed with RRI function - Dark Mode" src="/images/hdfc-5y-cagr.dark.png" /></p>
-<p><img alt="CAGR computed with RRI function - Light Mode" src="/images/hdc-5y-cagr.light.png" /></p>
+<p><img alt="CAGR computed with RRI function - Dark Mode" class="dark-mode-image" src="/images/hdfc-5y-cagr.dark.png" /></p>
+<p><img alt="CAGR computed with RRI function - Light Mode" class="light-mode-image" src="/images/hdc-5y-cagr.light.png" /></p>
 <p><strong>They are the same!</strong></p>
 <details class="info" open="open"><summary>Info</summary><p>You might have noticed that output of <code>RRI()</code> function is slightly different from output of XIRR function. This is because those two dates are not exactly 5 years apart, you’ve to also count the leap days in between.</p>
 </details>
 <p><strong>CAGR of an asset between two dates, can be computed using XIRR function, by creating a purchase transaction at the start date, and an imaginary sell transaction on the end date.</strong></p>
 <p>This is why most spreadsheet or excel applications don’t include a dedicated CAGR function ****You only have to invert the sign of first row entry of value!</p>
-<p><img alt="Discounted cashflow for only two transactions - Dark Mode" src="/images/xirr-only-two-transactions.dark.png" /></p>
-<p><img alt="Discounted cashflow for only two transactions - Dark Mode" src="/images/xirr-only-two-transactions.light.png" /></p>
+<p><img alt="Discounted cashflow for only two transactions - Dark Mode" class="dark-mode-image" src="/images/xirr-only-two-transactions.dark.png" /></p>
+<p><img alt="Discounted cashflow for only two transactions - Dark Mode" class="light-mode-image" src="/images/xirr-only-two-transactions.light.png" /></p>
 <p>We can mathematically prove it as well.</p>
 <p>Recall that formula of CAGR is:</p>
 <p>$$V_{final} = V_{initial} \times (1 + CAGR)^n$$</p>
@@ -3368,8 +3368,8 @@
 <p>What if an investor has more transactions, mix of buy / sell etc.?</p>
 <p>This is usually how normal portfolios look like.</p>
 <p>Even if one were to make a bank fixed deposit, there can be year-end TDS, resulting in cash outflow from the deposit account; which would end up having multiple transactions in that portfolio.</p>
-<p><img alt="Discounting cashflows for XIRR in case of more that two transactions - Dark Mode" src="/images/xirr-multiple-transactions.dark.png" /></p>
-<p><img alt="Discounting cashflows for XIRR in case of more that two transactions - Light Mode" src="/images/xirr-multiple-transactions.light.png" /></p>
+<p><img alt="Discounting cashflows for XIRR in case of more that two transactions - Dark Mode" class="dark-mode-image" src="/images/xirr-multiple-transactions.dark.png" /></p>
+<p><img alt="Discounting cashflows for XIRR in case of more that two transactions - Light Mode" class="light-mode-image" src="/images/xirr-multiple-transactions.light.png" /></p>
 <p>Dotted line shows actual numeric value, of each transaction’s cashflow.</p>
 <p>While, solid lines indicate how these values would be after discounting using the decay formulation.</p>
 <p>You can see the decay as a result of discounting.</p>
@@ -3384,8 +3384,8 @@
 <p>{% embed url="<a href="https://www.youtube.com/watch?v=u10zyhm7FpQ&amp;feature=emb">https://www.youtube.com/watch?v=u10zyhm7FpQ&amp;feature=emb</a>_logo" caption="Decay Plot of Discounted Cashflow - Dark Mode" %}</p>
 <p>{% embed url="<a href="https://www.youtube.com/watch?v=-ujqL8h8cAI">https://www.youtube.com/watch?v=-ujqL8h8cAI</a>" caption="Decay Plot of Discounted Cashflow - Light Mode" %}</p>
 <p>Final plot should look like this:</p>
-<p><img alt="Cashflow and Discounted Cashflow vs Years - Dark Mode" src="/images/cashflow-discounted-cashflow-chart.dark.png" /></p>
-<p><img alt="Cashflow and Discounted Cashflow vs Years - Light Mode" src="/images/cashflow-discounted-cashflow-chart.light.png" /></p>
+<p><img alt="Cashflow and Discounted Cashflow vs Years - Dark Mode" class="dark-mode-image" src="/images/cashflow-discounted-cashflow-chart.dark.png" /></p>
+<p><img alt="Cashflow and Discounted Cashflow vs Years - Light Mode" class="light-mode-image" src="/images/cashflow-discounted-cashflow-chart.light.png" /></p>
 <p>While the blue lines in the above plot are of same heights for positive cashflow values and negative values; the red lines are where we see values being discounted more and more over time.</p>
 <h2 id="recap-and-wrapping-up"><strong>Recap and Wrapping Up</strong><a class="headerlink" href="#recap-and-wrapping-up" title="Permanent link">#</a></h2>
 <p>We learned various aspects of XIRR in the last chapter, using an example and output of in-built <code>xirr()</code> function.</p>

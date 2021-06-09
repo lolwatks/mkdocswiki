@@ -51,6 +51,7 @@ case "$command" in
   endhint) delendhint "$@" ;;
   replace) replacehints "$@" ;;
   img) imgcnv "$@" ;;
+  imgclass) addimgclass "$@" ;;
   *)
     printf '%s\n' 'Usage: sedops spaces|endhint|replace' >&2
     exit 1

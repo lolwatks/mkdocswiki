@@ -3072,8 +3072,8 @@
 </details>
 <h2 id="problem-statement">Problem Statement<a class="headerlink" href="#problem-statement" title="Permanent link">#</a></h2>
 <p>Plenty of economists point out how NASDAQ has stayed below its ATH (<strong>A</strong>ll <strong>T</strong>ime <strong>H</strong>igh, i.e. a price value in time-series chart that's higher than all past values) of 2000s, for the next ~15 years, before reaching the same high around 2015-16.</p>
-<p><img alt="NASDAQ Chart - Dark Mode" src="/images/nasdaq-chart.dark.png" /></p>
-<p><img alt="NASDAQ Chart - Light Mode" src="/images/nasdaq-chart.light.png" /></p>
+<p><img alt="NASDAQ Chart - Dark Mode" class="dark-mode-image" src="/images/nasdaq-chart.dark.png" /></p>
+<p><img alt="NASDAQ Chart - Light Mode" class="light-mode-image" src="/images/nasdaq-chart.light.png" /></p>
 <p>In the above chart(s) / screenshot(s), if you check the horizontal line for 5000, it touches NASDAQ twice - once in 2000, again in 2015.</p>
 <p>NASDAQ reached its peak value of approximately 5048.62 (closing price), on 10th March 2000; only to re-attain this same previous ATH again on 22nd May 2015.</p>
 <p>However, people don’t invest once then wait 15 years for returns to materialize.</p>
@@ -3138,8 +3138,8 @@
 <p>Reason to create an extra date column as the second column, is to also list actual date of investment. It can be 1st of month, or first working day after 1st of month, if 1st of month is a holiday.</p>
 </li>
 </ul>
-<p><img alt="Table Columns (dark mode)" src="/images/table-columns.dark.png" /></p>
-<p><img alt="Table Columns (light mode)" src="/images/table-columns.light.png" /></p>
+<p><img alt="Table Columns (dark mode)" class="dark-mode-image" src="/images/table-columns.dark.png" /></p>
+<p><img alt="Table Columns (light mode)" class="light-mode-image" src="/images/table-columns.light.png" /></p>
 <h3 id="date-formatting">Date Formatting<a class="headerlink" href="#date-formatting" title="Permanent link">#</a></h3>
 <p>Before we proceed any further, we’d like to figure out how date formatting works in Google Sheet, and get a taste of what fetched data from <code>GOOGLEFINANCE</code> looks like.</p>
 <p>Follow these steps:</p>
@@ -3147,8 +3147,8 @@
 <li>Try adding a date in your sheet: 1st April, 2000. In this example, we’re writing it as <code>01/04/2000</code> (in <code>DD/MM/YYYY</code> format). But you’re free to use any format that’s commonly used.</li>
 <li>Double tap or double-click on this. If the date entry is correct, Google Sheets should realize that it’s pointing to April 1st, 2000.</li>
 </ul>
-<p><img alt="Date Format in Spreadsheet (dark mode)" src="/images/excel-date.dark.png" /></p>
-<p><img alt="Date Format in Spreadsheet (light mode)" src="/images/excel-date.light.png" /></p>
+<p><img alt="Date Format in Spreadsheet (dark mode)" class="dark-mode-image" src="/images/excel-date.dark.png" /></p>
+<p><img alt="Date Format in Spreadsheet (light mode)" class="light-mode-image" src="/images/excel-date.light.png" /></p>
 <p>Chances are, it might detect it as 4th January, 2000. Or might not even detect it as a date at all!</p>
 <p>A good way to inform your sheet that this entry be treated like a date, is to use formatting, and providing the date format.</p>
 <p>Use <code>Format</code> -&gt; <code>Number</code> -&gt; <code>Date</code> for that. If <code>DD/MM/YYYY</code> is not listed as a format, you’d have to add it with custom format, under <code>Format</code> -&gt; <code>Number</code> -&gt; <code>More Formats</code> -&gt; <code>More Date and Time Formats</code>.</p>
@@ -3217,8 +3217,8 @@ price = INDEX(result, 2, 2) # extract value in (2,2)
 </code></pre></div>
 <p>Similarly, for the <code>actual date</code> column, we use (2,1) with <code>INDEX</code>:<br />
 <code>=INDEX(GOOGLEFINANCE(".IXIC", "close", &lt;date cell&gt;, 1), 2, 1)</code></p>
-<p><img alt="Using INDEX to Extract Value from a Position (Dark Mode)" src="/images/index-function.dark.png" /></p>
-<p><img alt="Using INDEX to Extract Value from a Position (Light Mode)" src="/images/index-function.light.png" /></p>
+<p><img alt="Using INDEX to Extract Value from a Position (Dark Mode)" class="dark-mode-image" src="/images/index-function.dark.png" /></p>
+<p><img alt="Using INDEX to Extract Value from a Position (Light Mode)" class="light-mode-image" src="/images/index-function.light.png" /></p>
 <p>Also refer to following video</p>
 <p>{% embed url="<a href="https://youtu.be/l0UkFxQDE-k">https://youtu.be/l0UkFxQDE-k</a>" %}</p>
 <p>{% embed url="<a href="https://youtu.be/dB0Pn9Vek60">https://youtu.be/dB0Pn9Vek60</a>" %}</p>
@@ -3574,8 +3574,8 @@ price = INDEX(result, 2, 2) # extract value in (2,2)
 </tbody>
 </table>
 <p>Refer to below image(s)</p>
-<p><img alt="Final Tally - Dark Mode" src="/images/final-tally.dark.png" /></p>
-<p><img alt="Final Tally - Light Mode" src="/images/final-tally.light.png" /></p>
+<p><img alt="Final Tally - Dark Mode" class="dark-mode-image" src="/images/final-tally.dark.png" /></p>
+<p><img alt="Final Tally - Light Mode" class="light-mode-image" src="/images/final-tally.light.png" /></p>
 <p>Overall, total invested amount would’ve been <strong>182,000 USD</strong>. And the valuation of corpus as on 22nd May 2015, would have been <strong>402,095 USD</strong>.</p>
 <p>Investor would've made ~1.2x of original invested corpus in gain <a href="https://emojipedia.org/smiling-face-with-smiling-eyes/">😊</a></p>
 <h2 id="wrapping-up">Wrapping Up<a class="headerlink" href="#wrapping-up" title="Permanent link">#</a></h2>

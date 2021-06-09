@@ -3285,8 +3285,8 @@
 <p><code>Date, Folio Number, Name of the Fund, Order, Units, NAV, Current Nav, Amount (INR)</code></p>
 </li>
 </ul>
-<p><img alt="After pasting CSV file's first line - Dark Mode" src="/images/csv-paste.dark.png" /></p>
-<p><img alt="After pasting CSV file's first line - Light Mode" src="/images/csv-paste.light.png" /></p>
+<p><img alt="After pasting CSV file's first line - Dark Mode" class="dark-mode-image" src="/images/csv-paste.dark.png" /></p>
+<p><img alt="After pasting CSV file's first line - Light Mode" class="light-mode-image" src="/images/csv-paste.light.png" /></p>
 <p>Notice how the text has spilled over the cell, as expected.</p>
 <p>But how to get column headers out of this? It’s just text, all mashed into a single cell!</p>
 <p>That's where the <code>SPLIT()</code> function comes in</p>
@@ -3312,8 +3312,8 @@
 </ul>
 <p>Refer to the video belo…<strong>wait a second!</strong></p>
 <h3 id="this-isnt-going-to-work">This isn’t going to work<a class="headerlink" href="#this-isnt-going-to-work" title="Permanent link">#</a></h3>
-<p><img alt="Cell Overflow from Pasting all CSV Data - Dark Mode" src="/images/cell-overflow.dark.png" /></p>
-<p><img alt="Cell Overflow from Pasting all CSV Data - Light Mode" src="/images/cell-overflow.light.png" /></p>
+<p><img alt="Cell Overflow from Pasting all CSV Data - Dark Mode" class="dark-mode-image" src="/images/cell-overflow.dark.png" /></p>
+<p><img alt="Cell Overflow from Pasting all CSV Data - Light Mode" class="light-mode-image" src="/images/cell-overflow.light.png" /></p>
 <p>The entire data is pasted into a single cell. Splitting it would only paste data into a single row.</p>
 <p>It won’t be a table. It’d just be a row of data!</p>
 <p><code>SPLIT()</code> can only break text into cells in <strong>same row</strong>.</p>
@@ -3385,8 +3385,8 @@
 <p>{% embed url="<a href="https://www.youtube.com/watch?v=3zUDl3cQSFU">https://www.youtube.com/watch?v=3zUDl3cQSFU</a>" caption=" Breaking CSV into Rows and Columns - Dark Mode" %}</p>
 <p>{% embed url="<a href="https://www.youtube.com/watch?v=kLfIAQ8rTSY">https://www.youtube.com/watch?v=kLfIAQ8rTSY</a>" caption=" Breaking CSV into Rows and Columns - Light Mode" %}</p>
 <p>Final result should look like as follows:</p>
-<p><img alt="CSV Imported and Processed into Rows and Columns - Dark Mode" src="/images/csv-to-table.dark.png" /></p>
-<p><img alt="CSV Imported and Processed into Rows and Columns - Light Mode" src="/images/csv-to-table.light.png" /></p>
+<p><img alt="CSV Imported and Processed into Rows and Columns - Dark Mode" class="dark-mode-image" src="/images/csv-to-table.dark.png" /></p>
+<p><img alt="CSV Imported and Processed into Rows and Columns - Light Mode" class="light-mode-image" src="/images/csv-to-table.light.png" /></p>
 <h2 id="alternate-option-automated-processing">Alternate Option : Automated Processing<a class="headerlink" href="#alternate-option-automated-processing" title="Permanent link">#</a></h2>
 <p>It might not always be feasible to do this manually.</p>
 <p>In a real transaction history CSV export, there might be hundreds, if not thousands of transactions, over the years.</p>
@@ -3420,12 +3420,12 @@
 </ul>
 <p>Spreadsheet would ask you for inputs on how to parse the CSV data in the file.</p>
 <p>In most common cases, it’d be able to parse that correctly into a table.</p>
-<p><img alt="Importing CSV File into Spreadsheet - Dark Mode" src="/images/csv-file-import.dark.png" /></p>
-<p><img alt="Importing CSV File into Spreadsheet - Light Mode" src="/images/csv-file-import.light.png" /></p>
+<p><img alt="Importing CSV File into Spreadsheet - Dark Mode" class="dark-mode-image" src="/images/csv-file-import.dark.png" /></p>
+<p><img alt="Importing CSV File into Spreadsheet - Light Mode" class="light-mode-image" src="/images/csv-file-import.light.png" /></p>
 <details class="info" open="open"><summary>Info</summary><p>In this case, we should provide separator type as comma</p>
 </details>
-<p><img alt="After Successful Import - Dark Mode" src="/images/csv-file-import-result.dark.png" /></p>
-<p><img alt="After Successful Import - Light Mode" src="/images/csv-file-import-result.light.png" /></p>
+<p><img alt="After Successful Import - Dark Mode" class="dark-mode-image" src="/images/csv-file-import-result.dark.png" /></p>
+<p><img alt="After Successful Import - Light Mode" class="light-mode-image" src="/images/csv-file-import-result.light.png" /></p>
 <p>How’s this even possible?!</p>
 <p>We spent so much time struggling with <code>SPLIT()</code>, <code>TRANSPOSE()</code>; then alluded to some scary regular expression stuff.</p>
 <p>And in-built spreadsheet import figured out how to create the table, how to split in rows and columns in matter of seconds!</p>
