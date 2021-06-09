@@ -31,6 +31,12 @@ replacehints() {
   sed -i 's/{% hint style="danger".*/???+ danger/' "$@"
 }
 
+# fix images by replacing '../.gitbook/assets' with '/images'
+# there can be '../../.gitbook/assets' as well so this will replace all such instances
+imgcnv() {
+  sed -i 's/](\(..\/\)\1*.gitbook\/assets/](\/images/g' "$@"
+}
+
 command="$1"
 shift
 
@@ -38,6 +44,7 @@ case "$command" in
   spaces) hintspaces "$@" ;;
   endhint) delendhint "$@" ;;
   replace) replacehints "$@" ;;
+  img) imgcnv "$@" ;;
   *)
     printf '%s\n' 'Usage: sedops spaces|endhint|replace' >&2
     exit 1
