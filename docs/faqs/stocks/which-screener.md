@@ -146,6 +146,6 @@ To understand how to use a screener, you might want to check this out
 
 #### Abbott India ROIC
 
--   [Screener.in](https://github.com/indiainvestments/content/tree/580d58f1c585b33003c38a56fc5f88ebde23fd10/.gitbook/assets/screener-roic-light.png)
--   [MorningStar.in](https://github.com/indiainvestments/content/tree/580d58f1c585b33003c38a56fc5f88ebde23fd10/.gitbook/assets/morningstar-roic-light.png)
--   [TijoriFinance.com](https://github.com/indiainvestments/content/tree/580d58f1c585b33003c38a56fc5f88ebde23fd10/.gitbook/assets/tijori-roic-light.png)
+-   [Screener.in](https://github.com/indiainvestments/content/tree/580d58f1c585b33003c38a56fc5f88ebde23fd10/.gitbook/assets/screener-roic-light.png){.light-mode-image}
+-   [MorningStar.in](https://github.com/indiainvestments/content/tree/580d58f1c585b33003c38a56fc5f88ebde23fd10/.gitbook/assets/morningstar-roic-light.png){.light-mode-image}
+-   [TijoriFinance.com](https://github.com/indiainvestments/content/tree/580d58f1c585b33003c38a56fc5f88ebde23fd10/.gitbook/assets/tijori-roic-light.png){.light-mode-image}

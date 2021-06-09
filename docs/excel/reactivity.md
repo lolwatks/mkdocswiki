@@ -33,9 +33,9 @@ We can use Excel for this.
 
 -   Enter these numbers, as you see in the images below.
 
-![Numbers in Excel : Dark Theme](/images/numbers-in-excel.dark.png)
+![Numbers in Excel : Dark Theme](/images/numbers-in-excel.dark.png){.dark-mode-image}
 
-![Numbers in Excel : Light Theme](/images/numbers-in-excel.light.png)
+![Numbers in Excel : Light Theme](/images/numbers-in-excel.light.png){.light-mode-image}
 
 ???+ info
     No need to manually enter these data points one after another. You could simply select the above table with your trackpad / mouse; copy it with `Ctrl + C` / `Cmd + C`, and paste it in your sheet.
@@ -120,7 +120,7 @@ Follow these steps to validate each price computation row:
 
 -   Go to the bottom right end of this newly created cell, there’s a small square.
 
-    ![](/images/excel-drag.dark.png)![](/images/excel-drag.light.png)
+    ![](/images/excel-drag.dark.png){.dark-mode-image}![](/images/excel-drag.light.png){.light-mode-image}
 
     Click on that, and while it remains clicked / pressed, drag it down to cover the other rows. You’d notice how the formula gets copied on the cells in other rows, but somehow magically Excel keeps selecting right cells from that row (and not from the first row).
 
@@ -178,9 +178,9 @@ Here’s a video to help guide you along (available in both dark & light themes)
 
 If you’ve done everything as instructed, up to this point, it should look as shown below
 
-![Excel SUM Function Result : Dark Theme](/images/excel-sum-function.dark.png)
+![Excel SUM Function Result : Dark Theme](/images/excel-sum-function.dark.png){.dark-mode-image}
 
-![Excel SUM function result: Light theme](/images/excel-sum-function.light.png)
+![Excel SUM function result: Light theme](/images/excel-sum-function.light.png){.light-mode-image}
 
 ## Reactive UI
 

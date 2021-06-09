@@ -130,9 +130,9 @@ Final results, should look like this
 | ICICI Prudential Bluechip Fund - Growth              | INF109K01BL4 |
 | DSP Tax Saver Fund - Regular Plan - Growth           | INF740K01185 |
 
-![After ISIN has been added - Dark Mode](/images/after-isin-added.dark.png)
+![After ISIN has been added - Dark Mode](/images/after-isin-added.dark.png){.dark-mode-image}
 
-![After ISIN has been added - Light Mode](/images/after-isin-added.light.png)
+![After ISIN has been added - Light Mode](/images/after-isin-added.light.png){.light-mode-image}
 
 ### Fetch and Process Latest NAV from AMFI
 
@@ -231,9 +231,9 @@ Refer to this video to follow along steps:
 
 Final outcome in the newly added column, should be similar to these screenshots:
 
-![Latest Valuation of Available Units - Dark Mode](/images/latest-valuation-available-units.dark.png)
+![Latest Valuation of Available Units - Dark Mode](/images/latest-valuation-available-units.dark.png){.dark-mode-image}
 
-![Latest Valuation of Available Units - Light Mode](/images/latest-valuation-available-units.light.png)
+![Latest Valuation of Available Units - Light Mode](/images/latest-valuation-available-units.light.png){.light-mode-image}
 
 ???+ warning
     Depending on when you're looking at these, the exact value might differ. Because it depends on latest NAV as on that date. This computation was done with NAV of 22nd March, 2021

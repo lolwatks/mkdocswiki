@@ -97,9 +97,9 @@ For e.g. if the investor wants to update the nominee for demat account with HDFC
 
 “HDFC Securities” AND “Nomination”
 
-![HDFC Securities Demat Nomination Form - Dark Mode](/images/hdfc-securities-demat-nomination.dark.png)
+![HDFC Securities Demat Nomination Form - Dark Mode](/images/hdfc-securities-demat-nomination.dark.png){.dark-mode-image}
 
-![HDFC Securities Demat Nomination Form - Light Mode](/images/hdfc-securities-demat-nomination.light.png)
+![HDFC Securities Demat Nomination Form - Light Mode](/images/hdfc-securities-demat-nomination.light.png){.light-mode-image}
 
 Visit the link that is from the website of the broker and the form will be available on the page.
 

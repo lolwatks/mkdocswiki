@@ -53,16 +53,16 @@ The advance tax must be computed and paid based on the tax slab, to which the ta
 -   Visit the tax information network portal of the income tax department. Link: <https://www.incometaxindia.gov.in/Pages/tax-services/pay-tax-online.aspx>
 -   Click on Challan No./ITNS 280 section See image(s) below for guidance, and click to zoom in
 
-![Challan number to be selected on the income tax portal - Dark mode](/images/challan-selection.dark.png)
+![Challan number to be selected on the income tax portal - Dark mode](/images/challan-selection.dark.png){.dark-mode-image}
 
-![Challan number to be selected on the income tax portal - Light mode](/images/challan-selection.light.png)
+![Challan number to be selected on the income tax portal - Light mode](/images/challan-selection.light.png){.light-mode-image}
 
 -   Select (0021) Income Tax (Other than companies) under *Tax Applicable*.
 -   Select (100) Advance Tax under *Type of Payment*
 
-![Type of Payment - Dark mode](/images/type-of-payment.dark.png)
+![Type of Payment - Dark mode](/images/type-of-payment.dark.png){.dark-mode-image}
 
-![Type of Payment - Light mode](/images/type-of-payment.light.png)
+![Type of Payment - Light mode](/images/type-of-payment.light.png){.light-mode-image}
 
 -   Select the mode of payment, enter your PAN, assessment year and other details. Assessment Year (AY), is usually one year ahead of Financial Year (FY). For example, if it's advance tax for FY20-21, then that should be selected as AY21-22.
 -   Make the payment with Netbanking or Debit card or UPI (as applicable), and keep a copy of the tax receipt /challan, which has details such as
@@ -72,9 +72,9 @@ The advance tax must be computed and paid based on the tax slab, to which the ta
 
 See below for a sample counterfoil after advance tax has been paid.
 
-![Tax Payer Counterfoil - Dark mode](/images/advance-tax-paid-counterfoil.dark.png)
+![Tax Payer Counterfoil - Dark mode](/images/advance-tax-paid-counterfoil.dark.png){.dark-mode-image}
 
-![Tax Payer Counterfoil - Light mode](/images/advance-tax-paid-counterfoil.light.png)
+![Tax Payer Counterfoil - Light mode](/images/advance-tax-paid-counterfoil.light.png){.light-mode-image}
 
 This will be useful at the time of filing of tax returns where details of advance tax paid should be entered.
 

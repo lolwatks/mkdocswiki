@@ -27,9 +27,9 @@ If an investor is looking to exit some positions by selling some of their holdin
 
 Consider a sample transaction history, plotted against time, for an investor who’s been investing for a few years (figures not to scale)
 
-![Transaction History Sample - Dark Mode](/images/transaction-history.dark.png)
+![Transaction History Sample - Dark Mode](/images/transaction-history.dark.png){.dark-mode-image}
 
-![Transaction History Sample - Light Mode](/images/transaction-history.light.png)
+![Transaction History Sample - Light Mode](/images/transaction-history.light.png){.light-mode-image}
 
 The Y-axis represents units purchased in every transaction. It’s positive for purchase transactions, and negative offshoots are for sell / redemption transactions.
 
@@ -41,9 +41,9 @@ Then any units purchased in last 1 year before that, from 4th July 2020 to 3rd J
 
 And all units purchased on or before 3rd July 2020, are older than 1 year.
 
-![Transaction History with Clear Segregation - Dark Mode](/images/transaction-history2.dark.png)
+![Transaction History with Clear Segregation - Dark Mode](/images/transaction-history2.dark.png){.dark-mode-image}
 
-![Transaction History with Clear Segregation - Light Mode](/images/transaction-history2.light.png)
+![Transaction History with Clear Segregation - Light Mode](/images/transaction-history2.light.png){.light-mode-image}
 
 Our task is to use excel / spreadsheet find these two:
 
@@ -475,15 +475,15 @@ Follow these steps:
     -   Detect Automatically
     -   No
 
-![Import Data Settings - Dark Mode](/images/import-data.dark.png)
+![Import Data Settings - Dark Mode](/images/import-data.dark.png){.dark-mode-image}
 
-![Import Data Settings - Light Mode](/images/import-data.light.png)
+![Import Data Settings - Light Mode](/images/import-data.light.png){.light-mode-image}
 
 After importing this CSV file into your Spreadsheet, it should look like this
 
-![After Importing Transaction History CSV - Dark Mode](/images/after-import.dark.png)
+![After Importing Transaction History CSV - Dark Mode](/images/after-import.dark.png){.dark-mode-image}
 
-![After Importing Transaction History CSV - Light Mode](/images/after-import.light.png)
+![After Importing Transaction History CSV - Light Mode](/images/after-import.light.png){.light-mode-image}
 
 ### **Extracting Unique Funds**
 
@@ -501,9 +501,9 @@ Follow these steps to extract a list of unique funds
 
 It should look like this
 
-![Table Headers - Dark Mode](/images/table-header.dark.png)
+![Table Headers - Dark Mode](/images/table-header.dark.png){.dark-mode-image}
 
-![Table Headers - Light Mode](/images/table-header.light.png)
+![Table Headers - Light Mode](/images/table-header.light.png){.light-mode-image}
 
 Next step is to use `UNIQUE()` function, with the range of all funds.
 
@@ -521,9 +521,9 @@ Refer to this video for more guidance:
 
 Final outcome of this process should look like as follows
 
-![Unique Fund Names - Dark Mode](/images/unique-fund-names.dark.png)
+![Unique Fund Names - Dark Mode](/images/unique-fund-names.dark.png){.dark-mode-image}
 
-![Unique Fund Names - Light Mode](/images/unique-fund-names.light.png)
+![Unique Fund Names - Light Mode](/images/unique-fund-names.light.png){.light-mode-image}
 
 ### Locking Cell IDs for Dragging Autofills
 
@@ -607,9 +607,9 @@ Refer to the following video(s)
 
 Final result should match this
 
-![Total Units Sold - Dark Mode](/images/units-sold-final-result.dark.png)
+![Total Units Sold - Dark Mode](/images/units-sold-final-result.dark.png){.dark-mode-image}
 
-![Total Units Sold - Light Mode](/images/units-sold-final-result.light.png)
+![Total Units Sold - Light Mode](/images/units-sold-final-result.light.png){.light-mode-image}
 
 ### **Normalizing imported dates**
 
@@ -687,7 +687,7 @@ Refer to the following video:
 
 Final result should match these
 
-![Units Purchased more than 1Y Ago - Dark Mode](/images/units-purchased-one-year-ago.dark.png)
+![Units Purchased more than 1Y Ago - Dark Mode](/images/units-purchased-one-year-ago.dark.png){.dark-mode-image}
 
 ![Units Purchased more than 1Y Ago - Light Mode](/images/units-purchased-one-year-ago.light%20%281%29%20%281%29%20%281%29%20%281%29.png)
 
@@ -709,7 +709,7 @@ It also shows why keeping *units sold* in negative was a good idea.
 
 A sample final result can look like this
 
-![Units outside of STCG Taxation - Dark Mode](/images/units-outside-stcg.dark.png)
+![Units outside of STCG Taxation - Dark Mode](/images/units-outside-stcg.dark.png){.dark-mode-image}
 
 ![Units outside of STCG Taxation - Light Mode](/images/units-purchased-one-year-ago.light%20%281%29%20%281%29%20%281%29.png)
 
