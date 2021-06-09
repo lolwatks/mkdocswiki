@@ -37,6 +37,12 @@ imgcnv() {
   sed -i 's/](\(..\/\)\1*.gitbook\/assets/](\/images/g' "$@"
 }
 
+# add the relevant dark or light mode class to the image
+addimgclass() {
+  sed -i 's/\(dark.png)\)/\1{.dark-mode-image}/g' "$@"
+  sed -i 's/\(light.png)\)/\1{.light-mode-image}/g' "$@"
+}
+
 command="$1"
 shift
 
