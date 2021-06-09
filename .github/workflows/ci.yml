@@ -68,6 +68,7 @@ jobs:
           find mkdocswiki/docs -name "*.md" -type f -exec mkdocswiki/docs/files/sedops spaces {} \;
           find mkdocswiki/docs -name "*.md" -type f -exec mkdocswiki/docs/files/sedops endhint {} \;
           find mkdocswiki/docs -name "*.md" -type f -exec mkdocswiki/docs/files/sedops replace {} \;
+          find mkdocswiki/docs -name "*.md" -type f -exec mkdocswiki/docs/files/sedops img {} \;
       - name: add the changes to git, commit them, and push
         run: |
           git --work-tree=mkdocswiki/ --git-dir=mkdocswiki/.git/ config user.name github-actions
