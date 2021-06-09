@@ -80,9 +80,9 @@ Follow these steps:
 
     `Date, Folio Number, Name of the Fund, Order, Units, NAV, Current Nav, Amount (INR)`
 
-![After pasting CSV file's first line - Dark Mode](../../.gitbook/assets/csv-paste.dark.png)
+![After pasting CSV file's first line - Dark Mode](/images/csv-paste.dark.png)
 
-![After pasting CSV file's first line - Light Mode](../../.gitbook/assets/csv-paste.light.png)
+![After pasting CSV file's first line - Light Mode](/images/csv-paste.light.png)
 
 Notice how the text has spilled over the cell, as expected.
 
@@ -126,9 +126,9 @@ Refer to the video belo…**wait a second!**
 
 ### This isn’t going to work
 
-![Cell Overflow from Pasting all CSV Data - Dark Mode](../../.gitbook/assets/cell-overflow.dark.png)
+![Cell Overflow from Pasting all CSV Data - Dark Mode](/images/cell-overflow.dark.png)
 
-![Cell Overflow from Pasting all CSV Data - Light Mode](../../.gitbook/assets/cell-overflow.light.png)
+![Cell Overflow from Pasting all CSV Data - Light Mode](/images/cell-overflow.light.png)
 
 The entire data is pasted into a single cell. Splitting it would only paste data into a single row.
 
@@ -212,9 +212,9 @@ Refer to the video(s) below
 
 Final result should look like as follows:
 
-![CSV Imported and Processed into Rows and Columns - Dark Mode](../../.gitbook/assets/csv-to-table.dark.png)
+![CSV Imported and Processed into Rows and Columns - Dark Mode](/images/csv-to-table.dark.png)
 
-![CSV Imported and Processed into Rows and Columns - Light Mode](../../.gitbook/assets/csv-to-table.light.png)
+![CSV Imported and Processed into Rows and Columns - Light Mode](/images/csv-to-table.light.png)
 
 ## Alternate Option : Automated Processing
 
@@ -261,16 +261,16 @@ Spreadsheet would ask you for inputs on how to parse the CSV data in the file.
 
 In most common cases, it’d be able to parse that correctly into a table.
 
-![Importing CSV File into Spreadsheet - Dark Mode](../../.gitbook/assets/csv-file-import.dark.png)
+![Importing CSV File into Spreadsheet - Dark Mode](/images/csv-file-import.dark.png)
 
-![Importing CSV File into Spreadsheet - Light Mode](../../.gitbook/assets/csv-file-import.light.png)
+![Importing CSV File into Spreadsheet - Light Mode](/images/csv-file-import.light.png)
 
 ???+ info
     In this case, we should provide separator type as comma
 
-![After Successful Import - Dark Mode](../../.gitbook/assets/csv-file-import-result.dark.png)
+![After Successful Import - Dark Mode](/images/csv-file-import-result.dark.png)
 
-![After Successful Import - Light Mode](../../.gitbook/assets/csv-file-import-result.light.png)
+![After Successful Import - Light Mode](/images/csv-file-import-result.light.png)
 
 How’s this even possible?!
 

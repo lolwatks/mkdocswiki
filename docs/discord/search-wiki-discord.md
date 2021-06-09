@@ -17,9 +17,9 @@ You can search this wiki from our Discord itself, using India Investments bot's 
 -   Wait for result(s) to arrive.
 -   Depending on your query, the bot might return one or more than one result. If that doesn't match your expectation, bot would also give you a link, that would directly take you to our wiki.
 
-![Discord Slash Command for Querying Wiki - Desktop](../.gitbook/assets/discord-slash-command-wiki-search-desktop.png)
+![Discord Slash Command for Querying Wiki - Desktop](/images/discord-slash-command-wiki-search-desktop.png)
 
-![Discord Slash Command for Querying Wiki - Mobile](../.gitbook/assets/discord-slash-command-wiki-search-mobile%20%281%29.jpeg)
+![Discord Slash Command for Querying Wiki - Mobile](/images/discord-slash-command-wiki-search-mobile%20%281%29.jpeg)
 
 ## How it'd look
 
@@ -27,9 +27,9 @@ Depending on your query, bot might return more than one or only a single result.
 
 Here's how it'd probably look (exact content would vary, depending on your query).
 
-![Discord Slash Command Search Result for Querying Wiki - Desktop](../.gitbook/assets/discord-slash-command-result-desktop%20%281%29%20%281%29.png)
+![Discord Slash Command Search Result for Querying Wiki - Desktop](/images/discord-slash-command-result-desktop%20%281%29%20%281%29.png)
 
-![Discord Slash Command Search Result for Querying Wiki - Mobile](../.gitbook/assets/discord-slash-command-result-mobile%20%281%29%20%281%29.jpeg)
+![Discord Slash Command Search Result for Querying Wiki - Mobile](/images/discord-slash-command-result-mobile%20%281%29%20%281%29.jpeg)
 
 ## Wrapping Up
 
