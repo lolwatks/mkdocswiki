@@ -54,6 +54,7 @@ jobs:
           rsync -Pra --delete gitbookwiki/.gitbook/assets/*.png mkdocswiki/docs/images
           rsync -Pra --delete gitbookwiki/.gitbook/assets/*.jpeg mkdocswiki/docs/images
           rsync -Pra --delete gitbookwiki/.gitbook/assets/*.csv mkdocswiki/docs/files
+          rm -rf gitbookwiki/
       - name: deploy pandoc to convert gitbook markdown to mkdocs markdown
         uses: docker://pandoc/core:2.14.0.1
         with:
@@ -73,8 +74,8 @@ jobs:
           find mkdocswiki/docs -name "*.md" -type f -exec mkdocswiki/docs/files/sedops pref {} \;
       - name: add the changes to git, commit them, and push
         run: |
-          git --work-tree=mkdocswiki/ --git-dir=mkdocswiki/.git/ config user.name github-actions
-          git --work-tree=mkdocswiki/ --git-dir=mkdocswiki/.git/ config user.email github-actions@github.com
+          git --work-tree=mkdocswiki/ --git-dir=mkdocswiki/.git/ config user.name github-actions[bot]
+          git --work-tree=mkdocswiki/ --git-dir=mkdocswiki/.git/ config user.email github-actions[bot]@users.noreply.github.com
           git --work-tree=mkdocswiki/ --git-dir=mkdocswiki/.git/ add -A || true
           git --work-tree=mkdocswiki/ --git-dir=mkdocswiki/.git/ commit -m "markdown sanitized" || true
           git --work-tree=mkdocswiki/ --git-dir=mkdocswiki/.git/ push origin master || true
