@@ -109,7 +109,7 @@ Though the websites and portals do their best, there are lots of nuances in the 
 
 To understand how to use a screener, you might want to check this out
 
-[](../../stocks/using-screeners.md){ .md-button }
+[Using Screeners](../../stocks/using-screeners.md){ .md-button }
 
 ???+ info
     We've reached out to some of the teams behind these screeners and have pointed out these issues. They've assured us that they're looking into this.

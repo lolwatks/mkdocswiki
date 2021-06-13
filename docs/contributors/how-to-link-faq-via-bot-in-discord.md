@@ -76,6 +76,6 @@ We expect you to familiarize yourself with all the FAQs, before starting with th
 
 You can go through our FAQs using below link
 
-[](../faqs/index.md){ .md-button }
+[FAQs](../faqs/index.md){ .md-button }
 
 If you're using the bot to invoke the FAQ, it's expected that you've yourself at the very least gone through that FAQ first.

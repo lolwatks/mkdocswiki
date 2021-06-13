@@ -12,14 +12,14 @@ Considering that there are approximately four thousands listed companies in the 
 
 We'll attempt to answer these questions in this series.
 
-[](can-you-beat-the-market.md){ .md-button }
+[Can You Beat the Market?](can-you-beat-the-market.md){ .md-button }
 
-[](reading-an-annual-report.md){ .md-button }
+[Reading an Annual Report](reading-an-annual-report.md){ .md-button }
 
-[](researching-a-sector.md){ .md-button }
+[Researching a Sector](researching-a-sector.md){ .md-button }
 
-[](financial-metrics-and-ratios/README.md){ .md-button }
+[Financial Metrics and Ratios](financial-metrics-and-ratios/README.md){ .md-button }
 
-[](using-screeners.md){ .md-button }
+[Using Screeners](using-screeners.md){ .md-button }
 
-[](due-diligence-checklist.md){ .md-button }
+[Due-Diligence Checklist](due-diligence-checklist.md){ .md-button }

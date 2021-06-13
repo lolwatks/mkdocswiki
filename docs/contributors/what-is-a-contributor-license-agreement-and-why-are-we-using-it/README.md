@@ -32,4 +32,4 @@ This is a human friendly summary of (and not a substitute for) the full CLA link
 
 Here's the actual legal CLA.
 
-[](contributor-license-agreement.md){ .md-button }
+[Contributor License Agreement](contributor-license-agreement.md){ .md-button }

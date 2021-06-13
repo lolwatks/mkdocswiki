@@ -7,8 +7,8 @@ description: These are chapters in progress that may or may not be reviewed yet.
 ???+ danger
     Content in these pages are being worked upon, and not yet ready for publishing. If you are reading these, expect grammatical and spelling errors, incomplete thoughts, and messed-up text in general.
 
-[](understanding-the-business-of-a-company.md){ .md-button }
+[Diving Deeper into Businesses](understanding-the-business-of-a-company.md){ .md-button }
 
-[](efficiency.md){ .md-button }
+[Efficiency](efficiency.md){ .md-button }
 
-[](liquidity-and-solvency.md){ .md-button }
+[Liquidity and Solvency](liquidity-and-solvency.md){ .md-button }

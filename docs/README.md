@@ -14,15 +14,15 @@ If you want to discuss anything on this website with other people, please check 
 
 If you're just starting out, have never had to think about finances, investments etc., you can start from the link below.
 
-[](start-here/zero-to-investing/getting-started.md){ .md-button }
+[Getting Started](start-here/zero-to-investing/getting-started.md){ .md-button }
 
 ## FAQs and How To
 
 You might be here because you've a specific query that just can't wait. Do browse through our common queries sections below, to see if your query already has been answered by us.
 
-[](faqs/index.md){ .md-button }
+[FAQs](faqs/index.md){ .md-button }
 
-[](how-to/index.md){ .md-button }
+[How To](how-to/index.md){ .md-button }
 
 ## Series
 
@@ -31,15 +31,15 @@ You might be here because you've a specific query that just can't wait. Do brows
 
 Here are some of the topics we presently cover in our wiki, in the form of their own dedicated series:
 
-[](stocks/index.md){ .md-button }
+[Introduction to the Stocks Series](stocks/index.md){ .md-button }
 
-[](excel/index.md){ .md-button }
+[Excel for Fun and Profit](excel/index.md){ .md-button }
 
-[](bonds/index.md){ .md-button }
+[Bond Basics](bonds/index.md){ .md-button }
 
 We also have some miscellaneous entries which might be helpful.
 
-[](faqs/misc/README.md){ .md-button }
+[Miscellaneous](faqs/misc/README.md){ .md-button }
 
 ## License
 
@@ -71,7 +71,7 @@ Contributors to this project cannot be held liable if you follow instructions pr
 
 For detailed list of comprehensive set of disclaimers & disclosures, refer to this page below
 
-[](disclaimers-and-disclosures.md){ .md-button }
+[Disclaimers and Disclosures](disclaimers-and-disclosures.md){ .md-button }
 
 We encourage you to take the time, and read through the content in above link at least once.
 

@@ -12,8 +12,8 @@ To begin with, returns are not just some numbers on a screen and the goal is **n
 
 This chapter's child pages are meant to enhance our knowledge, so we can have higher-level discussions about returns. At the same time, we aim to empower ourselves so we can compute these values independently on our own using spreadsheets rather than relying on external online tools. This would help us make better financial decisions.
 
-[](cagr.md){ .md-button }
+[CAGR: Point-to-Point Annualized Returns](cagr.md){ .md-button }
 
-[](xirr.md){ .md-button }
+[A Gentle Introduction to XIRR](xirr.md){ .md-button }
 
-[](xirr-math.md){ .md-button }
+[A Rigorous Introduction to XIRR](xirr-math.md){ .md-button }
