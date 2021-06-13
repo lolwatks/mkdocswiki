@@ -44,7 +44,7 @@ jobs:
           cp -f gitbookwiki/disclaimers-and-disclosures.md mkdocswiki/docs/disclaimers-and-disclosures.md
           rsync -Pra --delete gitbookwiki/bonds/ mkdocswiki/docs/bonds
           rsync -Pra --delete gitbookwiki/contributors/ mkdocswiki/docs/contributors
-          rsync -Pra --delete gitbookwiki/discord/ mkdocswiki/docs/discord
+          rsync -Pra --delete gitbookwiki/discord-and-reddit/ mkdocswiki/docs/discord-and-reddit
           rsync -Pra --delete gitbookwiki/excel/ mkdocswiki/docs/excel
           rsync -Pra --delete gitbookwiki/faqs/ mkdocswiki/docs/faqs
           rsync -Pra --delete gitbookwiki/how-to/ mkdocswiki/docs/how-to
