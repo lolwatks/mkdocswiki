@@ -10,7 +10,7 @@ This isn’t a strict requirement but a general recommendation or advice about h
 
 This is in addition to our general style guide
 
-{% page-ref page="general-style-guide.md" %}
+[](general-style-guide.md){ .md-button }
 
 ### Use Beginner Friendly Writing Style
 

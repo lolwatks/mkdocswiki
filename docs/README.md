@@ -4,7 +4,7 @@ description: IndiaInvestments is a community to discuss investments, insurance, 
 
 # Introduction
 
-IndiaInvestments is a community to discuss investments, insurance, finance, economy, and markets in India. This website is a collection of advice and information we have organized as a community.
+India Investments is a community to discuss investments, insurance, finance, economy, and markets in India. This website is a collection of advice and information we have organized as a community.
 
 If you want to discuss anything on this website with other people, please check out our sub-reddit and discord below.
 
@@ -14,15 +14,15 @@ If you want to discuss anything on this website with other people, please check 
 
 If you're just starting out, have never had to think about finances, investments etc., you can start from the link below.
 
-{% page-ref page="start-here/zero-to-investing/getting-started.md" %}
+[](start-here/zero-to-investing/getting-started.md){ .md-button }
 
 ## FAQs and How To
 
 You might be here because you've a specific query that just can't wait. Do browse through our common queries sections below, to see if your query already has been answered by us.
 
-{% page-ref page="faqs/s.md" %}
+[](faqs/index.md){ .md-button }
 
-{% page-ref page="how-to/s.md" %}
+[](how-to/index.md){ .md-button }
 
 ## Series
 
@@ -31,11 +31,15 @@ You might be here because you've a specific query that just can't wait. Do brows
 
 Here are some of the topics we presently cover in our wiki, in the form of their own dedicated series:
 
-{% page-ref page="stocks/s.md" %}
+[](stocks/index.md){ .md-button }
 
-{% page-ref page="excel/s.md" %}
+[](excel/index.md){ .md-button }
 
-{% page-ref page="bonds/s.md" %}
+[](bonds/index.md){ .md-button }
+
+We also have some miscellaneous entries which might be helpful.
+
+[](faqs/misc/README.md){ .md-button }
 
 ## License
 
@@ -67,7 +71,7 @@ Contributors to this project cannot be held liable if you follow instructions pr
 
 For detailed list of comprehensive set of disclaimers & disclosures, refer to this page below
 
-{% page-ref page="disclaimers-and-disclosures.md" %}
+[](disclaimers-and-disclosures.md){ .md-button }
 
 We encourage you to take the time, and read through the content in above link at least once.
 
@@ -88,4 +92,4 @@ Our heartiest gratitude, to these wonderful people ([emoji key](https://allcontr
 | [![](https://avatars.githubusercontent.com/u/78716242?v=4?s=100) **try2tame**](https://github.com/try2tame) [📖](https://github.com/indiainvestments/content/commits?author=try2tame) [👀](https://github.com/indiainvestments/content/pulls?q=is%3Apr+reviewed-by%3Atry2tame) [✅](./#tutorial-try2tame) [💬](./#question-try2tame)                                                                                                                                   | [![](https://avatars.githubusercontent.com/u/78742827?v=4?s=100) **LingeringDeep**](https://github.com/LingeringDeep) [✅](./#tutorial-LingeringDeep) [💬](./#question-LingeringDeep)                                                                                                                                                                                                                                                              | [![](https://avatars.githubusercontent.com/u/67626554?v=4?s=100) **I-am-Optimistic**](https://github.com/I-am-Optimistic) [📖](https://github.com/indiainvestments/content/commits?author=I-am-Optimistic) [✅](./#tutorial-I-am-Optimistic)                                                                                                                  | [![](https://avatars.githubusercontent.com/u/78700380?v=4?s=100) **tulip2mf**](https://github.com/Tulip2MF) [📖](https://github.com/indiainvestments/content/commits?author=tulip2mf) [✅](./#tutorial-tulip2mf)                                                                                                                                                                                                      | [![](https://avatars.githubusercontent.com/u/78730706?v=4?s=100) **villageindian**](https://github.com/villageindian) [📖](https://github.com/indiainvestments/content/commits?author=villageindian) [✅](./#tutorial-villageindian) [👀](https://github.com/indiainvestments/content/pulls?q=is%3Apr+reviewed-by%3Avillageindian) [💬](./#question-villageindian)                                                | [![](https://avatars.githubusercontent.com/u/49168010?v=4?s=100) **shryzel**](https://github.com/shryzel) [📖](https://github.com/indiainvestments/content/commits?author=shryzel) [✅](./#tutorial-shryzel) [👀](https://github.com/indiainvestments/content/pulls?q=is%3Apr+reviewed-by%3Ashryzel)                                                                                                                                                                |                                                                                                                                                                                                                                                                                                                                                                                                    |
 | [![](https://avatars.githubusercontent.com/u/18528826?v=4?s=100) **Rajat**](https://github.com/rajatdhoot123) [💻](https://github.com/indiainvestments/content/commits?author=rajatdhoot123) [👀](https://github.com/indiainvestments/content/pulls?q=is%3Apr+reviewed-by%3Arajatdhoot123) [💬](./#question-rajatdhoot123)                                                                                                                                            | [![](https://avatars.githubusercontent.com/u/12628996?v=4?s=100) **Shaswat Saxena**](https://infilimits.com) [💻](https://github.com/indiainvestments/content/commits?author=shaswatsaxena) [👀](https://github.com/indiainvestments/content/pulls?q=is%3Apr+reviewed-by%3Ashaswatsaxena) [💬](./#question-shaswatsaxena)                                                                                                                           | [![](https://avatars.githubusercontent.com/u/78673642?v=4?s=100) **jimWithoutJam**](https://github.com/JimWithoutJam) [🚇](./#infra-jimWithoutJam) [💻](https://github.com/indiainvestments/content/commits?author=jimWithoutJam) [👀](https://github.com/indiainvestments/content/pulls?q=is%3Apr+reviewed-by%3AjimWithoutJam) [💬](./#question-jimWithoutJam) | [![](https://avatars.githubusercontent.com/u/48187416?v=4?s=100) **VineetRDiscord**](https://github.com/VineetRDiscord) [🚇](./#infra-VineetRDiscord) [💼](./#business-VineetRDiscord) [👀](https://github.com/indiainvestments/content/pulls?q=is%3Apr+reviewed-by%3AVineetRDiscord) [💬](./#question-VineetRDiscord)                                                                                                  | [![](https://avatars.githubusercontent.com/u/37909009?v=4?s=100) **M-e-r-c-u-r-y**](https://github.com/M-e-r-c-u-r-y) 👀 💬 ✅ 📖                                                                                                                                                                                                                                                                                 | [![](https://avatars.githubusercontent.com/u/14368729?v=4?s=100) **Jatin Yadav**](https://github.com/jtnydv) 🚇 💻 💬 ✅                                                                                                                                                                                                                                                                                                                                             |                                                                                                                                                                                                                                                                                                                                                                                                    |
 
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome! [Start here](contributors/how-can-i-start-contributing.md)
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome! [Start here](contributors/index.md)

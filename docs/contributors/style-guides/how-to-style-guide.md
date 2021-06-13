@@ -20,7 +20,7 @@ This document is for you, if you’re planning to warm-up with some contribution
 
 Start with our general content guidelines, which also apply to *How to* section
 
-{% page-ref page="general-style-guide.md" %}
+[](general-style-guide.md){ .md-button }
 
 Other than these, refer to following guidelines
 

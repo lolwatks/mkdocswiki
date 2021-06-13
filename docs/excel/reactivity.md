@@ -120,13 +120,15 @@ Follow these steps to validate each price computation row:
 
 -   Go to the bottom right end of this newly created cell, there’s a small square.
 
-    ![](/images/excel-drag.dark.png)![](/images/excel-drag.light.png){.dark-mode-image}
+![Notice the small blue square bottom-right of highlighted cell - Dark Mode](/images/excel-drag.dark.png){.dark-mode-image}
 
-    Click on that, and while it remains clicked / pressed, drag it down to cover the other rows. You’d notice how the formula gets copied on the cells in other rows, but somehow magically Excel keeps selecting right cells from that row (and not from the first row).
+![Notice the small blue square bottom-right of highlighted cell - Light Mode](/images/excel-drag.light.png){.light-mode-image}
 
-    For example, if your first row’s relationship was `=D4*C4`, then second row would get `=D5*C5`, third row would get `=D6*C6`, and so on and so forth.
+Click on that, and while it remains clicked / pressed, drag it down to cover the other rows. You’d notice how the formula gets copied on the cells in other rows, but somehow magically Excel keeps selecting right cells from that row (and not from the first row).
 
-    Excel would keep incrementing row numbers in cell ID as you drag vertically down.
+For example, if your first row’s relationship was `=D4*C4`, then second row would get `=D5*C5`, third row would get `=D6*C6`, and so on and so forth.
+
+Excel would keep incrementing row numbers in cell ID as you drag vertically down.
 
 Here’s a video to help guide you alone with the above steps:
 

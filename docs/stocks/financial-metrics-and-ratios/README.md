@@ -22,4 +22,4 @@ When we say trend, think of Google Trends. Plotting financial ratio data points 
 
 In the following sections, we'll take a look at various financial ratios, their implications, and their relevance across different sectors.
 
-{% page-ref page="profitability.md" %}
+[](profitability.md){ .md-button }

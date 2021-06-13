@@ -4,7 +4,7 @@
 
 Refer to our FAQ on Best platform / app for buying mutual funds.
 
-{% page-ref page="../../faqs/mfs/best-mutual-fund-app-for-investments.md" %}
+[](../../faqs/mfs/best-mutual-fund-app-for-investments.md){ .md-button }
 
 ### **Are MFs also stored in demat?**
 

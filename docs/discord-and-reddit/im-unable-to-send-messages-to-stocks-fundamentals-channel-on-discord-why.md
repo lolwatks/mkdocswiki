@@ -2,7 +2,7 @@
 description: This is done to cull low-effort speculative queries on stocks. Share your thesis in the popular channels. You'd be able to earn the role to post in that channel.
 ---
 
-# I cannot send messages to stocks-fundamentals channel on Discord. Why?
+# I'm unable to send messages to stocks-fundamentals channel on Discord. Why?
 
 ???+ success
     **NOTE**: As of 1st April, 2021; we've opened this channel up for everyone on our Discord. It's our belief that the community now has enough guard-rails and helpful materials to fall back on, should anyone need help with discussing how to pick stocks.  

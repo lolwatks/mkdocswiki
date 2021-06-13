@@ -18,7 +18,7 @@ Keep these in mind when building a chapter / section of excel.
 
 Start with the general style guide section
 
-{% page-ref page="general-style-guide.md" %}
+[](general-style-guide.md){ .md-button }
 
 Other than these, you should keep these in mind
 

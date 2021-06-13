@@ -35,8 +35,8 @@ Fortunately, most spreadsheet / excel applications have in-built functionalities
 
 We'd go over some interesting calculations that can be done upon your transaction history, that's available in CSV format, in these chapters:
 
-{% page-ref page="csv-format.md" %}
+[](csv-format.md){ .md-button }
 
-{% page-ref page="computing-ltcg-eligible-equity-units.md" %}
+[](computing-ltcg-eligible-equity-units.md){ .md-button }
 
-{% page-ref page="process-for-estimating-tax.md" %}
+[](process-for-estimating-tax.md){ .md-button }

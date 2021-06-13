@@ -319,11 +319,11 @@ Unlike a few years ago, we have many platforms today that offer investment in di
 
 If you’re wondering which website / app you should use to invest in direct plans, check out the following article.
 
-{% page-ref page="best-mutual-fund-app-for-investments.md" %}
+[](best-mutual-fund-app-for-investments.md){ .md-button }
 
 If you’re wondering which mutual fund should you invest in, check out the following article.
 
-{% page-ref page="whats-the-best-mutual-fund-i-can-invest-in.md" %}
+[](whats-the-best-mutual-fund-i-can-invest-in.md){ .md-button }
 
 We’d like to mention that choosing a “good” or a “best” fund isn’t important or required. Pick a decent actively managed fund and stick with it unless something fundamental changes about the fund. Or, if you’re still confused, pick an index fund and call it a day. The choice of the fund isn’t as important as sticking to that fund and investing in it in the face of market turbulence.
 

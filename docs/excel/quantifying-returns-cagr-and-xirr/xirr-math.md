@@ -18,7 +18,7 @@ Popularly, compounding formula is written as $$P\times(1+r)^t$$.
 
 Instead of $$P\times(1+r)^t$$, where $$(1+r)^t$$ is being multiplied with the value of $$P$$; in *discounting*, we’d do the opposite, to denote **decay over time**.
 
-Discounted value of PP after a time duration $$t$$, can be written as $$\frac{P}{(1 + r)^t}$$
+Discounted value of $$P$$ after a time duration $$t$$, can be written as $$\displaystyle\frac{P}{(1 + r)^t}$$
 
 In case of compounding, with time, the final value increases.
 
@@ -43,14 +43,14 @@ This format should be quite familiar. We’ve merely replaced the actual numbers
 
 We’d add one more column to, to add discounted values
 
-|    Date     |  Cashflow   |                             Discounted Cashflow                             |
-|:-----------:|:-----------:|:---------------------------------------------------------------------------:|
-|   $$t_0$$   |   $$P_0$$   |                                   $$P_0$$                                   |
-|   $$t_1$$   |   $$P_1$$   |   $$\displaystyle \frac{P_1}{(1 + r)^{[\frac{(t_1 - t_0)}{\Delta T}]}}$$    |
-|   $$t_2$$   |   $$P_2$$   |    $$\displaystyle\frac{P_2}{(1 + r)^{[\frac{(t_2 - t_0)}{\Delta T}]}}$$    |
-|   $$t_3$$   |   $$P_3$$   |    $$\displaystyle\frac{P_3}{(1 + r)^{[\frac{(t_3 - t_0)}{\Delta T}]}}$$    |
-|   ......    |   ......    |                                   ......                                    |
-| $$t_{n−1}$$ | $$P_{n−1}$$ | $$\displaystyle\frac{P{n-1}}{(1 + r)^{[\frac{(t{n-1} - t_0)}{\Delta T}]}}$$ |
+|    Date     |  Cashflow   |                                   Discounted Cashflow                                    |
+|:-----------:|:-----------:|:----------------------------------------------------------------------------------------:|
+|   $$t_0$$   |   $$P_0$$   |                                         $$P_0$$                                          |
+|   $$t_1$$   |   $$P_1$$   |   $$\displaystyle \frac{P_1}{(1 + r)^{[\displaystyle\frac{(t_1 - t_0)}{\Delta T}]}}$$    |
+|   $$t_2$$   |   $$P_2$$   |    $$\displaystyle\frac{P_2}{(1 + r)^{[\displaystyle\frac{(t_2 - t_0)}{\Delta T}]}}$$    |
+|   $$t_3$$   |   $$P_3$$   |    $$\displaystyle\frac{P_3}{(1 + r)^{[\displaystyle\frac{(t_3 - t_0)}{\Delta T}]}}$$    |
+|   ......    |   ......    |                                          ......                                          |
+| $$t_{n−1}$$ | $$P_{n−1}$$ | $$\displaystyle\frac{P{n-1}}{(1 + r)^{[\displaystyle\frac{(t{n-1} - t_0)}{\Delta T}]}}$$ |
 
 Third column entries might look a bit cumbersome at first, but we’ve basically expanded on $$(1 + r)^X$$, where $$X$$ is $$\displaystyle\frac{(t - t_0)}{\Delta T}$$.
 
@@ -63,13 +63,13 @@ Notice the first row of the above table, it’s just $$P_0$$. Because every disc
 ???+ info
     Remember from your school days, that *anything raised to the power of zero, is 1 in value*.
 
-Mathematically, $$\displaystyle\frac{P_0}{(1 + r)^{[\frac{(t_0 - t_0)}{\Delta T}]}} = P_0$$
+Mathematically, $$\displaystyle\frac{P_0}{(1 + r)^{[ \displaystyle\frac{(t_0 - t_0)}{\Delta T}]}} = P_0$$
 
 ### Net Present Value
 
 NPV (**N**et **P**resent **V**alue) of the above cashflow is sum of all discounted cashflows:
 
-$$NPV = P_0 + \displaystyle\frac{P_1}{(1 + r)^{[\frac{(t_1 - t_0)}{\Delta T}]}} + \displaystyle\frac{P_2}{(1 + r)^{[\frac{(t_2 - t_0)}{\Delta T}]}} + \displaystyle\frac{P_3}{(1 + r)^{[\frac{(t_3 - t_0)}{\Delta T}]}} + ... + \displaystyle\frac{P_{n-1}}{(1 + r)^{[\frac{(t_{n-1} - t_0)}{\Delta T}]}}$$
+$$NPV = P_0 + \displaystyle\frac{P_1}{(1 + r)^{[\displaystyle\frac{(t_1 - t_0)}{\Delta T}]}} + \displaystyle\frac{P_2}{(1 + r)^{[\displaystyle\frac{(t_2 - t_0)}{\Delta T}]}} + \displaystyle\frac{P_3}{(1 + r)^{[\displaystyle\frac{(t_3 - t_0)}{\Delta T}]}} + ... + \displaystyle\frac{P_{n-1}}{(1 + r)^{[\displaystyle\frac{(t_{n-1} - t_0)}{\Delta T}]}}$$
 
 Which can also be written as
 
